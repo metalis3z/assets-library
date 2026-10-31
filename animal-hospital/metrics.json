@@ -1,0 +1,464 @@
+{
+ "slug": "animal-hospital",
+ "title": "Animal Hospital",
+ "genre": "roleplay / tycoon",
+ "provenance": "template with full source",
+ "ui": {
+  "gui_objects": 353,
+  "screen_guis": 26,
+  "classes": {
+   "TextLabel": 130,
+   "ImageLabel": 117,
+   "Frame": 83,
+   "UIStroke": 82,
+   "UIAspectRatioConstraint": 56,
+   "UIGradient": 32,
+   "UIPadding": 29,
+   "SurfaceGui": 29,
+   "ScreenGui": 26,
+   "LocalScript": 24,
+   "UITextSizeConstraint": 18,
+   "Decal": 17,
+   "UICorner": 16,
+   "UIListLayout": 14,
+   "BillboardGui": 14,
+   "TextButton": 13,
+   "Folder": 10,
+   "UIScale": 9,
+   "ViewportFrame": 5,
+   "ImageButton": 5,
+   "WorldModel": 4,
+   "Part": 4,
+   "NumberValue": 4,
+   "Sound": 2,
+   "ModuleScript": 1
+  },
+  "fonts": {
+   "Silkscreen Regular": 20,
+   "Noto Serif SC Bold": 20,
+   "Noto Serif SC Regular": 17,
+   "Fuzzy Bubbles Bold": 13,
+   "Inconsolata Regular": 8,
+   "Inconsolata Bold": 8,
+   "GothamSSm Medium": 6,
+   "IndieFlower Medium": 6,
+   "Noto Serif SC Medium": 6,
+   "RobotoMono Bold": 5,
+   "SpecialElite Regular": 4,
+   "SpecialElite Bold": 4
+  },
+  "background_colors": {
+   "#000000": 35,
+   "#ffffff": 8,
+   "#787a81": 3,
+   "#db4aff": 2,
+   "#121212": 2,
+   "#1c1c28": 1,
+   "#ffe228": 1,
+   "#fffb00": 1,
+   "#2dd20b": 1,
+   "#ff0000": 1,
+   "#8b8d94": 1,
+   "#ff2600": 1,
+   "#a3a2a5": 1,
+   "#867876": 1
+  },
+  "text_colors": {
+   "#ffffff": 58,
+   "#000000": 23,
+   "#ff2600": 10,
+   "#b2b1b3": 4,
+   "#009202": 4,
+   "#1b2a35": 4,
+   "#b2b2b2": 4,
+   "#00f900": 3,
+   "#ffc637": 3,
+   "#ff0900": 3
+  },
+  "stroke_colors": {
+   "#000000": 67,
+   "#ffffff": 8,
+   "#000a01": 4,
+   "#00f900": 2,
+   "#cfcfcf": 1
+  },
+  "image_tints": {
+   "#000000": 21,
+   "#41ff40": 3,
+   "#ff606f": 3,
+   "#fcffdf": 2,
+   "#00ff27": 2,
+   "#fefcff": 2,
+   "#9854ff": 1,
+   "#ff0000": 1,
+   "#ff2600": 1,
+   "#ffbe6e": 1
+  },
+  "corner_radius": {
+   "{0.5,0}": 7,
+   "{0.25,0}": 3,
+   "{1.0,0}": 2,
+   "{0.0,10}": 1,
+   "{0.0,5}": 1,
+   "{0.02,0}": 1,
+   "{0.0,8}": 1
+  },
+  "stroke_thickness": {
+   "1.0 px": 39,
+   "2.0 px": 34,
+   "5.0 px": 4,
+   "3.0 px": 3,
+   "1.5 px": 1,
+   "4.0 px": 1
+  },
+  "text_size_px": {
+   "14": 10,
+   "8": 4,
+   "20": 4
+  },
+  "text_scaled_share": 0.87,
+  "size_mode": {
+   "scale": 330,
+   "mixed": 20,
+   "offset": 3
+  },
+  "unique_images": 47,
+  "per_100_objects": {
+   "UICorner": 4.5,
+   "UIStroke": 23.2,
+   "UIGradient": 9.1,
+   "UIAspectRatioConstraint": 15.9,
+   "UIListLayout": 4.0,
+   "UIGridLayout": 0.0,
+   "UIPadding": 8.2,
+   "UIScale": 2.5,
+   "UITextSizeConstraint": 5.1,
+   "ImageLabel": 33.1,
+   "ImageButton": 1.4,
+   "TextButton": 3.7
+  }
+ },
+ "map": {
+  "instances": 7176,
+  "parts": 3765,
+  "meshparts": 253,
+  "unions": 34,
+  "anchored_share": 0.94,
+  "textures_decals": 187,
+  "surface_appearances": 7,
+  "lights": 56,
+  "emitters": 17,
+  "beams_trails": 3,
+  "sounds": 280,
+  "prompts": 120,
+  "world_guis": 219,
+  "humanoids": 2,
+  "materials": {
+   "SmoothPlastic": 1448,
+   "Plastic": 845,
+   "Metal": 498,
+   "Concrete": 479,
+   "Brick": 133,
+   "Wood": 114,
+   "Neon": 77,
+   "Fabric": 38,
+   "Material2306": 31,
+   "WoodPlanks": 28,
+   "Slate": 16,
+   "Glass": 14
+  },
+  "part_colors": {
+   "#a3a2a5": 590,
+   "#f8f8f8": 359,
+   "#635f62": 343,
+   "#1b2a35": 329,
+   "#d1d1c1": 244,
+   "#f2f3f3": 196,
+   "#5b5d69": 176,
+   "#cdcdcd": 157,
+   "#9fa1ac": 132,
+   "#95a4b3": 96,
+   "#111111": 79,
+   "#80bbdb": 56,
+   "#af9483": 55,
+   "#737e81": 47
+  },
+  "lobby_zones": [],
+  "extent_studs": [
+   184,
+   18,
+   229
+  ],
+  "extent_all_studs": [
+   1000,
+   59,
+   1000
+  ],
+  "top_classes": {
+   "Part": 3437,
+   "Model": 597,
+   "WeldConstraint": 355,
+   "Sound": 280,
+   "MeshPart": 253,
+   "TextLabel": 164,
+   "ImageLabel": 160,
+   "Weld": 147,
+   "BillboardGui": 138,
+   "SpecialMesh": 131,
+   "Bone": 121,
+   "Decal": 120,
+   "ProximityPrompt": 120,
+   "Frame": 109,
+   "CFrameValue": 96
+  }
+ },
+ "lighting": {
+  "Ambient": "#91979d",
+  "Brightness": 0.0,
+  "ColorShift_Bottom": "#ff557f",
+  "ColorShift_Top": "#616566",
+  "DefinesCapabilities": false,
+  "EnvironmentDiffuseScale": 0.25,
+  "EnvironmentSpecularScale": 0.25,
+  "ExposureCompensation": 0.0,
+  "ExtendLightRangeTo120": 0,
+  "FogColor": "#c0c0c0",
+  "FogEnd": 100000.0,
+  "FogStart": 0.0,
+  "GeographicLatitude": 0.0,
+  "GlobalShadows": true,
+  "LightingStyle": 0,
+  "Name": "Lighting",
+  "OutdoorAmbient": "#000000",
+  "Outlines": false,
+  "PrioritizeLightingQuality": true,
+  "ShadowSoftness": 0.2,
+  "Technology": "ShadowMap",
+  "TimeOfDay": "20:00:00",
+  "@attributes": {
+   "RBX_LightingTechnologyUnifiedMigration": true,
+   "RBX_OriginalTechnologyOnFileLoad": "<unknown attr type 0x04>"
+  }
+ },
+ "post": [
+  {
+   "class": "Atmosphere",
+   "name": "Atmosphere",
+   "props": {
+    "Color": "#b4b4b4",
+    "Decay": "#5a6473",
+    "DefinesCapabilities": false,
+    "Density": 0.4,
+    "Glare": 10.0,
+    "Haze": 0.01,
+    "Name": "Atmosphere",
+    "Offset": 0.9
+   }
+  },
+  {
+   "class": "Sky",
+   "name": "DreamyOcean",
+   "props": {
+    "CelestialBodiesShown": true,
+    "DefinesCapabilities": false,
+    "MoonAngularSize": 11.0,
+    "MoonTextureId": "rbxasset://sky/moon.jpg",
+    "Name": "DreamyOcean",
+    "SkyboxBk": "http://www.roblox.com/asset/?id=188914951",
+    "SkyboxDn": "http://www.roblox.com/asset/?id=188914976",
+    "SkyboxFt": "http://www.roblox.com/asset/?id=188914995",
+    "SkyboxLf": "http://www.roblox.com/asset/?id=188915051",
+    "SkyboxOrientation": [
+     0.0,
+     0.0,
+     0.0
+    ],
+    "SkyboxRt": "http://www.roblox.com/asset/?id=188915064",
+    "SkyboxUp": "http://www.roblox.com/asset/?id=188915071",
+    "StarCount": 1000,
+    "SunAngularSize": 21.0,
+    "SunTextureId": ""
+   }
+  },
+  {
+   "class": "BloomEffect",
+   "name": "Bloom",
+   "props": {
+    "DefinesCapabilities": false,
+    "Enabled": true,
+    "Intensity": 1.0,
+    "Name": "Bloom",
+    "Size": 24.0,
+    "Threshold": 2.0
+   }
+  },
+  {
+   "class": "BlurEffect",
+   "name": "Blur",
+   "props": {
+    "DefinesCapabilities": false,
+    "Enabled": true,
+    "Name": "Blur",
+    "Size": 1.0
+   }
+  },
+  {
+   "class": "ColorCorrectionEffect",
+   "name": "ColorCorrection",
+   "props": {
+    "Brightness": 0.0,
+    "Contrast": 0.3,
+    "DefinesCapabilities": false,
+    "Enabled": true,
+    "Name": "ColorCorrection",
+    "Saturation": 1.0,
+    "TintColor": "#f3f2ff"
+   }
+  },
+  {
+   "class": "DepthOfFieldEffect",
+   "name": "DepthOfField",
+   "props": {
+    "DefinesCapabilities": false,
+    "Enabled": true,
+    "FarIntensity": 0.025,
+    "FocusDistance": 0.05,
+    "InFocusRadius": 50.0,
+    "Name": "DepthOfField",
+    "NearIntensity": 0.044
+   }
+  },
+  {
+   "class": "SunRaysEffect",
+   "name": "SunRays",
+   "props": {
+    "DefinesCapabilities": false,
+    "Enabled": false,
+    "Intensity": 0.25,
+    "Name": "SunRays",
+    "Spread": 1.0
+   }
+  }
+ ],
+ "terrain": {
+  "AcquisitionMethod": 0,
+  "Anchored": true,
+  "AudioCanCollide": true,
+  "BackParamA": -0.5,
+  "BackParamB": 0.5,
+  "BackSurface": 0,
+  "BackSurfaceInput": 0,
+  "BottomParamA": -0.5,
+  "BottomParamB": 0.5,
+  "BottomSurface": 4,
+  "BottomSurfaceInput": 0,
+  "CFrame": {
+   "pos": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "rot": 2
+  },
+  "CanCollide": true,
+  "CanQuery": true,
+  "CanTouch": true,
+  "CastShadow": true,
+  "CollisionGroup": "Default",
+  "CollisionGroupId": 0,
+  "Color3uint8": "#a3a2a5",
+  "Decoration": true,
+  "DefinesCapabilities": false,
+  "EnableFluidForces": true,
+  "FrontParamA": -0.5,
+  "FrontParamB": 0.5,
+  "FrontSurface": 0,
+  "FrontSurfaceInput": 0,
+  "GrassLength": 0.7,
+  "LeftParamA": -0.5,
+  "LeftParamB": 0.5,
+  "LeftSurface": 0,
+  "LeftSurfaceInput": 0,
+  "Locked": true,
+  "Massless": false,
+  "Material": 256,
+  "MaterialVariantSerialized": "",
+  "Materials": "",
+  "Name": "Terrain",
+  "PivotOffset": {
+   "pos": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "rot": 2
+  },
+  "Reflectance": 0.0,
+  "RightParamA": -0.5,
+  "RightParamB": 0.5,
+  "RightSurface": 0,
+  "RightSurfaceInput": 0,
+  "RootPriority": 0,
+  "RotVelocity": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "SmoothVoxelsUpgraded": false,
+  "TopParamA": -0.5,
+  "TopParamB": 0.5,
+  "TopSurface": 3,
+  "TopSurfaceInput": 0,
+  "Transparency": 0.0,
+  "Velocity": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "WaterColor": "#0c545c",
+  "WaterReflectance": 1.0,
+  "WaterTransparency": 0.3,
+  "WaterWaveSize": 0.15,
+  "WaterWaveSpeed": 10.0,
+  "size": [
+   2044.0,
+   252.0,
+   2044.0
+  ],
+  "voxel_data_bytes": 2
+ },
+ "workspace": {
+  "AirDensity": 0.0012,
+  "FallenPartsDestroyHeight": -500.0,
+  "GlobalWind": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "Gravity": 196.2,
+  "StreamingEnabled": false,
+  "StreamingMinRadius": 64,
+  "StreamingTargetRadius": 1024,
+  "@attributes": {
+   "LogLevel": "Warning",
+   "LogLevelClient": "Warning"
+  }
+ },
+ "packs": {
+  "ui": 70,
+  "ui-kit": 1,
+  "map": 1,
+  "audio": 7,
+  "lighting": 1,
+  "parts": 7,
+  "model": 319,
+  "vfx": 5,
+  "animations": 3,
+  "model-set": 15
+ },
+ "keyframe_sequences": 0,
+ "animation_ids": 71,
+ "sound_ids": 720,
+ "files": 423,
+ "kb": 3870
+}

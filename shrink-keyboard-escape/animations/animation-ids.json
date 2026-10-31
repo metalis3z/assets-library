@@ -1,0 +1,12 @@
+[
+ {
+  "name": "WingIdleAnim",
+  "path": "ReplicatedStorage.Shared.Assets.Wings.Wing.WingIdleAnim",
+  "id": "rbxassetid://121245124125403"
+ },
+ {
+  "name": "WingFlyAnim",
+  "path": "ReplicatedStorage.Shared.Assets.Wings.Wing.WingFlyAnim",
+  "id": "rbxassetid://100496482264773"
+ }
+]

@@ -1,0 +1,18 @@
+[
+ {
+  "name": "Sound",
+  "path": "Workspace.Game.Items.Flaslight.Sound",
+  "id": "rbxassetid://198914875",
+  "volume": 2.0,
+  "looped": false,
+  "speed": 1.0
+ },
+ {
+  "name": "equip",
+  "path": "Workspace.Game.Items.Flaslight.equip",
+  "id": "rbxassetid://4458750140",
+  "volume": 0.5,
+  "looped": false,
+  "speed": 1.0
+ }
+]

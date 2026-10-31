@@ -1,0 +1,49 @@
+{
+ "slug": "trade-system",
+ "title": "Trade System V1",
+ "genre": "system module (trading UI + service)",
+ "provenance": "template with full source",
+ "ui": {
+  "gui_objects": 0,
+  "screen_guis": 0,
+  "classes": {},
+  "fonts": {},
+  "background_colors": {},
+  "text_colors": {},
+  "stroke_colors": {},
+  "image_tints": {},
+  "corner_radius": {},
+  "stroke_thickness": {},
+  "text_size_px": {},
+  "text_scaled_share": null,
+  "size_mode": {},
+  "unique_images": 0,
+  "per_100_objects": {
+   "UICorner": 0,
+   "UIStroke": 0,
+   "UIGradient": 0,
+   "UIAspectRatioConstraint": 0,
+   "UIListLayout": 0,
+   "UIGridLayout": 0,
+   "UIPadding": 0,
+   "UIScale": 0,
+   "UITextSizeConstraint": 0,
+   "ImageLabel": 0,
+   "ImageButton": 0,
+   "TextButton": 0
+  }
+ },
+ "map": {},
+ "lighting": {},
+ "post": [],
+ "terrain": {},
+ "workspace": {},
+ "packs": {
+  "ui": 1
+ },
+ "keyframe_sequences": 0,
+ "animation_ids": 0,
+ "sound_ids": 0,
+ "files": 1,
+ "kb": 24
+}

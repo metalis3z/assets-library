@@ -1,0 +1,274 @@
+[
+ {
+  "name": "Levelup",
+  "path": "SoundService.SFX.Levelup",
+  "id": "rbxassetid://107790716065550",
+  "volume": 0.5,
+  "looped": false,
+  "speed": 1.0
+ },
+ {
+  "name": "Confetti",
+  "path": "SoundService.SFX.Confetti",
+  "id": "rbxassetid://73743814975286",
+  "volume": 0.5,
+  "looped": false,
+  "speed": 1.0
+ },
+ {
+  "name": "Info",
+  "path": "SoundService.SFX.Info",
+  "id": "rbxassetid://99648230469932",
+  "volume": 0.5,
+  "looped": false,
+  "speed": 1.0
+ },
+ {
+  "name": "FlashRed",
+  "path": "SoundService.SFX.FlashRed",
+  "id": "rbxassetid://139063727738556",
+  "volume": 1.0,
+  "looped": false,
+  "speed": 1.0
+ },
+ {
+  "name": "FlashGreen",
+  "path": "SoundService.SFX.FlashGreen",
+  "id": "rbxassetid://114452572465074",
+  "volume": 1.0,
+  "looped": false,
+  "speed": 1.0
+ },
+ {
+  "name": "PopupOpen",
+  "path": "SoundService.SFX.PopupOpen",
+  "id": "rbxassetid://72264591133889",
+  "volume": 0.5,
+  "looped": false,
+  "speed": 1.0
+ },
+ {
+  "name": "Bell",
+  "path": "SoundService.SFX.Bell",
+  "id": "rbxassetid://127488139302452",
+  "volume": 2.0,
+  "looped": false,
+  "speed": 1.0
+ },
+ {
+  "name": "Win",
+  "path": "SoundService.SFX.Win",
+  "id": "rbxassetid://139259867194012",
+  "volume": 0.5,
+  "looped": false,
+  "speed": 1.0
+ },
+ {
+  "name": "ShakeTrophy",
+  "path": "SoundService.SFX.ShakeTrophy",
+  "id": "rbxassetid://2588572365",
+  "volume": 0.5,
+  "looped": false,
+  "speed": 1.0
+ },
+ {
+  "name": "PlacedownTreadmill",
+  "path": "SoundService.SFX.PlacedownTreadmill",
+  "id": "rbxassetid://123469584917030",
+  "volume": 0.5,
+  "looped": false,
+  "speed": 1.0
+ },
+ {
+  "name": "Boss Stomp",
+  "path": "SoundService.SFX.Boss Stomp",
+  "id": "rbxassetid://82043924242819",
+  "volume": 4.0,
+  "looped": false,
+  "speed": 1.0
+ },
+ {
+  "name": "sparkles",
+  "path": "SoundService.SFX.sparkles",
+  "id": "rbxassetid://90864973986637",
+  "volume": 0.5,
+  "looped": false,
+  "speed": 1.0
+ },
+ {
+  "name": "FlashWhite",
+  "path": "SoundService.SFX.FlashWhite",
+  "id": "rbxassetid://118315466257318",
+  "volume": 0.5,
+  "looped": false,
+  "speed": 1.0
+ },
+ {
+  "name": "Sparkle",
+  "path": "SoundService.SFX.Sparkle",
+  "id": "rbxassetid://109727714379123",
+  "volume": 0.5,
+  "looped": false,
+  "speed": 1.0
+ },
+ {
+  "name": "Count",
+  "path": "SoundService.SFX.Count",
+  "id": "rbxassetid://124836733079278",
+  "volume": 0.5,
+  "looped": false,
+  "speed": 1.0
+ },
+ {
+  "name": "Click2",
+  "path": "SoundService.SFX.Keyboard.Click2",
+  "id": "rbxassetid://127105730240202",
+  "volume": 0.5,
+  "looped": false,
+  "speed": 1.0
+ },
+ {
+  "name": "Click1",
+  "path": "SoundService.SFX.Keyboard.Click1",
+  "id": "rbxassetid://72826565018765",
+  "volume": 5.0,
+  "looped": false,
+  "speed": 1.0
+ },
+ {
+  "name": "Slime",
+  "path": "SoundService.SFX.Keyboard.Slime",
+  "id": "rbxassetid://78199623171712",
+  "volume": 0.5,
+  "looped": false,
+  "speed": 1.0
+ },
+ {
+  "name": "BlueAlps",
+  "path": "SoundService.SFX.Keyboard.BlueAlps",
+  "id": "rbxassetid://78161789475657",
+  "volume": 2.0,
+  "looped": false,
+  "speed": 1.0
+ },
+ {
+  "name": "BlackInk",
+  "path": "SoundService.SFX.Keyboard.BlackInk",
+  "id": "rbxassetid://79016584763875",
+  "volume": 2.0,
+  "looped": false,
+  "speed": 1.0
+ },
+ {
+  "name": "Alpaca",
+  "path": "SoundService.SFX.Keyboard.Alpaca",
+  "id": "rbxassetid://80265722184201",
+  "volume": 2.0,
+  "looped": false,
+  "speed": 1.0
+ },
+ {
+  "name": "BoxNavy",
+  "path": "SoundService.SFX.Keyboard.BoxNavy",
+  "id": "rbxassetid://93843981512955",
+  "volume": 2.0,
+  "looped": false,
+  "speed": 1.0
+ },
+ {
+  "name": "Creamy",
+  "path": "SoundService.SFX.Keyboard.Creamy",
+  "id": "rbxassetid://84308924965193",
+  "volume": 2.0,
+  "looped": false,
+  "speed": 1.0
+ },
+ {
+  "name": "Panda",
+  "path": "SoundService.SFX.Keyboard.Panda",
+  "id": "rbxassetid://70855217090367",
+  "volume": 2.0,
+  "looped": false,
+  "speed": 1.0
+ },
+ {
+  "name": "CherryBlack",
+  "path": "SoundService.SFX.Keyboard.CherryBlack",
+  "id": "rbxassetid://120288024632907",
+  "volume": 2.0,
+  "looped": false,
+  "speed": 1.0
+ },
+ {
+  "name": "CherryBlue",
+  "path": "SoundService.SFX.Keyboard.CherryBlue",
+  "id": "rbxassetid://92630257710948",
+  "volume": 2.0,
+  "looped": false,
+  "speed": 1.0
+ },
+ {
+  "name": "CherryBrown",
+  "path": "SoundService.SFX.Keyboard.CherryBrown",
+  "id": "rbxassetid://74061476198283",
+  "volume": 2.0,
+  "looped": false,
+  "speed": 1.0
+ },
+ {
+  "name": "RedInk",
+  "path": "SoundService.SFX.Keyboard.RedInk",
+  "id": "rbxassetid://115362784580644",
+  "volume": 2.0,
+  "looped": false,
+  "speed": 1.0
+ },
+ {
+  "name": "Topre",
+  "path": "SoundService.SFX.Keyboard.Topre",
+  "id": "rbxassetid://95454495400518",
+  "volume": 2.0,
+  "looped": false,
+  "speed": 1.0
+ },
+ {
+  "name": "Turquoise",
+  "path": "SoundService.SFX.Keyboard.Turquoise",
+  "id": "rbxassetid://92584081732205",
+  "volume": 2.0,
+  "looped": false,
+  "speed": 1.0
+ },
+ {
+  "name": "Click3",
+  "path": "SoundService.SFX.Keyboard.Click3",
+  "id": "rbxassetid://84308924965193",
+  "volume": 2.0,
+  "looped": false,
+  "speed": 1.0
+ },
+ {
+  "name": "Wave",
+  "path": "SoundService.SFX.Proximity.Wave",
+  "id": "rbxassetid://125442735185102",
+  "volume": 1.0,
+  "looped": false,
+  "speed": 1.0
+ },
+ {
+  "name": "WallMoving",
+  "path": "SoundService.SFX.Proximity.WallMoving",
+  "id": "rbxassetid://132424495424287",
+  "volume": 0.07,
+  "looped": true,
+  "speed": 1.0
+ },
+ {
+  "name": "FlashWhite2",
+  "path": "SoundService.SFX.FlashWhite2",
+  "id": "rbxassetid://116975598122611",
+  "volume": 0.5,
+  "looped": false,
+  "speed": 1.0
+ }
+]

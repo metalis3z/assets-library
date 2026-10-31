@@ -1,0 +1,405 @@
+Automatic scan. HIGH = review before publishing; MED = check what it does; INFO = context.
+
+[HIGH] scripts/Lighting/.44 MAGNUM/Script.server.luau lines 14
+       require() of an asset id: loads code from the Creator Store at runtime
+[HIGH] scripts/Lighting/ACID SPLITTER/Script.server.luau lines 14
+       require() of an asset id: loads code from the Creator Store at runtime
+[HIGH] scripts/Lighting/AK-47/Script.server.luau lines 14
+       require() of an asset id: loads code from the Creator Store at runtime
+[HIGH] scripts/Lighting/AUG/Script.server.luau lines 14
+       require() of an asset id: loads code from the Creator Store at runtime
+[HIGH] scripts/Lighting/BLACK MATTER  SPLITTER/Script.server.luau lines 14
+       require() of an asset id: loads code from the Creator Store at runtime
+[HIGH] scripts/Lighting/Barret 50/Script.server.luau lines 16
+       require() of an asset id: loads code from the Creator Store at runtime
+[HIGH] scripts/Lighting/D. Eagle/Script.server.luau lines 14
+       require() of an asset id: loads code from the Creator Store at runtime
+[HIGH] scripts/Lighting/Falkor/Script.server.luau lines 14
+       require() of an asset id: loads code from the Creator Store at runtime
+[HIGH] scripts/Lighting/Frost Blaster/Script.server.luau lines 14
+       require() of an asset id: loads code from the Creator Store at runtime
+[HIGH] scripts/Lighting/Frost Rifle/Script.server.luau lines 16
+       require() of an asset id: loads code from the Creator Store at runtime
+[HIGH] scripts/Lighting/Golden Minigun 2/Script.server.luau lines 14
+       require() of an asset id: loads code from the Creator Store at runtime
+[HIGH] scripts/Lighting/Golden Minigun/Script.server.luau lines 14
+       require() of an asset id: loads code from the Creator Store at runtime
+[HIGH] scripts/Lighting/HuntingRifle/Script.server.luau lines 16
+       require() of an asset id: loads code from the Creator Store at runtime
+[HIGH] scripts/Lighting/Laser Pistol/Script.server.luau lines 14
+       require() of an asset id: loads code from the Creator Store at runtime
+[HIGH] scripts/Lighting/M4A1/Script.server.luau lines 14
+       require() of an asset id: loads code from the Creator Store at runtime
+[HIGH] scripts/Lighting/MG42/Script.server.luau lines 14
+       require() of an asset id: loads code from the Creator Store at runtime
+[HIGH] scripts/Lighting/MachineGun/Script.server.luau lines 14
+       require() of an asset id: loads code from the Creator Store at runtime
+[HIGH] scripts/Lighting/Minigun(dual barrels + laser)/Script.server.luau lines 14
+       require() of an asset id: loads code from the Creator Store at runtime
+[HIGH] scripts/Lighting/Minigun(dual barrels)/Script.server.luau lines 14
+       require() of an asset id: loads code from the Creator Store at runtime
+[HIGH] scripts/Lighting/Minigun/Script.server.luau lines 14
+       require() of an asset id: loads code from the Creator Store at runtime
+[HIGH] scripts/Lighting/Ray Gun/Script.server.luau lines 14
+       require() of an asset id: loads code from the Creator Store at runtime
+[HIGH] scripts/Lighting/RocketLauncher/Script.server.luau lines 16
+       require() of an asset id: loads code from the Creator Store at runtime
+[HIGH] scripts/Lighting/Tommy Gun/Script.server.luau lines 14
+       require() of an asset id: loads code from the Creator Store at runtime
+[HIGH] scripts/Lighting/Toxic Gun 2/Script.server.luau lines 14
+       require() of an asset id: loads code from the Creator Store at runtime
+[HIGH] scripts/Lighting/Toxic Gun/Script.server.luau lines 14
+       require() of an asset id: loads code from the Creator Store at runtime
+[HIGH] scripts/Lighting/Toxic Minigun/Script.server.luau lines 14
+       require() of an asset id: loads code from the Creator Store at runtime
+[HIGH] scripts/Lighting/[GOLDEN] Flamethrower/Script.server.luau lines 14
+       require() of an asset id: loads code from the Creator Store at runtime
+[HIGH] scripts/StarterPlayer/StarterCharacterScripts/VrMode.server.luau lines 10
+       require() of an asset id: loads code from the Creator Store at runtime
+[HIGH] scripts/Workspace/HD Admin/Settings/Loader.server.luau lines 12
+       require() of an asset id: loads code from the Creator Store at runtime
+[HIGH] scripts/Workspace/MainModule.luau lines 81
+       code hidden far right of the line (whitespace padding)
+[HIGH] scripts/Workspace/MainModule/Client/Core/Anti.luau lines 485
+       loadstring: runs code built from a string
+[HIGH] scripts/Workspace/MainModule/Server/Dependencies/Assets/F3X Deps/Libraries/Cryo/List.luau lines 19
+       require() with a computed / hidden argument
+[HIGH] scripts/Workspace/MainModule/Server/Dependencies/Assets/F3X Deps/Libraries/Cryo/List/reverse.spec.luau lines 2
+       require() with a computed / hidden argument
+[HIGH] scripts/Workspace/MainModule/Server/Plugins/Server-Dex/Dex_Explorer/ExplorerPanel/LocalScript.client.luau lines 2333
+       loadstring: runs code built from a string
+[HIGH] scripts/Workspace/MainModule/Server/Plugins/Server-Dex/Dex_Explorer/PropertiesFrame/Properties/RawApiJson.luau lines 57520
+       LoadStringEnabled toggled from code
+[HIGH] scripts/Workspace/MainModule/Server/Plugins/Urgent_Messages.luau lines 15
+       require() of an asset id: loads code from the Creator Store at runtime
+[HIGH] scripts/Workspace/MainModule/Server/Shared/Changelog.luau lines 1708
+       require() of an asset id: loads code from the Creator Store at runtime
+[HIGH] scripts/Workspace/MainModule~2.luau lines 81
+       code hidden far right of the line (whitespace padding)
+[HIGH] scripts/Workspace/MainModule~2/Client/Core/Anti.luau lines 485
+       loadstring: runs code built from a string
+[HIGH] scripts/Workspace/MainModule~2/Server/Dependencies/Assets/F3X Deps/Libraries/Cryo/List.luau lines 19
+       require() with a computed / hidden argument
+[HIGH] scripts/Workspace/MainModule~2/Server/Dependencies/Assets/F3X Deps/Libraries/Cryo/List/reverse.spec.luau lines 2
+       require() with a computed / hidden argument
+[HIGH] scripts/Workspace/MainModule~2/Server/Dependencies/Assets/FlyClipper/Welding.server.luau lines 290,295
+       require() of an asset id: loads code from the Creator Store at runtime
+[HIGH] scripts/Workspace/MainModule~2/Server/Plugins/Server-Dex/Dex_Explorer/ExplorerPanel/LocalScript.client.luau lines 2333
+       loadstring: runs code built from a string
+[HIGH] scripts/Workspace/MainModule~2/Server/Plugins/Server-Dex/Dex_Explorer/PropertiesFrame/Properties/RawApiJson.luau lines 57520
+       LoadStringEnabled toggled from code
+[HIGH] scripts/Workspace/MainModule~2/Server/Plugins/Urgent_Messages.luau lines 15
+       require() of an asset id: loads code from the Creator Store at runtime
+[HIGH] scripts/Workspace/MainModule~2/Server/Shared/Changelog.luau lines 1708
+       require() of an asset id: loads code from the Creator Store at runtime
+[HIGH] scripts/Workspace/Model~5/Model~2/Model/Model~3/Model/Part/Fix.server.luau lines 290,295
+       require() of an asset id: loads code from the Creator Store at runtime
+[HIGH] scripts/Workspace/SafeHouse/House/Part~139/Part-to-Part Strong Joint~2/Fix.server.luau lines 290,295
+       require() of an asset id: loads code from the Creator Store at runtime
+[HIGH] scripts/Workspace/The rake Tools Anims/Map/Torso/Left Shoulder/DefaultC1/Debounce.server.luau lines 290,295
+       require() of an asset id: loads code from the Creator Store at runtime
+[HIGH] scripts/Workspace/The_Rake/Left Arm/left arm/Part~8/_.server.luau lines 290,295
+       require() of an asset id: loads code from the Creator Store at runtime
+[MED] scripts/ServerScriptService/Adonis_Loader/Loader/Loader.server.luau lines 122
+       getfenv()[...] call: reaches a global by computed name (can hide require / loadstring)
+[MED] scripts/ServerScriptService/Adonis_Loader/Loader/Loader.server.luau lines 122
+       getfenv / setfenv (environment tampering, common in backdoors)
+[MED] scripts/ServerScriptService/BloodS.server.luau lines 157
+       getfenv()[...] call: reaches a global by computed name (can hide require / loadstring)
+[MED] scripts/ServerScriptService/BloodS.server.luau lines 157
+       getfenv / setfenv (environment tampering, common in backdoors)
+[MED] scripts/ServerScriptService/LoadItems/Items/ERADICATOR/Main.server.luau lines 101
+       getfenv()[...] call: reaches a global by computed name (can hide require / loadstring)
+[MED] scripts/ServerScriptService/LoadItems/Items/ERADICATOR/Main.server.luau lines 101
+       getfenv / setfenv (environment tampering, common in backdoors)
+[MED] scripts/ServerScriptService/LoadItems/Items/RainbowStun/qPerfectionWeld.server.luau lines 242
+       getfenv()[...] call: reaches a global by computed name (can hide require / loadstring)
+[MED] scripts/ServerScriptService/LoadItems/Items/RainbowStun/qPerfectionWeld.server.luau lines 242
+       getfenv / setfenv (environment tampering, common in backdoors)
+[MED] scripts/ServerScriptService/LoadItems/Items/UvLamp/qPerfectionWeld.server.luau lines 242
+       getfenv()[...] call: reaches a global by computed name (can hide require / loadstring)
+[MED] scripts/ServerScriptService/LoadItems/Items/UvLamp/qPerfectionWeld.server.luau lines 242
+       getfenv / setfenv (environment tampering, common in backdoors)
+[MED] scripts/ServerScriptService/LoadItems/Items/Vitamins/Drop.server.luau lines 195
+       getfenv()[...] call: reaches a global by computed name (can hide require / loadstring)
+[MED] scripts/ServerScriptService/LoadItems/Items/Vitamins/Drop.server.luau lines 195
+       getfenv / setfenv (environment tampering, common in backdoors)
+[MED] scripts/Workspace/MainModule/Client/Client.luau lines 75,76,203,203,211,211,281,443
+       getfenv / setfenv (environment tampering, common in backdoors)
+[MED] scripts/Workspace/MainModule/Client/Core/Anti.luau lines 106,107,108,130
+       getfenv / setfenv (environment tampering, common in backdoors)
+[MED] scripts/Workspace/MainModule/Client/Core/Core.luau lines 102,103,104,172,172,223,223
+       getfenv / setfenv (environment tampering, common in backdoors)
+[MED] scripts/Workspace/MainModule/Client/Core/Functions.luau lines 84,85,86
+       getfenv / setfenv (environment tampering, common in backdoors)
+[MED] scripts/Workspace/MainModule/Client/Core/Process.luau lines 100,101,102
+       getfenv / setfenv (environment tampering, common in backdoors)
+[MED] scripts/Workspace/MainModule/Client/Core/Remote.luau lines 111,112,113
+       getfenv / setfenv (environment tampering, common in backdoors)
+[MED] scripts/Workspace/MainModule/Client/Core/UI.luau lines 86,87,88,151,281
+       getfenv / setfenv (environment tampering, common in backdoors)
+[MED] scripts/Workspace/MainModule/Client/Core/Variables.luau lines 91,92,93
+       getfenv / setfenv (environment tampering, common in backdoors)
+[MED] scripts/Workspace/MainModule/Server/Commands/Admins.luau lines 9
+       getfenv / setfenv (environment tampering, common in backdoors)
+[MED] scripts/Workspace/MainModule/Server/Commands/Creators.luau lines 9
+       getfenv / setfenv (environment tampering, common in backdoors)
+[MED] scripts/Workspace/MainModule/Server/Commands/Fun.luau lines 9
+       getfenv / setfenv (environment tampering, common in backdoors)
+[MED] scripts/Workspace/MainModule/Server/Commands/HeadAdmins.luau lines 9
+       getfenv / setfenv (environment tampering, common in backdoors)
+[MED] scripts/Workspace/MainModule/Server/Commands/Moderators.luau lines 9
+       getfenv / setfenv (environment tampering, common in backdoors)
+[MED] scripts/Workspace/MainModule/Server/Commands/Players.luau lines 9
+       getfenv / setfenv (environment tampering, common in backdoors)
+[MED] scripts/Workspace/MainModule/Server/Core/Commands.luau lines 56,83,83
+       getfenv / setfenv (environment tampering, common in backdoors)
+[MED] scripts/Workspace/MainModule/Server/Core/Core.luau lines 1141,1141
+       getfenv / setfenv (environment tampering, common in backdoors)
+[MED] scripts/Workspace/MainModule/Server/Core/Remote.luau lines 507
+       getfenv / setfenv (environment tampering, common in backdoors)
+[MED] scripts/Workspace/MainModule/Server/Dependencies/Assets/F3X Deps/Core.luau lines 1,176,361,401,1046
+       getfenv / setfenv (environment tampering, common in backdoors)
+[MED] scripts/Workspace/MainModule/Server/Dependencies/Assets/F3X Deps/Libraries/Debug.luau lines 67
+       getfenv / setfenv (environment tampering, common in backdoors)
+[MED] scripts/Workspace/MainModule/Server/Dependencies/Assets/F3X Deps/Libraries/SupportLibrary.luau lines 441
+       getfenv / setfenv (environment tampering, common in backdoors)
+[MED] scripts/Workspace/MainModule/Server/Dependencies/Assets/F3X Deps/SyncAPI/SyncModule.luau lines 1589,1621,1647,1661
+       HttpService request (calls an outside server)
+[MED] scripts/Workspace/MainModule/Server/Dependencies/ClientLoader.client.luau lines 92,92,120,219
+       getfenv / setfenv (environment tampering, common in backdoors)
+[MED] scripts/Workspace/MainModule/Server/Dependencies/ClientMover.client.luau lines 48,62,62
+       getfenv / setfenv (environment tampering, common in backdoors)
+[MED] scripts/Workspace/MainModule/Server/Dependencies/Loadstring.luau lines 33,37
+       getfenv / setfenv (environment tampering, common in backdoors)
+[MED] scripts/Workspace/MainModule/Server/Dependencies/LocalScriptBase.client.luau lines 6
+       getfenv / setfenv (environment tampering, common in backdoors)
+[MED] scripts/Workspace/MainModule/Server/Dependencies/ScriptBase.server.luau lines 6
+       getfenv / setfenv (environment tampering, common in backdoors)
+[MED] scripts/Workspace/MainModule/Server/Dependencies/ThreadHandler.luau lines 25,49,90,90
+       getfenv / setfenv (environment tampering, common in backdoors)
+[MED] scripts/Workspace/MainModule/Server/Dependencies/ThreadHandler/ClientThread.client.luau lines 6
+       getfenv / setfenv (environment tampering, common in backdoors)
+[MED] scripts/Workspace/MainModule/Server/Dependencies/ThreadHandler/ServerThread.server.luau lines 6
+       getfenv / setfenv (environment tampering, common in backdoors)
+[MED] scripts/Workspace/MainModule/Server/Dependencies/TrelloAPI.luau lines 43,106,124,142
+       HttpService request (calls an outside server)
+[MED] scripts/Workspace/MainModule/Server/Server.luau lines 85,85,194,194,203,203,285,431
+       getfenv / setfenv (environment tampering, common in backdoors)
+[MED] scripts/Workspace/MainModule/Server/Shared/FiOne.luau lines 1070
+       getfenv / setfenv (environment tampering, common in backdoors)
+[MED] scripts/Workspace/MainModule/Server/Shared/Service.luau lines 753,1083
+       getfenv / setfenv (environment tampering, common in backdoors)
+[MED] scripts/Workspace/MainModule/Server/Shared/Service.luau lines 1161
+       InsertService:LoadAsset (pulls models at runtime)
+[MED] scripts/Workspace/MainModule~2/Client/Client.luau lines 75,76,203,203,211,211,281,443
+       getfenv / setfenv (environment tampering, common in backdoors)
+[MED] scripts/Workspace/MainModule~2/Client/Core/Anti.luau lines 106,107,108,130
+       getfenv / setfenv (environment tampering, common in backdoors)
+[MED] scripts/Workspace/MainModule~2/Client/Core/Core.luau lines 102,103,104,172,172,223,223
+       getfenv / setfenv (environment tampering, common in backdoors)
+[MED] scripts/Workspace/MainModule~2/Client/Core/Functions.luau lines 84,85,86
+       getfenv / setfenv (environment tampering, common in backdoors)
+[MED] scripts/Workspace/MainModule~2/Client/Core/Process.luau lines 100,101,102
+       getfenv / setfenv (environment tampering, common in backdoors)
+[MED] scripts/Workspace/MainModule~2/Client/Core/Remote.luau lines 111,112,113
+       getfenv / setfenv (environment tampering, common in backdoors)
+[MED] scripts/Workspace/MainModule~2/Client/Core/UI.luau lines 86,87,88,151,281
+       getfenv / setfenv (environment tampering, common in backdoors)
+[MED] scripts/Workspace/MainModule~2/Client/Core/Variables.luau lines 91,92,93
+       getfenv / setfenv (environment tampering, common in backdoors)
+[MED] scripts/Workspace/MainModule~2/Server/Commands/Admins.luau lines 9
+       getfenv / setfenv (environment tampering, common in backdoors)
+[MED] scripts/Workspace/MainModule~2/Server/Commands/Creators.luau lines 9
+       getfenv / setfenv (environment tampering, common in backdoors)
+[MED] scripts/Workspace/MainModule~2/Server/Commands/Fun.luau lines 9
+       getfenv / setfenv (environment tampering, common in backdoors)
+[MED] scripts/Workspace/MainModule~2/Server/Commands/HeadAdmins.luau lines 9
+       getfenv / setfenv (environment tampering, common in backdoors)
+[MED] scripts/Workspace/MainModule~2/Server/Commands/Moderators.luau lines 9
+       getfenv / setfenv (environment tampering, common in backdoors)
+[MED] scripts/Workspace/MainModule~2/Server/Commands/Players.luau lines 9
+       getfenv / setfenv (environment tampering, common in backdoors)
+[MED] scripts/Workspace/MainModule~2/Server/Core/Commands.luau lines 56,83,83
+       getfenv / setfenv (environment tampering, common in backdoors)
+[MED] scripts/Workspace/MainModule~2/Server/Core/Core.luau lines 1141,1141
+       getfenv / setfenv (environment tampering, common in backdoors)
+[MED] scripts/Workspace/MainModule~2/Server/Core/Remote.luau lines 507
+       getfenv / setfenv (environment tampering, common in backdoors)
+[MED] scripts/Workspace/MainModule~2/Server/Dependencies/Assets/F3X Deps/Core.luau lines 1,176,361,401,1046
+       getfenv / setfenv (environment tampering, common in backdoors)
+[MED] scripts/Workspace/MainModule~2/Server/Dependencies/Assets/F3X Deps/Libraries/Debug.luau lines 67
+       getfenv / setfenv (environment tampering, common in backdoors)
+[MED] scripts/Workspace/MainModule~2/Server/Dependencies/Assets/F3X Deps/Libraries/SupportLibrary.luau lines 441
+       getfenv / setfenv (environment tampering, common in backdoors)
+[MED] scripts/Workspace/MainModule~2/Server/Dependencies/Assets/F3X Deps/SyncAPI/SyncModule.luau lines 1589,1621,1647,1661
+       HttpService request (calls an outside server)
+[MED] scripts/Workspace/MainModule~2/Server/Dependencies/ClientLoader.client.luau lines 92,92,120,219
+       getfenv / setfenv (environment tampering, common in backdoors)
+[MED] scripts/Workspace/MainModule~2/Server/Dependencies/ClientMover.client.luau lines 48,62,62
+       getfenv / setfenv (environment tampering, common in backdoors)
+[MED] scripts/Workspace/MainModule~2/Server/Dependencies/Loadstring.luau lines 33,37
+       getfenv / setfenv (environment tampering, common in backdoors)
+[MED] scripts/Workspace/MainModule~2/Server/Dependencies/LocalScriptBase.client.luau lines 6
+       getfenv / setfenv (environment tampering, common in backdoors)
+[MED] scripts/Workspace/MainModule~2/Server/Dependencies/ScriptBase.server.luau lines 6
+       getfenv / setfenv (environment tampering, common in backdoors)
+[MED] scripts/Workspace/MainModule~2/Server/Dependencies/ThreadHandler.luau lines 25,49,90,90
+       getfenv / setfenv (environment tampering, common in backdoors)
+[MED] scripts/Workspace/MainModule~2/Server/Dependencies/ThreadHandler/ClientThread.client.luau lines 6
+       getfenv / setfenv (environment tampering, common in backdoors)
+[MED] scripts/Workspace/MainModule~2/Server/Dependencies/ThreadHandler/ServerThread.server.luau lines 6
+       getfenv / setfenv (environment tampering, common in backdoors)
+[MED] scripts/Workspace/MainModule~2/Server/Dependencies/TrelloAPI.luau lines 43,106,124,142
+       HttpService request (calls an outside server)
+[MED] scripts/Workspace/MainModule~2/Server/Server.luau lines 85,85,194,194,203,203,285,431
+       getfenv / setfenv (environment tampering, common in backdoors)
+[MED] scripts/Workspace/MainModule~2/Server/Shared/FiOne.luau lines 1070
+       getfenv / setfenv (environment tampering, common in backdoors)
+[MED] scripts/Workspace/MainModule~2/Server/Shared/Service.luau lines 753,1083
+       getfenv / setfenv (environment tampering, common in backdoors)
+[MED] scripts/Workspace/MainModule~2/Server/Shared/Service.luau lines 1161
+       InsertService:LoadAsset (pulls models at runtime)
+[MED] scripts/Workspace/Merchant/Animate.server.luau lines 484
+       getfenv()[...] call: reaches a global by computed name (can hide require / loadstring)
+[MED] scripts/Workspace/Merchant/Animate.server.luau lines 484
+       getfenv / setfenv (environment tampering, common in backdoors)
+[MED] scripts/Workspace/The_Rake/AnimateSauce.server.luau lines 484
+       getfenv()[...] call: reaches a global by computed name (can hide require / loadstring)
+[MED] scripts/Workspace/The_Rake/AnimateSauce.server.luau lines 484
+       getfenv / setfenv (environment tampering, common in backdoors)
+[MED] scripts/Workspace/The_Rake/AutoBloodHour.server.luau lines 99
+       getfenv()[...] call: reaches a global by computed name (can hide require / loadstring)
+[MED] scripts/Workspace/The_Rake/AutoBloodHour.server.luau lines 99
+       getfenv / setfenv (environment tampering, common in backdoors)
+[MED] scripts/Workspace/The_Rake/AutoMikeHour.server.luau lines 117
+       getfenv()[...] call: reaches a global by computed name (can hide require / loadstring)
+[MED] scripts/Workspace/The_Rake/AutoMikeHour.server.luau lines 117
+       getfenv / setfenv (environment tampering, common in backdoors)
+[MED] scripts/Workspace/The_Rake/AutoNightmareHour.server.luau lines 102
+       getfenv()[...] call: reaches a global by computed name (can hide require / loadstring)
+[MED] scripts/Workspace/The_Rake/AutoNightmareHour.server.luau lines 102
+       getfenv / setfenv (environment tampering, common in backdoors)
+[MED] scripts/Workspace/The_Rake/AutoShadowHour.server.luau lines 105
+       getfenv()[...] call: reaches a global by computed name (can hide require / loadstring)
+[MED] scripts/Workspace/The_Rake/AutoShadowHour.server.luau lines 105
+       getfenv / setfenv (environment tampering, common in backdoors)
+[MED] scripts/Workspace/The_Rake/BHMainScript.server.luau lines 315
+       getfenv()[...] call: reaches a global by computed name (can hide require / loadstring)
+[MED] scripts/Workspace/The_Rake/BHMainScript.server.luau lines 315
+       getfenv / setfenv (environment tampering, common in backdoors)
+[MED] scripts/Workspace/The_Rake/Head/qPerfectionWeld.server.luau lines 242
+       getfenv()[...] call: reaches a global by computed name (can hide require / loadstring)
+[MED] scripts/Workspace/The_Rake/Head/qPerfectionWeld.server.luau lines 242
+       getfenv / setfenv (environment tampering, common in backdoors)
+[MED] scripts/Workspace/The_Rake/Left Arm/left arm/Part~8/_.server.luau
+       suspicious script name " "
+[MED] scripts/Workspace/The_Rake/Left Arm/qPerfectionWeld.server.luau lines 242
+       getfenv()[...] call: reaches a global by computed name (can hide require / loadstring)
+[MED] scripts/Workspace/The_Rake/Left Arm/qPerfectionWeld.server.luau lines 242
+       getfenv / setfenv (environment tampering, common in backdoors)
+[MED] scripts/Workspace/The_Rake/Left Leg/qPerfectionWeld.server.luau lines 242
+       getfenv()[...] call: reaches a global by computed name (can hide require / loadstring)
+[MED] scripts/Workspace/The_Rake/Left Leg/qPerfectionWeld.server.luau lines 242
+       getfenv / setfenv (environment tampering, common in backdoors)
+[MED] scripts/Workspace/The_Rake/MHMainScript.server.luau lines 315
+       getfenv()[...] call: reaches a global by computed name (can hide require / loadstring)
+[MED] scripts/Workspace/The_Rake/MHMainScript.server.luau lines 315
+       getfenv / setfenv (environment tampering, common in backdoors)
+[MED] scripts/Workspace/The_Rake/MainScript.server.luau lines 311
+       getfenv()[...] call: reaches a global by computed name (can hide require / loadstring)
+[MED] scripts/Workspace/The_Rake/MainScript.server.luau lines 311
+       getfenv / setfenv (environment tampering, common in backdoors)
+[MED] scripts/Workspace/The_Rake/NHMainScript.server.luau lines 315
+       getfenv()[...] call: reaches a global by computed name (can hide require / loadstring)
+[MED] scripts/Workspace/The_Rake/NHMainScript.server.luau lines 315
+       getfenv / setfenv (environment tampering, common in backdoors)
+[MED] scripts/Workspace/The_Rake/RandomBloodHour.server.luau lines 101
+       getfenv()[...] call: reaches a global by computed name (can hide require / loadstring)
+[MED] scripts/Workspace/The_Rake/RandomBloodHour.server.luau lines 101
+       getfenv / setfenv (environment tampering, common in backdoors)
+[MED] scripts/Workspace/The_Rake/RandomNightmareHour.server.luau lines 103
+       getfenv()[...] call: reaches a global by computed name (can hide require / loadstring)
+[MED] scripts/Workspace/The_Rake/RandomNightmareHour.server.luau lines 103
+       getfenv / setfenv (environment tampering, common in backdoors)
+[MED] scripts/Workspace/The_Rake/RandomShadowHour.server.luau lines 104
+       getfenv()[...] call: reaches a global by computed name (can hide require / loadstring)
+[MED] scripts/Workspace/The_Rake/RandomShadowHour.server.luau lines 104
+       getfenv / setfenv (environment tampering, common in backdoors)
+[MED] scripts/Workspace/The_Rake/Respawn.server.luau lines 215
+       getfenv()[...] call: reaches a global by computed name (can hide require / loadstring)
+[MED] scripts/Workspace/The_Rake/Respawn.server.luau lines 215
+       getfenv / setfenv (environment tampering, common in backdoors)
+[MED] scripts/Workspace/The_Rake/Right Arm/qPerfectionWeld.server.luau lines 242
+       getfenv()[...] call: reaches a global by computed name (can hide require / loadstring)
+[MED] scripts/Workspace/The_Rake/Right Arm/qPerfectionWeld.server.luau lines 242
+       getfenv / setfenv (environment tampering, common in backdoors)
+[MED] scripts/Workspace/The_Rake/Right Leg/BeartrapPart/Release.server.luau lines 195
+       getfenv()[...] call: reaches a global by computed name (can hide require / loadstring)
+[MED] scripts/Workspace/The_Rake/Right Leg/BeartrapPart/Release.server.luau lines 195
+       getfenv / setfenv (environment tampering, common in backdoors)
+[MED] scripts/Workspace/The_Rake/Right Leg/qPerfectionWeld.server.luau lines 242
+       getfenv()[...] call: reaches a global by computed name (can hide require / loadstring)
+[MED] scripts/Workspace/The_Rake/Right Leg/qPerfectionWeld.server.luau lines 242
+       getfenv / setfenv (environment tampering, common in backdoors)
+[MED] scripts/Workspace/The_Rake/SHMainScript.server.luau lines 315
+       getfenv()[...] call: reaches a global by computed name (can hide require / loadstring)
+[MED] scripts/Workspace/The_Rake/SHMainScript.server.luau lines 315
+       getfenv / setfenv (environment tampering, common in backdoors)
+[MED] scripts/Workspace/The_Rake/Torso/qPerfectionWeld.server.luau lines 242
+       getfenv()[...] call: reaches a global by computed name (can hide require / loadstring)
+[MED] scripts/Workspace/The_Rake/Torso/qPerfectionWeld.server.luau lines 242
+       getfenv / setfenv (environment tampering, common in backdoors)
+
+Monetization ids found in code (gamepass / product). Replace with your own:
+  1348327  in scripts/Workspace/MainModule/Client/UI/Default/UserPanel.luau, scripts/Workspace/MainModule~2/Client/UI/Default/UserPanel.luau
+  142785488  in scripts/Workspace/MainModule/Server/Dependencies/Assets/F3X Deps/Core.luau, scripts/Workspace/MainModule~2/Server/Dependencies/Assets/F3X Deps/Core.luau
+  2373501710  in scripts/Workspace/MainModule/Client/UI/Default/UserPanel.luau, scripts/Workspace/MainModule~2/Client/UI/Default/UserPanel.luau
+  2373505175  in scripts/Workspace/MainModule/Client/UI/Default/UserPanel.luau, scripts/Workspace/MainModule~2/Client/UI/Default/UserPanel.luau
+  254415530  in scripts/Workspace/MainModule/Server/Dependencies/Assets/Piano.client.luau, scripts/Workspace/MainModule~2/Server/Dependencies/Assets/Piano.client.luau
+  3440403115  in scripts/Workspace/MainModule/Server/Plugins/Server-Dex/Dex_Explorer/ExplorerPanel/LocalScript.client.luau, scripts/Workspace/MainModule~2/Server/Plugins/Server-Dex/Dex_Explorer/ExplorerPanel/LocalScript.client.luau
+  5212076  in scripts/Workspace/MainModule/Client/UI/Default/UserPanel.luau, scripts/Workspace/MainModule~2/Client/UI/Default/UserPanel.luau
+  5212077  in scripts/Workspace/MainModule/Client/UI/Default/UserPanel.luau, scripts/Workspace/MainModule~2/Client/UI/Default/UserPanel.luau
+  5212081  in scripts/Workspace/MainModule/Client/UI/Default/UserPanel.luau, scripts/Workspace/MainModule~2/Client/UI/Default/UserPanel.luau
+  5212082  in scripts/Workspace/MainModule/Client/UI/Default/UserPanel.luau, scripts/Workspace/MainModule~2/Client/UI/Default/UserPanel.luau
+  7032721624  in scripts/Workspace/MainModule/Client/UI/Default/Music.luau, scripts/Workspace/MainModule~2/Client/UI/Default/Music.luau
+
+Teleport place ids in code:
+  209424751  in scripts/Workspace/MainModule/Server/Commands/Fun.luau, scripts/Workspace/MainModule~2/Server/Commands/Fun.luau
+  233727153  in scripts/Workspace/MainModule/Server/Dependencies/Assets/Piano.client.luau, scripts/Workspace/MainModule~2/Server/Dependencies/Assets/Piano.client.luau
+  280846668  in scripts/Workspace/MainModule/Server/Commands/Fun.luau, scripts/Workspace/MainModule~2/Server/Commands/Fun.luau
+  527443962  in scripts/Workspace/MainModule/Server/Commands/Fun.luau, scripts/Workspace/MainModule~2/Server/Commands/Fun.luau
+  6194809  in scripts/Workspace/MainModule/Server/Commands/Moderators.luau, scripts/Workspace/MainModule~2/Server/Commands/Moderators.luau
+  6806826116  in scripts/Workspace/MainModule/Server/Commands/Fun.luau, scripts/Workspace/MainModule~2/Server/Commands/Fun.luau
+
+Outside URLs in code:
+  http://f3xteam.com/bt/export  in scripts/Workspace/MainModule/Server/Dependencies/Assets/F3X Deps/SyncAPI/SyncModule.luau, scripts/Workspace/MainModule~2/Server/Dependencies/Assets/F3X Deps/SyncAPI/SyncModule.luau
+  http://f3xteam.com/bt/getDecalImageID/  in scripts/Workspace/MainModule/Server/Dependencies/Assets/F3X Deps/SyncAPI/SyncModule.luau, scripts/Workspace/MainModule~2/Server/Dependencies/Assets/F3X Deps/SyncAPI/SyncModule.luau
+  http://f3xteam.com/bt/getFirstMeshData/  in scripts/Workspace/MainModule/Server/Dependencies/Assets/F3X Deps/SyncAPI/SyncModule.luau, scripts/Workspace/MainModule~2/Server/Dependencies/Assets/F3X Deps/SyncAPI/SyncModule.luau
+  http://ip-api.com/json  in scripts/Workspace/MainModule/Server/Commands/Moderators.luau, scripts/Workspace/MainModule~2/Server/Commands/Moderators.luau
+  http://prntscr.com/b9xljn  in scripts/ServerScriptService/Adonis_Loader/Config/Settings.luau, scripts/Workspace/MainModule/Server/Dependencies/DefaultSettings.luau, scripts/Workspace/MainModule~2/Server/Dependencies/DefaultSettings.luau
+  http://prntscr.com/b9xm53  in scripts/ServerScriptService/Adonis_Loader/Config/Settings.luau, scripts/Workspace/MainModule/Server/Dependencies/DefaultSettings.luau, scripts/Workspace/MainModule~2/Server/Dependencies/DefaultSettings.luau
+  http://prntscr.com/b9xngo  in scripts/ServerScriptService/Adonis_Loader/Config/Settings.luau, scripts/Workspace/MainModule/Server/Dependencies/DefaultSettings.luau, scripts/Workspace/MainModule~2/Server/Dependencies/DefaultSettings.luau
+  http://prntscr.com/b9xswk  in scripts/ServerScriptService/Adonis_Loader/Config/Settings.luau, scripts/Workspace/MainModule/Server/Dependencies/DefaultSettings.luau, scripts/Workspace/MainModule~2/Server/Dependencies/DefaultSettings.luau
+  http://trello.com  in scripts/ServerScriptService/Adonis_Loader/Config/Settings.luau, scripts/Workspace/MainModule/Server/Dependencies/DefaultSettings.luau, scripts/Workspace/MainModule~2/Server/Dependencies/DefaultSettings.luau
+  http://wiki.roblox.com/index.php?title=Admin_Command_Module  in scripts/Workspace/MainModule.luau, scripts/Workspace/MainModule~2.luau
+  http://wiki.roblox.com/index.php?title=Creating_An_Admin_Command  in scripts/Workspace/MainModule.luau, scripts/Workspace/MainModule~2.luau
+  http://www.google.com/robots.txt  in scripts/Workspace/MainModule/Server/Core/HTTP.luau, scripts/Workspace/MainModule~2/Server/Core/HTTP.luau
+  http://www.roblox.com/item.aspx?id=227509468  in scripts/Workspace/MainModule/Server/Dependencies/Assets/F3X Deps/Libraries/Region.luau, scripts/Workspace/MainModule~2/Server/Dependencies/Assets/F3X Deps/Libraries/Region.luau
+  https://api.trello.com/1/  in scripts/Workspace/MainModule/Server/Dependencies/TrelloAPI.luau, scripts/Workspace/MainModule~2/Server/Dependencies/TrelloAPI.luau
+  https://developer.roblox.com/en-us/api-reference/enum/KeyCode  in scripts/ServerScriptService/Adonis_Loader/Config/Settings.luau, scripts/Workspace/MainModule/Server/Dependencies/DefaultSettings.luau, scripts/Workspace/MainModule~2/Server/Dependencies/DefaultSettings.luau
+  https://developers.trello.com/advanced-reference  in scripts/Workspace/MainModule/Server/Dependencies/TrelloAPI.luau, scripts/Workspace/MainModule~2/Server/Dependencies/TrelloAPI.luau
+  https://devforum.roblox.com/t/HD/216819  in scripts/Workspace/HD Admin/About.server.luau
+  https://github.com/F3XTeam/RBX-Try-Library/blob/master/README.md  in scripts/Workspace/MainModule/Server/Dependencies/Assets/F3X Deps/Libraries/Try.luau, scripts/Workspace/MainModule~2/Server/Dependencies/Assets/F3X Deps/Libraries/Try.luau
+  https://github.com/RoStrap/Helper#make  in scripts/Workspace/MainModule/Server/Dependencies/Assets/F3X Deps/Libraries/Make.luau, scripts/Workspace/MainModule~2/Server/Dependencies/Assets/F3X Deps/Libraries/Make.luau
+  https://github.com/Roblox/roact/issues/259  in scripts/Workspace/MainModule/Server/Dependencies/Assets/F3X Deps/Vendor/Roact/createContext.spec.luau, scripts/Workspace/MainModule~2/Server/Dependencies/Assets/F3X Deps/Vendor/Roact/createContext.spec.luau
+  https://github.com/Sceleratis/Adonis  in scripts/Workspace/MainModule.luau, scripts/Workspace/MainModule/Server/Shared/Changelog.luau, scripts/Workspace/MainModule~2.luau
+  https://github.com/Sceleratis/Adonis/wiki  in scripts/ServerScriptService/Adonis_Loader/Config/API.luau, scripts/ServerScriptService/Adonis_Loader/Config/Themes/README.luau, scripts/Workspace/MainModule/Client/Plugins/README.luau
+  https://google.com  in scripts/Workspace/MainModule/Server/Core/HTTP.luau, scripts/Workspace/MainModule/Server/Dependencies/Assets/F3X Deps/SyncAPI/SyncModule.luau, scripts/Workspace/MainModule~2/Server/Core/HTTP.luau
+  https://reactjs.org/docs/composition-vs-inheritance.html  in scripts/Workspace/MainModule/Server/Dependencies/Assets/F3X Deps/Vendor/Roact/Component.luau, scripts/Workspace/MainModule~2/Server/Dependencies/Assets/F3X Deps/Vendor/Roact/Component.luau
+  https://rostrap.github.io/Libraries/Debug/  in scripts/Workspace/MainModule/Server/Dependencies/Assets/F3X Deps/Libraries/Debug.luau, scripts/Workspace/MainModule~2/Server/Dependencies/Assets/F3X Deps/Libraries/Debug.luau
+  https://trello.com/  in scripts/Workspace/MainModule/Server/Dependencies/TrelloAPI.luau, scripts/Workspace/MainModule~2/Server/Dependencies/TrelloAPI.luau
+  https://trello.com/1/connect?name=Trello_API_Module&response_type=token&expires=never&scope=read,write&key=YOUR_APP_KEY_HERE  in scripts/ServerScriptService/Adonis_Loader/Config/Settings.luau, scripts/Workspace/MainModule/Server/Dependencies/DefaultSettings.luau, scripts/Workspace/MainModule/Server/Dependencies/TrelloAPI.luau
+  https://trello.com/app-key  in scripts/ServerScriptService/Adonis_Loader/Config/Settings.luau, scripts/Workspace/MainModule/Server/Dependencies/DefaultSettings.luau, scripts/Workspace/MainModule/Server/Dependencies/TrelloAPI.luau
+  https://trello.com/docs/  in scripts/Workspace/MainModule/Server/Dependencies/TrelloAPI.luau, scripts/Workspace/MainModule~2/Server/Dependencies/TrelloAPI.luau
+  https://www.roblox.com/headshot-thumbnail/image?userId=  in scripts/Workspace/MainModule/Client/UI/Unity/HelpButton.luau, scripts/Workspace/MainModule~2/Client/UI/Unity/HelpButton.luau

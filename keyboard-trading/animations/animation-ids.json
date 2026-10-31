@@ -1,0 +1,352 @@
+[
+ {
+  "name": "Electric Dance",
+  "path": "ReplicatedStorage.RelicsXYZ.Shared.GamePasses.Electric Dance.Electric Dance",
+  "id": "rbxassetid://112195638724214"
+ },
+ {
+  "name": "Doodle Dance",
+  "path": "ReplicatedStorage.RelicsXYZ.Shared.GamePasses.Doodle Dance.Doodle Dance",
+  "id": "rbxassetid://140154193964185"
+ },
+ {
+  "name": "HIT THE JACKPOT Dance",
+  "path": "ReplicatedStorage.RelicsXYZ.Shared.GamePasses.HIT THE JACKPOT Dance.HIT THE JACKPOT Dance",
+  "id": "rbxassetid://124818748153630"
+ },
+ {
+  "name": "MANDE MANDE Dance",
+  "path": "ReplicatedStorage.RelicsXYZ.Shared.GamePasses.MANDE MANDE Dance.MANDE MANDE Dance",
+  "id": "rbxassetid://140354850642232"
+ },
+ {
+  "name": "Mexican Phonk Eki Dance",
+  "path": "ReplicatedStorage.RelicsXYZ.Shared.GamePasses.Mexican Phonk Eki Dance.Mexican Phonk Eki Dance",
+  "id": "rbxassetid://102652550300591"
+ },
+ {
+  "name": "Montagem Miau Dance",
+  "path": "ReplicatedStorage.RelicsXYZ.Shared.GamePasses.Montagem Miau Dance.Montagem Miau Dance",
+  "id": "rbxassetid://76790759135125"
+ },
+ {
+  "name": "Montagem Mysterious Game Dance",
+  "path": "ReplicatedStorage.RelicsXYZ.Shared.GamePasses.Montagem Mysterious Game Dance.Montagem Mysterious Game Dance",
+  "id": "rbxassetid://124522199252548"
+ },
+ {
+  "name": "MONTAGEM RUGADA Dance",
+  "path": "ReplicatedStorage.RelicsXYZ.Shared.GamePasses.MONTAGEM RUGADA Dance.MONTAGEM RUGADA Dance",
+  "id": "rbxassetid://80847868741699"
+ },
+ {
+  "name": "OIIA OIIA (Spinning Cat) Dance",
+  "path": "ReplicatedStorage.RelicsXYZ.Shared.GamePasses.OIIA OIIA (Spinning Cat) Dance.OIIA OIIA (Spinning Cat) Dance",
+  "id": "rbxassetid://117675618037209"
+ },
+ {
+  "name": "PASSO BEM SOLTO Dance",
+  "path": "ReplicatedStorage.RelicsXYZ.Shared.GamePasses.PASSO BEM SOLTO Dance.PASSO BEM SOLTO Dance",
+  "id": "rbxassetid://96060133880409"
+ },
+ {
+  "name": "Reason Dance",
+  "path": "ReplicatedStorage.RelicsXYZ.Shared.GamePasses.Reason Dance.Reason Dance",
+  "id": "rbxassetid://107653473266091"
+ },
+ {
+  "name": "Shiawase Dance",
+  "path": "ReplicatedStorage.RelicsXYZ.Shared.GamePasses.Shiawase Dance.Shiawase Dance",
+  "id": "rbxassetid://80266836475777"
+ },
+ {
+  "name": "bbno$ two Dance",
+  "path": "ReplicatedStorage.RelicsXYZ.Shared.GamePasses.bbno$ two Dance.bbno$ two Dance",
+  "id": "rbxassetid://94457845230053"
+ },
+ {
+  "name": "come to brazil Dance",
+  "path": "ReplicatedStorage.RelicsXYZ.Shared.GamePasses.come to brazil Dance.come to brazil Dance",
+  "id": "rbxassetid://106535444233038"
+ },
+ {
+  "name": "CheerAnim",
+  "path": "ReplicatedStorage.CloneTemplate.Animate.cheer.CheerAnim",
+  "id": "http://www.roblox.com/asset/?id=507770677"
+ },
+ {
+  "name": "ClimbAnim",
+  "path": "ReplicatedStorage.CloneTemplate.Animate.climb.ClimbAnim",
+  "id": "http://www.roblox.com/asset/?id=507765644"
+ },
+ {
+  "name": "Animation1",
+  "path": "ReplicatedStorage.CloneTemplate.Animate.dance.Animation1",
+  "id": "http://www.roblox.com/asset/?id=507771019"
+ },
+ {
+  "name": "Animation2",
+  "path": "ReplicatedStorage.CloneTemplate.Animate.dance.Animation2",
+  "id": "http://www.roblox.com/asset/?id=507771955"
+ },
+ {
+  "name": "Animation3",
+  "path": "ReplicatedStorage.CloneTemplate.Animate.dance.Animation3",
+  "id": "http://www.roblox.com/asset/?id=507772104"
+ },
+ {
+  "name": "Animation1",
+  "path": "ReplicatedStorage.CloneTemplate.Animate.dance2.Animation1",
+  "id": "http://www.roblox.com/asset/?id=507776043"
+ },
+ {
+  "name": "Animation2",
+  "path": "ReplicatedStorage.CloneTemplate.Animate.dance2.Animation2",
+  "id": "http://www.roblox.com/asset/?id=507776720"
+ },
+ {
+  "name": "Animation3",
+  "path": "ReplicatedStorage.CloneTemplate.Animate.dance2.Animation3",
+  "id": "http://www.roblox.com/asset/?id=507776879"
+ },
+ {
+  "name": "Animation1",
+  "path": "ReplicatedStorage.CloneTemplate.Animate.dance3.Animation1",
+  "id": "http://www.roblox.com/asset/?id=507777268"
+ },
+ {
+  "name": "Animation2",
+  "path": "ReplicatedStorage.CloneTemplate.Animate.dance3.Animation2",
+  "id": "http://www.roblox.com/asset/?id=507777451"
+ },
+ {
+  "name": "Animation3",
+  "path": "ReplicatedStorage.CloneTemplate.Animate.dance3.Animation3",
+  "id": "http://www.roblox.com/asset/?id=507777623"
+ },
+ {
+  "name": "FallAnim",
+  "path": "ReplicatedStorage.CloneTemplate.Animate.fall.FallAnim",
+  "id": "http://www.roblox.com/asset/?id=507767968"
+ },
+ {
+  "name": "Animation1",
+  "path": "ReplicatedStorage.CloneTemplate.Animate.idle.Animation1",
+  "id": "http://www.roblox.com/asset/?id=507766388"
+ },
+ {
+  "name": "Animation2",
+  "path": "ReplicatedStorage.CloneTemplate.Animate.idle.Animation2",
+  "id": "http://www.roblox.com/asset/?id=507766666"
+ },
+ {
+  "name": "JumpAnim",
+  "path": "ReplicatedStorage.CloneTemplate.Animate.jump.JumpAnim",
+  "id": "http://www.roblox.com/asset/?id=507765000"
+ },
+ {
+  "name": "LaughAnim",
+  "path": "ReplicatedStorage.CloneTemplate.Animate.laugh.LaughAnim",
+  "id": "http://www.roblox.com/asset/?id=507770818"
+ },
+ {
+  "name": "PointAnim",
+  "path": "ReplicatedStorage.CloneTemplate.Animate.point.PointAnim",
+  "id": "http://www.roblox.com/asset/?id=507770453"
+ },
+ {
+  "name": "SitAnim",
+  "path": "ReplicatedStorage.CloneTemplate.Animate.sit.SitAnim",
+  "id": "http://www.roblox.com/asset/?id=2506281703"
+ },
+ {
+  "name": "ToolLungeAnim",
+  "path": "ReplicatedStorage.CloneTemplate.Animate.toollunge.ToolLungeAnim",
+  "id": "http://www.roblox.com/asset/?id=522638767"
+ },
+ {
+  "name": "ToolNoneAnim",
+  "path": "ReplicatedStorage.CloneTemplate.Animate.toolnone.ToolNoneAnim",
+  "id": "http://www.roblox.com/asset/?id=507768375"
+ },
+ {
+  "name": "ToolSlashAnim",
+  "path": "ReplicatedStorage.CloneTemplate.Animate.toolslash.ToolSlashAnim",
+  "id": "http://www.roblox.com/asset/?id=522635514"
+ },
+ {
+  "name": "WaveAnim",
+  "path": "ReplicatedStorage.CloneTemplate.Animate.wave.WaveAnim",
+  "id": "http://www.roblox.com/asset/?id=507770239"
+ },
+ {
+  "name": "RunAnim",
+  "path": "ReplicatedStorage.CloneTemplate.Animate.run.RunAnim",
+  "id": "http://www.roblox.com/asset/?id=913376220"
+ },
+ {
+  "name": "Swim",
+  "path": "ReplicatedStorage.CloneTemplate.Animate.swim.Swim",
+  "id": "http://www.roblox.com/asset/?id=913384386"
+ },
+ {
+  "name": "SwimIdle",
+  "path": "ReplicatedStorage.CloneTemplate.Animate.swimidle.SwimIdle",
+  "id": "http://www.roblox.com/asset/?id=913389285"
+ },
+ {
+  "name": "WalkAnim",
+  "path": "ReplicatedStorage.CloneTemplate.Animate.walk.WalkAnim",
+  "id": "http://www.roblox.com/asset/?id=913402848"
+ },
+ {
+  "name": "Animation1",
+  "path": "ReplicatedStorage.CloneTemplate.Animate.mood.Animation1",
+  "id": "http://www.roblox.com/asset/?id=7715096377"
+ },
+ {
+  "name": "Idle",
+  "path": "ReplicatedStorage.NPC10.Idle",
+  "id": "rbxassetid://126847784481325"
+ },
+ {
+  "name": "CheerAnim",
+  "path": "ReplicatedStorage.AdminAbuse.FoeCakesBossRoom.Assets.BossRig.Animate.cheer.CheerAnim",
+  "id": "http://www.roblox.com/asset/?id=507770677"
+ },
+ {
+  "name": "ClimbAnim",
+  "path": "ReplicatedStorage.AdminAbuse.FoeCakesBossRoom.Assets.BossRig.Animate.climb.ClimbAnim",
+  "id": "http://www.roblox.com/asset/?id=507765644"
+ },
+ {
+  "name": "Animation1",
+  "path": "ReplicatedStorage.AdminAbuse.FoeCakesBossRoom.Assets.BossRig.Animate.dance.Animation1",
+  "id": "http://www.roblox.com/asset/?id=507771019"
+ },
+ {
+  "name": "Animation2",
+  "path": "ReplicatedStorage.AdminAbuse.FoeCakesBossRoom.Assets.BossRig.Animate.dance.Animation2",
+  "id": "http://www.roblox.com/asset/?id=507771955"
+ },
+ {
+  "name": "Animation3",
+  "path": "ReplicatedStorage.AdminAbuse.FoeCakesBossRoom.Assets.BossRig.Animate.dance.Animation3",
+  "id": "http://www.roblox.com/asset/?id=507772104"
+ },
+ {
+  "name": "Animation1",
+  "path": "ReplicatedStorage.AdminAbuse.FoeCakesBossRoom.Assets.BossRig.Animate.dance2.Animation1",
+  "id": "http://www.roblox.com/asset/?id=507776043"
+ },
+ {
+  "name": "Animation2",
+  "path": "ReplicatedStorage.AdminAbuse.FoeCakesBossRoom.Assets.BossRig.Animate.dance2.Animation2",
+  "id": "http://www.roblox.com/asset/?id=507776720"
+ },
+ {
+  "name": "Animation3",
+  "path": "ReplicatedStorage.AdminAbuse.FoeCakesBossRoom.Assets.BossRig.Animate.dance2.Animation3",
+  "id": "http://www.roblox.com/asset/?id=507776879"
+ },
+ {
+  "name": "Animation1",
+  "path": "ReplicatedStorage.AdminAbuse.FoeCakesBossRoom.Assets.BossRig.Animate.dance3.Animation1",
+  "id": "http://www.roblox.com/asset/?id=507777268"
+ },
+ {
+  "name": "Animation2",
+  "path": "ReplicatedStorage.AdminAbuse.FoeCakesBossRoom.Assets.BossRig.Animate.dance3.Animation2",
+  "id": "http://www.roblox.com/asset/?id=507777451"
+ },
+ {
+  "name": "Animation3",
+  "path": "ReplicatedStorage.AdminAbuse.FoeCakesBossRoom.Assets.BossRig.Animate.dance3.Animation3",
+  "id": "http://www.roblox.com/asset/?id=507777623"
+ },
+ {
+  "name": "FallAnim",
+  "path": "ReplicatedStorage.AdminAbuse.FoeCakesBossRoom.Assets.BossRig.Animate.fall.FallAnim",
+  "id": "http://www.roblox.com/asset/?id=507767968"
+ },
+ {
+  "name": "Animation1",
+  "path": "ReplicatedStorage.AdminAbuse.FoeCakesBossRoom.Assets.BossRig.Animate.idle.Animation1",
+  "id": "http://www.roblox.com/asset/?id=507766388"
+ },
+ {
+  "name": "Animation2",
+  "path": "ReplicatedStorage.AdminAbuse.FoeCakesBossRoom.Assets.BossRig.Animate.idle.Animation2",
+  "id": "http://www.roblox.com/asset/?id=507766666"
+ },
+ {
+  "name": "JumpAnim",
+  "path": "ReplicatedStorage.AdminAbuse.FoeCakesBossRoom.Assets.BossRig.Animate.jump.JumpAnim",
+  "id": "http://www.roblox.com/asset/?id=507765000"
+ },
+ {
+  "name": "LaughAnim",
+  "path": "ReplicatedStorage.AdminAbuse.FoeCakesBossRoom.Assets.BossRig.Animate.laugh.LaughAnim",
+  "id": "http://www.roblox.com/asset/?id=507770818"
+ },
+ {
+  "name": "PointAnim",
+  "path": "ReplicatedStorage.AdminAbuse.FoeCakesBossRoom.Assets.BossRig.Animate.point.PointAnim",
+  "id": "http://www.roblox.com/asset/?id=507770453"
+ },
+ {
+  "name": "SitAnim",
+  "path": "ReplicatedStorage.AdminAbuse.FoeCakesBossRoom.Assets.BossRig.Animate.sit.SitAnim",
+  "id": "http://www.roblox.com/asset/?id=2506281703"
+ },
+ {
+  "name": "ToolLungeAnim",
+  "path": "ReplicatedStorage.AdminAbuse.FoeCakesBossRoom.Assets.BossRig.Animate.toollunge.ToolLungeAnim",
+  "id": "http://www.roblox.com/asset/?id=522638767"
+ },
+ {
+  "name": "ToolNoneAnim",
+  "path": "ReplicatedStorage.AdminAbuse.FoeCakesBossRoom.Assets.BossRig.Animate.toolnone.ToolNoneAnim",
+  "id": "http://www.roblox.com/asset/?id=507768375"
+ },
+ {
+  "name": "ToolSlashAnim",
+  "path": "ReplicatedStorage.AdminAbuse.FoeCakesBossRoom.Assets.BossRig.Animate.toolslash.ToolSlashAnim",
+  "id": "http://www.roblox.com/asset/?id=522635514"
+ },
+ {
+  "name": "WaveAnim",
+  "path": "ReplicatedStorage.AdminAbuse.FoeCakesBossRoom.Assets.BossRig.Animate.wave.WaveAnim",
+  "id": "http://www.roblox.com/asset/?id=507770239"
+ },
+ {
+  "name": "RunAnim",
+  "path": "ReplicatedStorage.AdminAbuse.FoeCakesBossRoom.Assets.BossRig.Animate.run.RunAnim",
+  "id": "http://www.roblox.com/asset/?id=913376220"
+ },
+ {
+  "name": "Swim",
+  "path": "ReplicatedStorage.AdminAbuse.FoeCakesBossRoom.Assets.BossRig.Animate.swim.Swim",
+  "id": "http://www.roblox.com/asset/?id=913384386"
+ },
+ {
+  "name": "SwimIdle",
+  "path": "ReplicatedStorage.AdminAbuse.FoeCakesBossRoom.Assets.BossRig.Animate.swimidle.SwimIdle",
+  "id": "http://www.roblox.com/asset/?id=913389285"
+ },
+ {
+  "name": "WalkAnim",
+  "path": "ReplicatedStorage.AdminAbuse.FoeCakesBossRoom.Assets.BossRig.Animate.walk.WalkAnim",
+  "id": "http://www.roblox.com/asset/?id=913402848"
+ },
+ {
+  "name": "Animation1",
+  "path": "ReplicatedStorage.AdminAbuse.FoeCakesBossRoom.Assets.BossRig.Animate.mood.Animation1",
+  "id": "http://www.roblox.com/asset/?id=14366558676"
+ },
+ {
+  "name": "SprayPaint",
+  "path": "ReplicatedStorage.AdminAbuse.MaskedManColorMania.Assets.PaintSprayerTool.SprayPaint",
+  "id": "http://www.roblox.com/Asset?ID=78494810"
+ }
+]

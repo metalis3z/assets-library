@@ -1,0 +1,357 @@
+[
+ {
+  "name": "Animation",
+  "path": "Workspace.NPCs.Fermin Acorns.Animation",
+  "id": "rbxassetid://113812248601150"
+ },
+ {
+  "name": "Animation",
+  "path": "Workspace.NPCs.Max Whiskers.Animation",
+  "id": "rbxassetid://113812248601150"
+ },
+ {
+  "name": "TallMonsterPeek",
+  "path": "ReplicatedFirst.Preloader.TallMonsterPeek",
+  "id": "rbxassetid://76839862472511"
+ },
+ {
+  "name": "Walk",
+  "path": "ReplicatedFirst.Preloader.Walk",
+  "id": "rbxassetid://119184523597066"
+ },
+ {
+  "name": "Idle",
+  "path": "ReplicatedFirst.Preloader.Idle",
+  "id": "rbxassetid://79508642196758"
+ },
+ {
+  "name": "Jumpscare",
+  "path": "ReplicatedFirst.Preloader.Jumpscare",
+  "id": "rbxassetid://137708881428163"
+ },
+ {
+  "name": "RunAnim",
+  "path": "StarterPlayer.StarterCharacterScripts.Animate.run.RunAnim",
+  "id": "http://www.roblox.com/asset/?id=180426354"
+ },
+ {
+  "name": "ClimbAnim",
+  "path": "StarterPlayer.StarterCharacterScripts.Animate.climb.ClimbAnim",
+  "id": "http://www.roblox.com/asset/?id=180436334"
+ },
+ {
+  "name": "ToolNoneAnim",
+  "path": "StarterPlayer.StarterCharacterScripts.Animate.toolnone2.ToolNoneAnim",
+  "id": "http://www.roblox.com/asset/?id=182393478"
+ },
+ {
+  "name": "FallAnim",
+  "path": "StarterPlayer.StarterCharacterScripts.Animate.fall.FallAnim",
+  "id": "http://www.roblox.com/asset/?id=180436148"
+ },
+ {
+  "name": "SitAnim",
+  "path": "StarterPlayer.StarterCharacterScripts.Animate.sit.SitAnim",
+  "id": "http://www.roblox.com/asset/?id=178130996"
+ },
+ {
+  "name": "ToolNoneAnim",
+  "path": "StarterPlayer.StarterCharacterScripts.Animate.toolnone.ToolNoneAnim",
+  "id": "rbxassetid://108996743340788"
+ },
+ {
+  "name": "Animation",
+  "path": "ReplicatedStorage.NPCs.Visitors.SkinDummy.Animation",
+  "id": "rbxassetid://113812248601150"
+ },
+ {
+  "name": "Idle",
+  "path": "ReplicatedStorage.NPCs.Anomalies.TallMonster2.Idle",
+  "id": "rbxassetid://72979615427085"
+ },
+ {
+  "name": "Peek",
+  "path": "ReplicatedStorage.NPCs.Anomalies.TallMonster2.Peek",
+  "id": "rbxassetid://76839862472511"
+ },
+ {
+  "name": "Idle",
+  "path": "ReplicatedStorage.NPCs.Anomalies.TallMonster0.Idle",
+  "id": "rbxassetid://72979615427085"
+ },
+ {
+  "name": "Peek",
+  "path": "ReplicatedStorage.NPCs.Anomalies.TallMonster0.Peek",
+  "id": "rbxassetid://76839862472511"
+ },
+ {
+  "name": "Idle",
+  "path": "ReplicatedStorage.NPCs.Anomalies.TallMonsterFace.Idle",
+  "id": "rbxassetid://72979615427085"
+ },
+ {
+  "name": "Peek",
+  "path": "ReplicatedStorage.NPCs.Anomalies.TallMonsterFace.Peek",
+  "id": "rbxassetid://76839862472511"
+ },
+ {
+  "name": "Idle",
+  "path": "ReplicatedStorage.NPCs.Anomalies.MonsterBedLarge.Arms.Idle",
+  "id": "rbxassetid://120850809393617"
+ },
+ {
+  "name": "Attack",
+  "path": "ReplicatedStorage.NPCs.Anomalies.MonsterBedLarge.Arms.Attack",
+  "id": "rbxassetid://101827138152930"
+ },
+ {
+  "name": "Idle",
+  "path": "ReplicatedStorage.NPCs.Anomalies.TallMonsterHead.Idle",
+  "id": "rbxassetid://72979615427085"
+ },
+ {
+  "name": "Peek",
+  "path": "ReplicatedStorage.NPCs.Anomalies.TallMonsterHead.Peek",
+  "id": "rbxassetid://76839862472511"
+ },
+ {
+  "name": "Idle",
+  "path": "ReplicatedStorage.NPCs.Anomalies.TallMonster.Idle",
+  "id": "rbxassetid://72979615427085"
+ },
+ {
+  "name": "Peek",
+  "path": "ReplicatedStorage.NPCs.Anomalies.TallMonster.Peek",
+  "id": "rbxassetid://76839862472511"
+ },
+ {
+  "name": "Idle",
+  "path": "ReplicatedStorage.NPCs.Anomalies.MonsterBed.Arms.Idle",
+  "id": "rbxassetid://120850809393617"
+ },
+ {
+  "name": "Attack",
+  "path": "ReplicatedStorage.NPCs.Anomalies.MonsterBed.Arms.Attack",
+  "id": "rbxassetid://101827138152930"
+ },
+ {
+  "name": "Animation",
+  "path": "ReplicatedStorage.NPCs.Anomalies.Ghost.Animation",
+  "id": "rbxassetid://113812248601150"
+ },
+ {
+  "name": "Animation",
+  "path": "ReplicatedStorage.NPCs.Skinwalkers.Skinwalker.Animation",
+  "id": "rbxassetid://113812248601150"
+ },
+ {
+  "name": "Animation",
+  "path": "ReplicatedStorage.NPCs.UniqueVisitors.Clown.Animation",
+  "id": "rbxassetid://113812248601150"
+ },
+ {
+  "name": "Animation",
+  "path": "ReplicatedStorage.NPCs.UniqueVisitors.Doctor.Animation",
+  "id": "rbxassetid://113812248601150"
+ },
+ {
+  "name": "Animation",
+  "path": "ReplicatedStorage.NPCs.UniqueVisitors.Ron from Accounting.Animation",
+  "id": "rbxassetid://113812248601150"
+ },
+ {
+  "name": "Idle",
+  "path": "ReplicatedStorage.Misc.Tendril.Idle",
+  "id": "rbxassetid://91124552301527"
+ },
+ {
+  "name": "Walk(Old)",
+  "path": "ReplicatedStorage.Animations.Walk(Old)",
+  "id": "rbxassetid://82823946069762"
+ },
+ {
+  "name": "Idle",
+  "path": "ReplicatedStorage.Animations.Idle",
+  "id": "rbxassetid://79508642196758"
+ },
+ {
+  "name": "TallMonsterPeek",
+  "path": "ReplicatedStorage.Animations.TallMonsterPeek",
+  "id": "rbxassetid://76839862472511"
+ },
+ {
+  "name": "TallMonsterIdle",
+  "path": "ReplicatedStorage.Animations.TallMonsterIdle",
+  "id": "rbxassetid://72979615427085"
+ },
+ {
+  "name": "WalkSkinwalker",
+  "path": "ReplicatedStorage.Animations.WalkSkinwalker",
+  "id": "rbxassetid://130598252669906"
+ },
+ {
+  "name": "JumpscareSkinwalker",
+  "path": "ReplicatedStorage.Animations.JumpscareSkinwalker",
+  "id": "rbxassetid://130568753240149"
+ },
+ {
+  "name": "IdleSkinwalker",
+  "path": "ReplicatedStorage.Animations.IdleSkinwalker",
+  "id": "rbxassetid://129307988579158"
+ },
+ {
+  "name": "Walk2",
+  "path": "ReplicatedStorage.Animations.Walk2",
+  "id": "rbxassetid://130996581336619"
+ },
+ {
+  "name": "Sleep",
+  "path": "ReplicatedStorage.Animations.Sleep",
+  "id": "rbxassetid://88351809285459"
+ },
+ {
+  "name": "Float",
+  "path": "ReplicatedStorage.Animations.Float",
+  "id": "rbxassetid://71402432264751"
+ },
+ {
+  "name": "Sit",
+  "path": "ReplicatedStorage.Animations.Sit",
+  "id": "rbxassetid://121090937800726"
+ },
+ {
+  "name": "Tool",
+  "path": "ReplicatedStorage.Animations.Tool",
+  "id": "rbxassetid://98947282762826"
+ },
+ {
+  "name": "HeadSwing",
+  "path": "ReplicatedStorage.Animations.HeadSwing",
+  "id": "rbxassetid://73474404936212"
+ },
+ {
+  "name": "Run",
+  "path": "ReplicatedStorage.Animations.Run",
+  "id": "rbxassetid://119184523597066"
+ },
+ {
+  "name": "Sleep2",
+  "path": "ReplicatedStorage.Animations.Sleep2",
+  "id": "rbxassetid://72697719393602"
+ },
+ {
+  "name": "ArmFlailPanic",
+  "path": "ReplicatedStorage.Animations.ArmFlailPanic",
+  "id": "rbxassetid://136885790026561"
+ },
+ {
+  "name": "SitLegsStraight",
+  "path": "ReplicatedStorage.Animations.SitLegsStraight",
+  "id": "rbxassetid://137139788785686"
+ },
+ {
+  "name": "AttackedWhileStanding",
+  "path": "ReplicatedStorage.Animations.AttackedWhileStanding",
+  "id": "rbxassetid://83766841126540"
+ },
+ {
+  "name": "AttackWhileStanding",
+  "path": "ReplicatedStorage.Animations.AttackWhileStanding",
+  "id": "rbxassetid://135854740878719"
+ },
+ {
+  "name": "Punch",
+  "path": "ReplicatedStorage.Animations.Punch",
+  "id": "rbxassetid://88354099453441"
+ },
+ {
+  "name": "SkinwalkerRagdoll",
+  "path": "ReplicatedStorage.Animations.SkinwalkerRagdoll",
+  "id": "rbxassetid://99161215355976"
+ },
+ {
+  "name": "Jumpscare",
+  "path": "ReplicatedStorage.Animations.Jumpscare",
+  "id": "rbxassetid://137708881428163"
+ },
+ {
+  "name": "Idle_twitch",
+  "path": "ReplicatedStorage.Animations.Idle_twitch",
+  "id": "rbxassetid://77555419369760"
+ },
+ {
+  "name": "Idle",
+  "path": "ReplicatedStorage.Animations.PlayerAnimations.Idle",
+  "id": "rbxassetid://79508642196758"
+ },
+ {
+  "name": "Jump",
+  "path": "ReplicatedStorage.Animations.PlayerAnimations.Jump",
+  "id": "rbxassetid://79508642196758"
+ },
+ {
+  "name": "Tool",
+  "path": "ReplicatedStorage.Animations.PlayerAnimations.Tool",
+  "id": "rbxassetid://98947282762826"
+ },
+ {
+  "name": "Walk",
+  "path": "ReplicatedStorage.Animations.PlayerAnimations.Walk",
+  "id": "rbxassetid://119184523597066"
+ },
+ {
+  "name": "Walk2",
+  "path": "ReplicatedStorage.Animations.PlayerAnimations.Walk2",
+  "id": "rbxassetid://130996581336619"
+ },
+ {
+  "name": "ArmFlailPanicOld",
+  "path": "ReplicatedStorage.Animations.ArmFlailPanicOld",
+  "id": "rbxassetid://135850546389178"
+ },
+ {
+  "name": "SitHappy",
+  "path": "ReplicatedStorage.Animations.SitHappy",
+  "id": "rbxassetid://85482156211596"
+ },
+ {
+  "name": "Punch2",
+  "path": "ReplicatedStorage.Animations.Punch2",
+  "id": "rbxassetid://129835574706709"
+ },
+ {
+  "name": "Cry",
+  "path": "ReplicatedStorage.Animations.Cry",
+  "id": "rbxassetid://104524773793089"
+ },
+ {
+  "name": "CrawlSkinwalker",
+  "path": "ReplicatedStorage.Animations.CrawlSkinwalker",
+  "id": "rbxassetid://101280331044190"
+ },
+ {
+  "name": "WalkTired",
+  "path": "ReplicatedStorage.Animations.WalkTired",
+  "id": "rbxassetid://138255133128106"
+ },
+ {
+  "name": "Animation",
+  "path": "ReplicatedStorage.ClassModels.Surgeon.Animation",
+  "id": "rbxassetid://113812248601150"
+ },
+ {
+  "name": "Animation",
+  "path": "ReplicatedStorage.ClassModels.Secretary.Animation",
+  "id": "rbxassetid://113812248601150"
+ },
+ {
+  "name": "Animation",
+  "path": "ReplicatedStorage.ClassModels.Doctor.Animation",
+  "id": "rbxassetid://113812248601150"
+ },
+ {
+  "name": "Animation",
+  "path": "LocalPlayer.PlayerGui.PhotoUI.ViewportFrame.WorldModel.PhotoVisitor.Animation",
+  "id": "rbxassetid://113812248601150"
+ }
+]

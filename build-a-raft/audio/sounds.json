@@ -1,0 +1,50 @@
+[
+ {
+  "name": "InitialThrust",
+  "path": "Workspace.Jetpack Giver.PUT THE WEAPON IN THIS BRICK.JetPack.Handle.InitialThrust",
+  "id": "http://www.roblox.com/asset/?id=30624262",
+  "volume": 0.5,
+  "looped": false,
+  "speed": null
+ },
+ {
+  "name": "LowFuelWarning",
+  "path": "Workspace.Jetpack Giver.PUT THE WEAPON IN THIS BRICK.JetPack.Handle.LowFuelWarning",
+  "id": "http://www.roblox.com/asset/?id=30624357",
+  "volume": 0.5,
+  "looped": true,
+  "speed": null
+ },
+ {
+  "name": "EngineFail",
+  "path": "Workspace.Jetpack Giver.PUT THE WEAPON IN THIS BRICK.JetPack.Handle.EngineFail",
+  "id": "http://www.roblox.com/asset/?id=30624305",
+  "volume": 0.5,
+  "looped": false,
+  "speed": null
+ },
+ {
+  "name": "Thrusting",
+  "path": "Workspace.Jetpack Giver.PUT THE WEAPON IN THIS BRICK.JetPack.Handle.Thrusting",
+  "id": "http://www.roblox.com/asset/?id=30624426",
+  "volume": 0.5,
+  "looped": true,
+  "speed": null
+ },
+ {
+  "name": "CoilSound",
+  "path": "Workspace.Winner's Stuff.Model.PUT THE WEAPON IN THIS BRICK.GravityCoil.Handle.CoilSound",
+  "id": "http://www.roblox.com/asset/?id=16619553",
+  "volume": 1.0,
+  "looped": false,
+  "speed": null
+ },
+ {
+  "name": "Sound",
+  "path": "StarterPack.Delete Tool.Handle.Sound",
+  "id": "http://www.roblox.com/Asset/?ID=12135982",
+  "volume": 0.7,
+  "looped": false,
+  "speed": null
+ }
+]

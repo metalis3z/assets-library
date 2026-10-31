@@ -1,0 +1,109 @@
+{
+ "workspace": {},
+ "lighting": {},
+ "lighting_note": "\"Lighting\" is a Model standing in for Lighting in a kit: it carries no Lighting properties, only the effects inside it",
+ "lighting_children": [
+  {
+   "class": "Atmosphere",
+   "name": "Atmosphere",
+   "props": {
+    "Color": "#d9fffc",
+    "Decay": "#365a66",
+    "DefinesCapabilities": false,
+    "Density": 0.0,
+    "Glare": 1.3,
+    "Haze": 0.35,
+    "Name": "Atmosphere",
+    "Offset": 0.0
+   }
+  },
+  {
+   "class": "Sky",
+   "name": "Sky",
+   "props": {
+    "CelestialBodiesShown": true,
+    "DefinesCapabilities": false,
+    "MoonAngularSize": 11.0,
+    "MoonTextureId": "rbxasset://sky/moon.jpg",
+    "Name": "Sky",
+    "SkyboxBk": "rbxassetid://7643700666",
+    "SkyboxDn": "rbxassetid://7643743687",
+    "SkyboxFt": "rbxassetid://7644304186",
+    "SkyboxLf": "rbxassetid://7644288724",
+    "SkyboxOrientation": [
+     0.0,
+     0.0,
+     0.0
+    ],
+    "SkyboxRt": "rbxassetid://7643700819",
+    "SkyboxUp": "rbxassetid://7643757404",
+    "StarCount": 3000,
+    "SunAngularSize": 21.0,
+    "SunTextureId": "rbxasset://sky/sun.jpg"
+   }
+  },
+  {
+   "class": "BloomEffect",
+   "name": "Bloom",
+   "props": {
+    "DefinesCapabilities": false,
+    "Enabled": true,
+    "Intensity": 0.5,
+    "Name": "Bloom",
+    "Size": 50.0,
+    "Threshold": 2.0
+   }
+  },
+  {
+   "class": "ColorCorrectionEffect",
+   "name": "ColorCorrection",
+   "props": {
+    "Brightness": 0.3,
+    "Contrast": 0.3,
+    "DefinesCapabilities": false,
+    "Enabled": true,
+    "Name": "ColorCorrection",
+    "Saturation": 0.2,
+    "TintColor": "#b8beed"
+   }
+  },
+  {
+   "class": "DepthOfFieldEffect",
+   "name": "DepthOfField",
+   "props": {
+    "DefinesCapabilities": false,
+    "Enabled": true,
+    "FarIntensity": 0.0,
+    "FocusDistance": 0.0,
+    "InFocusRadius": 0.0,
+    "Name": "DepthOfField",
+    "NearIntensity": 0.0
+   }
+  },
+  {
+   "class": "SunRaysEffect",
+   "name": "SunRays",
+   "props": {
+    "DefinesCapabilities": false,
+    "Enabled": true,
+    "Intensity": 0.01,
+    "Name": "SunRays",
+    "Spread": 1.0
+   }
+  },
+  {
+   "class": "ColorCorrectionEffect",
+   "name": "VFX",
+   "props": {
+    "Brightness": 0.0,
+    "Contrast": 0.0,
+    "DefinesCapabilities": false,
+    "Enabled": true,
+    "Name": "VFX",
+    "Saturation": 0.0,
+    "TintColor": "#ffffff"
+   }
+  }
+ ],
+ "soundservice": {}
+}
