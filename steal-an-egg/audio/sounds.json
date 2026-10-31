@@ -1662,5 +1662,950 @@
   "volume": 0.65,
   "looped": false,
   "speed": 1.0
+ },
+ {
+  "name": "Hit",
+  "path": "Workspace.__OBJECTS.Areas.GuardAreas.Cosmic.Guard.HumanoidRootPart.Hit",
+  "id": "rbxassetid://103302796486965",
+  "volume": 2.0,
+  "looped": false,
+  "speed": 1.07,
+  "version": "latest"
+ },
+ {
+  "name": "FootstepSound",
+  "path": "Workspace.__OBJECTS.Areas.GuardAreas.Forest.Guard.HumanoidRootPart.FootstepSound",
+  "id": "rbxassetid://77569052979374",
+  "volume": 1.5,
+  "looped": true,
+  "speed": 1.0,
+  "version": "latest"
+ },
+ {
+  "name": "AfterWakeSound",
+  "path": "Workspace.__OBJECTS.Areas.GuardAreas.Snow.Guard.HumanoidRootPart.AfterWakeSound",
+  "id": "rbxassetid://93143455867850",
+  "volume": 5.0,
+  "looped": false,
+  "speed": 1.0,
+  "version": "latest"
+ },
+ {
+  "name": "Hit",
+  "path": "Workspace.__OBJECTS.Areas.GuardAreas.Snow.Guard.HumanoidRootPart.Hit",
+  "id": "rbxassetid://129410289087112",
+  "volume": 2.0,
+  "looped": false,
+  "speed": 1.07,
+  "version": "latest"
+ },
+ {
+  "name": "AfterWakeSound",
+  "path": "Workspace.__OBJECTS.Areas.GuardAreas.Volcano.Guard.HumanoidRootPart.AfterWakeSound",
+  "id": "rbxassetid://122381958459272",
+  "volume": 5.0,
+  "looped": false,
+  "speed": 1.0,
+  "version": "latest"
+ },
+ {
+  "name": "FootstepSound",
+  "path": "Workspace.__OBJECTS.Areas.GuardAreas.Volcano.Guard.HumanoidRootPart.FootstepSound",
+  "id": "rbxassetid://102364255861367",
+  "volume": 1.5,
+  "looped": true,
+  "speed": 4.8429,
+  "version": "latest"
+ },
+ {
+  "name": "AfterWakeSound",
+  "path": "Workspace.__OBJECTS.Areas.GuardAreas.Abyss Ocean.Guard.HumanoidRootPart.AfterWakeSound",
+  "id": "rbxassetid://109513647043767",
+  "volume": 5.0,
+  "looped": false,
+  "speed": 1.0,
+  "version": "latest"
+ },
+ {
+  "name": "Hit",
+  "path": "Workspace.__OBJECTS.Areas.GuardAreas.Abyss Ocean.Guard.HumanoidRootPart.Hit",
+  "id": "rbxassetid://125914568551299",
+  "volume": 2.0,
+  "looped": false,
+  "speed": 1.07,
+  "version": "latest"
+ },
+ {
+  "name": "Portal Loop Sound",
+  "path": "Workspace.HalloweenDimensionPortal.Hitbox.Portal Loop Sound",
+  "id": "rbxassetid://125113804733808",
+  "volume": 0.5,
+  "looped": true,
+  "speed": 1.0,
+  "version": "latest"
+ },
+ {
+  "name": "Cash Register",
+  "path": "SoundService.Cash Register",
+  "id": "rbxassetid://133581886462636",
+  "volume": 0.5,
+  "looped": false,
+  "speed": 1.0,
+  "version": "latest"
+ },
+ {
+  "name": "Click",
+  "path": "SoundService.Click",
+  "id": "rbxassetid://115437212690964",
+  "volume": 0.5,
+  "looped": false,
+  "speed": 1.0,
+  "version": "latest"
+ },
+ {
+  "name": "Collect",
+  "path": "SoundService.Collect",
+  "id": "rbxassetid://71901557010349",
+  "volume": 0.5,
+  "looped": false,
+  "speed": 1.0,
+  "version": "latest"
+ },
+ {
+  "name": "Song",
+  "path": "SoundService.Song",
+  "id": "rbxassetid://99991604838281",
+  "volume": 0.18,
+  "looped": false,
+  "speed": 1.0,
+  "version": "latest"
+ },
+ {
+  "name": "SparkleSound",
+  "path": "SoundService.SparkleSound",
+  "id": "rbxassetid://107026786187324",
+  "volume": 0.1,
+  "looped": false,
+  "speed": 1.0,
+  "version": "latest"
+ },
+ {
+  "name": "StealChase",
+  "path": "SoundService.StealChase",
+  "id": "rbxassetid://86585819756727",
+  "volume": 0.0,
+  "looped": true,
+  "speed": 1.0,
+  "version": "latest"
+ },
+ {
+  "name": "Music2",
+  "path": "SoundService.GameMusics.Music2",
+  "id": "rbxassetid://9043887091",
+  "volume": 0.0,
+  "looped": false,
+  "speed": 1.0,
+  "version": "latest"
+ },
+ {
+  "name": "Music1",
+  "path": "SoundService.GameMusics.Music1",
+  "id": "rbxassetid://134508116680725",
+  "volume": 0.2,
+  "looped": false,
+  "speed": 1.0,
+  "version": "latest"
+ },
+ {
+  "name": "InStages",
+  "path": "SoundService.GameMusics.InStages",
+  "id": "rbxassetid://77770487605071",
+  "volume": 0.292,
+  "looped": true,
+  "speed": 1.0,
+  "version": "latest"
+ },
+ {
+  "name": "Sound",
+  "path": "SoundService.Packs.Sound",
+  "id": "rbxassetid://122505846398126",
+  "volume": 0.5,
+  "looped": false,
+  "speed": 1.0,
+  "version": "latest"
+ },
+ {
+  "name": "Open",
+  "path": "SoundService.Packs.Open",
+  "id": "rbxassetid://75878518213519",
+  "volume": 2.0,
+  "looped": false,
+  "speed": 1.0,
+  "version": "latest"
+ },
+ {
+  "name": "RainbowReward",
+  "path": "SoundService.Packs.RainbowReward",
+  "id": "rbxassetid://76929518799036",
+  "volume": 0.5,
+  "looped": false,
+  "speed": 1.0,
+  "version": "latest"
+ },
+ {
+  "name": "NormalTick",
+  "path": "SoundService.Packs.NormalTick",
+  "id": "rbxassetid://76121180761599",
+  "volume": 4.0,
+  "looped": false,
+  "speed": 1.0,
+  "version": "latest"
+ },
+ {
+  "name": "Reward",
+  "path": "SoundService.Packs.Reward",
+  "id": "rbxassetid://76929518799036",
+  "volume": 0.5,
+  "looped": false,
+  "speed": 1.0,
+  "version": "latest"
+ },
+ {
+  "name": "RainbowTick",
+  "path": "SoundService.Packs.RainbowTick",
+  "id": "rbxassetid://76121180761599",
+  "volume": 4.0,
+  "looped": false,
+  "speed": 1.0,
+  "version": "latest"
+ },
+ {
+  "name": "Ambience",
+  "path": "StarterGui.Vignette.Ambience",
+  "id": "rbxassetid://93525616288912",
+  "volume": 1.0,
+  "looped": true,
+  "speed": 1.0,
+  "version": "latest"
+ },
+ {
+  "name": "DespawnSFX",
+  "path": "ReplicatedStorage.Assets.Sprinklers.DespawnSFX",
+  "id": "rbxassetid://119406343492453",
+  "volume": 1.0,
+  "looped": false,
+  "speed": 1.0,
+  "version": "latest"
+ },
+ {
+  "name": "SprinklerLoop",
+  "path": "ReplicatedStorage.Assets.Sprinklers.SprinklerLoop",
+  "id": "rbxassetid://119896270208975",
+  "volume": 0.4,
+  "looped": true,
+  "speed": 1.0,
+  "version": "latest"
+ },
+ {
+  "name": "PlaceSFX",
+  "path": "ReplicatedStorage.Assets.Sprinklers.PlaceSFX",
+  "id": "rbxassetid://107842642228406",
+  "volume": 3.0,
+  "looped": false,
+  "speed": 1.0,
+  "version": "latest"
+ },
+ {
+  "name": "Bang",
+  "path": "ReplicatedStorage.Assets.Extra.sentry.Mover.Bang",
+  "id": "rbxassetid://137192596825505",
+  "volume": 0.0,
+  "looped": false,
+  "speed": 1.0,
+  "version": "latest"
+ },
+ {
+  "name": "Bang",
+  "path": "ReplicatedStorage.Assets.Extra.sentry.Mover_2.Bang",
+  "id": "rbxassetid://137192596825505",
+  "volume": 1.5,
+  "looped": false,
+  "speed": 1.0,
+  "version": "latest"
+ },
+ {
+  "name": "Equip",
+  "path": "ReplicatedStorage.Assets.ToolTemplates.PetTemplate.Handle.Equip",
+  "id": "rbxassetid://122884101201788",
+  "volume": 0.5,
+  "looped": false,
+  "speed": 1.0,
+  "version": "latest"
+ },
+ {
+  "name": "Unequip",
+  "path": "ReplicatedStorage.Assets.ToolTemplates.PetTemplate.Handle.Unequip",
+  "id": "rbxassetid://122884101201788",
+  "volume": 0.5,
+  "looped": false,
+  "speed": 1.0,
+  "version": "latest"
+ },
+ {
+  "name": "StabSound",
+  "path": "ReplicatedStorage.Assets.Models.Knife.Handle.StabSound",
+  "id": "rbxassetid://94670288446031",
+  "volume": 1.0,
+  "looped": false,
+  "speed": 1.0,
+  "version": "latest"
+ },
+ {
+  "name": "KillSound",
+  "path": "ReplicatedStorage.Assets.Models.Knife.Handle.KillSound",
+  "id": "rbxassetid://95205240702088",
+  "volume": 0.5,
+  "looped": false,
+  "speed": 1.0,
+  "version": "latest"
+ },
+ {
+  "name": "ThrowSound",
+  "path": "ReplicatedStorage.Assets.Models.Knife.Handle.ThrowSound",
+  "id": "rbxassetid://137374652215588",
+  "volume": 0.9,
+  "looped": false,
+  "speed": 1.0,
+  "version": "latest"
+ },
+ {
+  "name": "ArpSound",
+  "path": "ReplicatedStorage.Assets.Sounds.HitSounds.ArpSound",
+  "id": "rbxassetid://98181315786739",
+  "volume": 0.0,
+  "looped": false,
+  "speed": 1.0,
+  "version": "latest"
+ },
+ {
+  "name": "ArpSound2",
+  "path": "ReplicatedStorage.Assets.Sounds.HitSounds.ArpSound2",
+  "id": "rbxassetid://72831064837421",
+  "volume": 0.1,
+  "looped": false,
+  "speed": 1.0,
+  "version": "latest"
+ },
+ {
+  "name": "Swing",
+  "path": "ReplicatedStorage.Assets.Sounds.HitSounds.Swing",
+  "id": "rbxassetid://113992448661946",
+  "volume": 0.5,
+  "looped": false,
+  "speed": 1.0,
+  "version": "latest"
+ },
+ {
+  "name": "Splat",
+  "path": "ReplicatedStorage.Assets.Sounds.HitSounds.Splat",
+  "id": "rbxassetid://134896309021685",
+  "volume": 0.5,
+  "looped": false,
+  "speed": 1.0,
+  "version": "latest"
+ },
+ {
+  "name": "Chop",
+  "path": "ReplicatedStorage.Assets.Sounds.HitSounds.Chop",
+  "id": "rbxassetid://76121385346359",
+  "volume": 0.4,
+  "looped": false,
+  "speed": 1.0,
+  "version": "latest"
+ },
+ {
+  "name": "Impact",
+  "path": "ReplicatedStorage.Assets.Sounds.HitSounds.Impact",
+  "id": "rbxassetid://76243584116900",
+  "volume": 0.4,
+  "looped": false,
+  "speed": 1.0,
+  "version": "latest"
+ },
+ {
+  "name": "Slime",
+  "path": "ReplicatedStorage.Assets.Sounds.HitSounds.Slime",
+  "id": "rbxassetid://81459163027740",
+  "volume": 1.0,
+  "looped": false,
+  "speed": 1.0,
+  "version": "latest"
+ },
+ {
+  "name": "Squish",
+  "path": "ReplicatedStorage.Assets.Sounds.HitSounds.Squish",
+  "id": "rbxassetid://117555612813016",
+  "volume": 0.25,
+  "looped": false,
+  "speed": 1.0,
+  "version": "latest"
+ },
+ {
+  "name": "Confetti",
+  "path": "ReplicatedStorage.Assets.Sounds.PrizeSounds.Confetti",
+  "id": "rbxassetid://133204478644023",
+  "volume": 0.05,
+  "looped": false,
+  "speed": 1.0,
+  "version": "latest"
+ },
+ {
+  "name": "Common",
+  "path": "ReplicatedStorage.Assets.Sounds.PrizeSounds.Common",
+  "id": "rbxassetid://126438738193486",
+  "volume": 1.3,
+  "looped": false,
+  "speed": 1.0,
+  "version": "latest"
+ },
+ {
+  "name": "God",
+  "path": "ReplicatedStorage.Assets.Sounds.PrizeSounds.God",
+  "id": "rbxassetid://90679126727385",
+  "volume": 0.35,
+  "looped": false,
+  "speed": 1.0,
+  "version": "latest"
+ },
+ {
+  "name": "Variant",
+  "path": "ReplicatedStorage.Assets.Sounds.PrizeSounds.Variant",
+  "id": "rbxassetid://127577141745145",
+  "volume": 0.5,
+  "looped": false,
+  "speed": 1.0,
+  "version": "latest"
+ },
+ {
+  "name": "Secret",
+  "path": "ReplicatedStorage.Assets.Sounds.PrizeSounds.Secret",
+  "id": "rbxassetid://90679126727385",
+  "volume": 0.35,
+  "looped": false,
+  "speed": 1.0,
+  "version": "latest"
+ },
+ {
+  "name": "Uncommon",
+  "path": "ReplicatedStorage.Assets.Sounds.PrizeSounds.Uncommon",
+  "id": "rbxassetid://107120724491851",
+  "volume": 0.4,
+  "looped": false,
+  "speed": 1.0,
+  "version": "latest"
+ },
+ {
+  "name": "Epic",
+  "path": "ReplicatedStorage.Assets.Sounds.PrizeSounds.Epic",
+  "id": "rbxassetid://85015203661940",
+  "volume": 0.15,
+  "looped": false,
+  "speed": 1.0,
+  "version": "latest"
+ },
+ {
+  "name": "UISound",
+  "path": "ReplicatedStorage.Assets.Sounds.PrizeSounds.UISound",
+  "id": "rbxassetid://89550685069550",
+  "volume": 0.35,
+  "looped": false,
+  "speed": 1.0,
+  "version": "latest"
+ },
+ {
+  "name": "Mythic",
+  "path": "ReplicatedStorage.Assets.Sounds.PrizeSounds.Mythic",
+  "id": "rbxassetid://139860804876890",
+  "volume": 0.17,
+  "looped": false,
+  "speed": 1.0,
+  "version": "latest"
+ },
+ {
+  "name": "New",
+  "path": "ReplicatedStorage.Assets.Sounds.PrizeSounds.New",
+  "id": "rbxassetid://73381946024029",
+  "volume": 0.4,
+  "looped": false,
+  "speed": 1.0,
+  "version": "latest"
+ },
+ {
+  "name": "Rare",
+  "path": "ReplicatedStorage.Assets.Sounds.PrizeSounds.Rare",
+  "id": "rbxassetid://86715478687400",
+  "volume": 0.5,
+  "looped": false,
+  "speed": 1.0,
+  "version": "latest"
+ },
+ {
+  "name": "coldSound",
+  "path": "ReplicatedStorage.Assets.Weather.FrostWeather.coldSound",
+  "id": "rbxassetid://551546110",
+  "volume": 0.0,
+  "looped": true,
+  "speed": 1.0,
+  "version": "latest"
+ },
+ {
+  "name": "lightning_strike",
+  "path": "ReplicatedStorage.Assets.Weather.ThunderstormWeather.LightningHit.lightning_strike",
+  "id": "rbxassetid://91688508902354",
+  "volume": 1.0,
+  "looped": false,
+  "speed": 1.0,
+  "version": "latest"
+ },
+ {
+  "name": "Sound",
+  "path": "ReplicatedStorage.Directory.Sounds.Pipeline.Resources.Sound",
+  "id": "rbxassetid://131409529367871",
+  "volume": 1.3,
+  "looped": false,
+  "speed": 1.0,
+  "version": "latest"
+ },
+ {
+  "name": "Sound",
+  "path": "ReplicatedStorage.Directory.Sounds.Pipeline.Resources.Sound",
+  "id": "rbxassetid://86304009158692",
+  "volume": 1.3,
+  "looped": false,
+  "speed": 1.0,
+  "version": "latest"
+ },
+ {
+  "name": "Sound",
+  "path": "ReplicatedStorage.Directory.Sounds.Pipeline.Resources.Sound",
+  "id": "rbxassetid://109826642525119",
+  "volume": 1.3,
+  "looped": false,
+  "speed": 1.0,
+  "version": "latest"
+ },
+ {
+  "name": "Sound",
+  "path": "ReplicatedStorage.Directory.Sounds.Pipeline.Resources.Sound",
+  "id": "rbxassetid://124287498697887",
+  "volume": 1.3,
+  "looped": false,
+  "speed": 1.0,
+  "version": "latest"
+ },
+ {
+  "name": "Sound",
+  "path": "ReplicatedStorage.Directory.Sounds.Pipeline.Resources.Sound",
+  "id": "rbxassetid://92263969947825",
+  "volume": 1.3,
+  "looped": false,
+  "speed": 1.0,
+  "version": "latest"
+ },
+ {
+  "name": "Sound",
+  "path": "ReplicatedStorage.Directory.Sounds.Pipeline.Resources.Sound",
+  "id": "rbxassetid://132445985810760",
+  "volume": 1.3,
+  "looped": false,
+  "speed": 1.0,
+  "version": "latest"
+ },
+ {
+  "name": "Sound",
+  "path": "ReplicatedStorage.Directory.Sounds.Pipeline.Resources.Sound",
+  "id": "rbxassetid://125216371424793",
+  "volume": 1.3,
+  "looped": false,
+  "speed": 1.0,
+  "version": "latest"
+ },
+ {
+  "name": "Sound",
+  "path": "ReplicatedStorage.Directory.Sounds.Pipeline.Resources.Sound",
+  "id": "rbxassetid://77857299324635",
+  "volume": 1.3,
+  "looped": false,
+  "speed": 1.0,
+  "version": "latest"
+ },
+ {
+  "name": "Sound",
+  "path": "ReplicatedStorage.Directory.Sounds.Pipeline.Resources.Sound",
+  "id": "rbxassetid://107060200636030",
+  "volume": 1.3,
+  "looped": false,
+  "speed": 1.0,
+  "version": "latest"
+ },
+ {
+  "name": "Sound",
+  "path": "ReplicatedStorage.Directory.Sounds.Pipeline.Resources.Sound",
+  "id": "rbxassetid://92082924357386",
+  "volume": 1.3,
+  "looped": false,
+  "speed": 1.0,
+  "version": "latest"
+ },
+ {
+  "name": "Sound",
+  "path": "ReplicatedStorage.Directory.Sounds.Pipeline.Resources.Sound",
+  "id": "rbxassetid://72592612249456",
+  "volume": 1.3,
+  "looped": false,
+  "speed": 1.0,
+  "version": "latest"
+ },
+ {
+  "name": "Sound",
+  "path": "ReplicatedStorage.Directory.Sounds.Pipeline.Resources.Sound",
+  "id": "rbxassetid://91139623147952",
+  "volume": 1.3,
+  "looped": false,
+  "speed": 1.0,
+  "version": "latest"
+ },
+ {
+  "name": "Sound",
+  "path": "ReplicatedStorage.Directory.Sounds.Pipeline.Resources.Sound",
+  "id": "rbxassetid://132760805757526",
+  "volume": 1.3,
+  "looped": false,
+  "speed": 1.0,
+  "version": "latest"
+ },
+ {
+  "name": "Sound",
+  "path": "ReplicatedStorage.Directory.Sounds.Pipeline.Resources.Sound",
+  "id": "rbxassetid://95979804353066",
+  "volume": 1.3,
+  "looped": false,
+  "speed": 1.0,
+  "version": "latest"
+ },
+ {
+  "name": "Sound",
+  "path": "ReplicatedStorage.Directory.Sounds.Pipeline.Resources.Sound",
+  "id": "rbxassetid://126906012434922",
+  "volume": 1.3,
+  "looped": false,
+  "speed": 1.0,
+  "version": "latest"
+ },
+ {
+  "name": "Sound",
+  "path": "ReplicatedStorage.Directory.Sounds.Pipeline.Resources.Sound",
+  "id": "rbxassetid://130061800174383",
+  "volume": 1.3,
+  "looped": false,
+  "speed": 1.0,
+  "version": "latest"
+ },
+ {
+  "name": "Sound",
+  "path": "ReplicatedStorage.Directory.Sounds.Pipeline.Resources.Sound",
+  "id": "rbxassetid://78460231249208",
+  "volume": 1.3,
+  "looped": false,
+  "speed": 1.0,
+  "version": "latest"
+ },
+ {
+  "name": "Sound",
+  "path": "ReplicatedStorage.Directory.Sounds.Pipeline.Resources.Sound",
+  "id": "rbxassetid://92088177030478",
+  "volume": 1.3,
+  "looped": false,
+  "speed": 1.0,
+  "version": "latest"
+ },
+ {
+  "name": "Sound",
+  "path": "ReplicatedStorage.Directory.Sounds.Pipeline.Resources.Sound",
+  "id": "rbxassetid://99934858533464",
+  "volume": 1.3,
+  "looped": false,
+  "speed": 1.0,
+  "version": "latest"
+ },
+ {
+  "name": "Sound",
+  "path": "ReplicatedStorage.Directory.Sounds.Pipeline.Resources.Sound",
+  "id": "rbxassetid://80568126993314",
+  "volume": 1.3,
+  "looped": false,
+  "speed": 1.0,
+  "version": "latest"
+ },
+ {
+  "name": "Sound",
+  "path": "ReplicatedStorage.Directory.Sounds.Pipeline.Resources.Sound",
+  "id": "rbxassetid://108719311859555",
+  "volume": 1.3,
+  "looped": false,
+  "speed": 1.0,
+  "version": "latest"
+ },
+ {
+  "name": "Sound",
+  "path": "ReplicatedStorage.Directory.Sounds.Pipeline.Resources.Sound",
+  "id": "rbxassetid://109557008188628",
+  "volume": 1.3,
+  "looped": false,
+  "speed": 1.0,
+  "version": "latest"
+ },
+ {
+  "name": "Sound",
+  "path": "ReplicatedStorage.Directory.Sounds.Pipeline.Resources.Sound",
+  "id": "rbxassetid://75583689302851",
+  "volume": 1.3,
+  "looped": false,
+  "speed": 1.0,
+  "version": "latest"
+ },
+ {
+  "name": "Sound",
+  "path": "ReplicatedStorage.Directory.Sounds.Pipeline.Resources.Sound",
+  "id": "rbxassetid://133664824158668",
+  "volume": 1.3,
+  "looped": false,
+  "speed": 1.0,
+  "version": "latest"
+ },
+ {
+  "name": "FireSound",
+  "path": "ReplicatedStorage.GearTools.ShopItems.WebSlinger.Handle.FireSound",
+  "id": "http://www.roblox.com/asset/?id=129425664",
+  "volume": 1.0,
+  "looped": false,
+  "speed": 1.0,
+  "version": "latest"
+ },
+ {
+  "name": "HitSound",
+  "path": "ReplicatedStorage.GearTools.ShopItems.WebSlinger.Handle.HitSound",
+  "id": "http://www.roblox.com/asset/?id=16211030",
+  "volume": 0.4,
+  "looped": false,
+  "speed": 1.0,
+  "version": "latest"
+ },
+ {
+  "name": "ConnectSound",
+  "path": "ReplicatedStorage.GearTools.ShopItems.WebSlinger.Handle.ConnectSound",
+  "id": "http://www.roblox.com/asset/?id=153828145",
+  "volume": 0.4,
+  "looped": false,
+  "speed": 1.0,
+  "version": "latest"
+ },
+ {
+  "name": "Sound",
+  "path": "ReplicatedStorage.GearTools.ShopItems.TaserGun.Handle.Sound",
+  "id": "http://www.roblox.com/asset/?id=82273261",
+  "volume": 1.0,
+  "looped": false,
+  "speed": 1.0,
+  "version": "latest"
+ },
+ {
+  "name": "Hit",
+  "path": "ReplicatedStorage.GearTools.ShopItems.RainbowWrath.Handle.Hit",
+  "id": "rbxassetid://76766635785020",
+  "volume": 1.1,
+  "looped": false,
+  "speed": 1.0,
+  "version": "latest"
+ },
+ {
+  "name": "Slash",
+  "path": "ReplicatedStorage.GearTools.ShopItems.RainbowWrath.Handle.Slash",
+  "id": "rbxassetid://89777495137279",
+  "volume": 0.7,
+  "looped": false,
+  "speed": 1.0,
+  "version": "latest"
+ },
+ {
+  "name": "Sound",
+  "path": "ReplicatedStorage.GearTools.ShopItems.RageTable.Handle.Sound",
+  "id": "http://www.roblox.com/asset/?id=111896685",
+  "volume": 1.0,
+  "looped": false,
+  "speed": 1.0,
+  "version": "latest"
+ },
+ {
+  "name": "Scream",
+  "path": "ReplicatedStorage.GearTools.ShopItems.MedusaHead.Handle.Scream",
+  "id": "http://www.roblox.com/asset/?id=89371632 ",
+  "volume": 1.0,
+  "looped": false,
+  "speed": 1.0,
+  "version": "latest"
+ },
+ {
+  "name": "Screams",
+  "path": "ReplicatedStorage.GearTools.ShopItems.Megaphone.Handle.Screams",
+  "id": "http://www.roblox.com/asset/?id=58918127",
+  "volume": 0.2,
+  "looped": false,
+  "speed": 2.0,
+  "version": "latest"
+ },
+ {
+  "name": "PlaceSound",
+  "path": "ReplicatedStorage.GearTools.ShopItems.SubspaceMine.Handle.PlaceSound",
+  "id": "rbxassetid://79674417809030",
+  "volume": 0.5,
+  "looped": false,
+  "speed": 1.0,
+  "version": "latest"
+ },
+ {
+  "name": "OutsidePlaylistMusic_1_1836009208",
+  "path": "ReplicatedStorage.Library.Audio.Music.OutsidePlaylistMusic_1_1836009208",
+  "id": "rbxassetid://1836009208",
+  "volume": 0.0,
+  "looped": false,
+  "speed": 1.0,
+  "version": "latest"
+ },
+ {
+  "name": "OutsidePlaylistMusic_2_1846088038",
+  "path": "ReplicatedStorage.Library.Audio.Music.OutsidePlaylistMusic_2_1846088038",
+  "id": "rbxassetid://1846088038",
+  "volume": 0.0,
+  "looped": false,
+  "speed": 1.0,
+  "version": "latest"
+ },
+ {
+  "name": "OutsidePlaylistMusic_3_9045766074",
+  "path": "ReplicatedStorage.Library.Audio.Music.OutsidePlaylistMusic_3_9045766074",
+  "id": "rbxassetid://9045766074",
+  "volume": 0.22,
+  "looped": false,
+  "speed": 1.0,
+  "version": "latest"
+ },
+ {
+  "name": "OutsidePlaylistMusic_4_1842150151",
+  "path": "ReplicatedStorage.Library.Audio.Music.OutsidePlaylistMusic_4_1842150151",
+  "id": "rbxassetid://1842150151",
+  "volume": 0.0,
+  "looped": false,
+  "speed": 1.0,
+  "version": "latest"
+ },
+ {
+  "name": "GameplayBackgroundMusic_5026653246",
+  "path": "ReplicatedStorage.Library.Audio.Music.GameplayBackgroundMusic_5026653246",
+  "id": "rbxassetid://5026653246",
+  "volume": 0.0,
+  "looped": true,
+  "speed": 1.0,
+  "version": "latest"
+ },
+ {
+  "name": "CoreGameplayMusic_77770487605071",
+  "path": "ReplicatedStorage.Library.Audio.Music.CoreGameplayMusic_77770487605071",
+  "id": "rbxassetid://77770487605071",
+  "volume": 0.0,
+  "looped": true,
+  "speed": 1.0,
+  "version": "latest"
+ },
+ {
+  "name": "AreaEggResetNightMusic_130775373",
+  "path": "ReplicatedStorage.Library.Audio.Music.AreaEggResetNightMusic_130775373",
+  "id": "rbxassetid://130775373",
+  "volume": 0.0,
+  "looped": true,
+  "speed": 1.0,
+  "version": "latest"
+ },
+ {
+  "name": "TreadmillMusic_95532010565428_0",
+  "path": "ReplicatedStorage.Library.Audio.Music.TreadmillMusic_95532010565428_0",
+  "id": "rbxassetid://95532010565428",
+  "volume": 0.0,
+  "looped": false,
+  "speed": 1.0,
+  "version": "latest"
+ },
+ {
+  "name": "TreadmillMusic_140667339171815_0",
+  "path": "ReplicatedStorage.Library.Audio.Music.TreadmillMusic_140667339171815_0",
+  "id": "rbxassetid://140667339171815",
+  "volume": 0.0,
+  "looped": false,
+  "speed": 1.0,
+  "version": "latest"
+ },
+ {
+  "name": "TreadmillMusic_95532010565428_0",
+  "path": "ReplicatedStorage.Library.Audio.Music.TreadmillMusic_95532010565428_0",
+  "id": "rbxassetid://95532010565428",
+  "volume": 0.0,
+  "looped": false,
+  "speed": 1.0,
+  "version": "latest"
+ },
+ {
+  "name": "LaserSizzle1",
+  "path": "ServerScriptService.HD Admin.Core.MainModule.Value.Modules.Internal.Commands.ExtraPack.Troll.Client.LaserSizzle1",
+  "id": "rbxassetid://1355880382",
+  "volume": 0.4,
+  "looped": true,
+  "speed": 1.0,
+  "version": "latest"
+ },
+ {
+  "name": "LaserSizzle2",
+  "path": "ServerScriptService.HD Admin.Core.MainModule.Value.Modules.Internal.Commands.ExtraPack.Troll.Client.LaserSizzle2",
+  "id": "rbxassetid://1355880382",
+  "volume": 0.5,
+  "looped": true,
+  "speed": 10.0,
+  "version": "latest"
+ },
+ {
+  "name": "Unsheath",
+  "path": "ServerScriptService.HD Admin.Core.MainModule.Value.Modules.Internal.Commands.ModPack.Tool.Sword.Handle.Unsheath",
+  "id": "http://www.roblox.com/asset/?id=12222225",
+  "volume": 1.0,
+  "looped": false,
+  "speed": 1.0,
+  "version": "latest"
+ },
+ {
+  "name": "Lunge",
+  "path": "ServerScriptService.HD Admin.Core.MainModule.Value.Modules.Internal.Commands.ModPack.Tool.Sword.Handle.Lunge",
+  "id": "http://www.roblox.com/asset/?id=12222208",
+  "volume": 0.6,
+  "looped": false,
+  "speed": 1.0,
+  "version": "latest"
+ },
+ {
+  "name": "Slash",
+  "path": "ServerScriptService.HD Admin.Core.MainModule.Value.Modules.Internal.Commands.ModPack.Tool.Sword.Handle.Slash",
+  "id": "http://www.roblox.com/asset/?id=12222216",
+  "volume": 0.7,
+  "looped": false,
+  "speed": 1.0,
+  "version": "latest"
  }
 ]

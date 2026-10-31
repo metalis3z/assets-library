@@ -1,0 +1,1124 @@
+1122 scripts, 245773 lines
+kind     lines  enabled  path
+module       3  yes      scripts/MaterialService/ToolMaterials/README.luau
+server      63  yes      scripts/README.server.luau
+client    1084  yes      scripts/ReplicatedFirst/LoadingScreenController.client.luau
+module       2  yes      scripts/ReplicatedFirst/UserGenerated.luau
+client       2  yes      scripts/ReplicatedFirst/UserGenerated/Analytics.server.luau
+server     115  yes      scripts/ReplicatedStorage/Assets/BanHammer/BanHammerTool/BanHammerToolServer.server.luau
+module      14  yes      scripts/ReplicatedStorage/Assets/Cutscenes/GAGTrailer/Animations.luau
+module    2258  yes      scripts/ReplicatedStorage/Assets/Cutscenes/GAGTrailer/FoV.luau
+module     577  yes      scripts/ReplicatedStorage/Assets/Cutscenes/GAGTrailer/Markers.luau
+client     623  yes      scripts/ReplicatedStorage/Assets/Cutscenes/GAGTrailer/Rigs/MainCharacter/Animate.client.luau
+client     623  yes      scripts/ReplicatedStorage/Assets/Cutscenes/GAGTrailer/Rigs/Thief/Animate.client.luau
+module      14  yes      scripts/ReplicatedStorage/Assets/Cutscenes/GAGTrailerNoWalls/Animations.luau
+module    2258  yes      scripts/ReplicatedStorage/Assets/Cutscenes/GAGTrailerNoWalls/FoV.luau   (same source as scripts/ReplicatedStorage/Assets/Cutscenes/GAGTrailer/FoV.luau)
+module     566  yes      scripts/ReplicatedStorage/Assets/Cutscenes/GAGTrailerNoWalls/Markers.luau
+client     623  yes      scripts/ReplicatedStorage/Assets/Cutscenes/GAGTrailerNoWalls/Rigs/MainCharacter/Animate.client.luau   (same source as scripts/ReplicatedStorage/Assets/ExtraPreview/Animate.client.luau)
+client     623  yes      scripts/ReplicatedStorage/Assets/Cutscenes/GAGTrailerNoWalls/Rigs/Thief/Animate.client.luau   (same source as scripts/ReplicatedStorage/Assets/Cutscenes/GAGTrailer/Rigs/Thief/Animate.client.luau)
+module       6  yes      scripts/ReplicatedStorage/Assets/Cutscenes/GAGTrailerShortVers/Animations.luau
+module     302  yes      scripts/ReplicatedStorage/Assets/Cutscenes/GAGTrailerShortVers/FoV.luau
+module     445  yes      scripts/ReplicatedStorage/Assets/Cutscenes/GAGTrailerShortVers/Markers.luau
+client     623  yes      scripts/ReplicatedStorage/Assets/Cutscenes/GAGTrailerShortVers/Rigs/MainCharacter/Animate.client.luau   (same source as scripts/ReplicatedStorage/Assets/Cutscenes/GAGTrailer/Rigs/Thief/Animate.client.luau)
+client     623  yes      scripts/ReplicatedStorage/Assets/Cutscenes/GAGTrailerShortVers/Rigs/Thief/Animate.client.luau   (same source as scripts/ReplicatedStorage/Assets/ExtraPreview/Animate.client.luau)
+client     623  yes      scripts/ReplicatedStorage/Assets/ExtraPreview/Animate.client.luau
+client       6  yes      scripts/ReplicatedStorage/Assets/ExtraPreview/Billboard_UI.client.luau   (same source as scripts/StarterPlayer/StarterCharacterScripts/Billboard_UI.client.luau)
+client      65  yes      scripts/ReplicatedStorage/Assets/ExtraPreview/Billboard_UI/Billboard_UI/Objects/UIListLayout.client.luau   (same source as scripts/StarterPlayer/StarterCharacterScripts/Billboard_UI/Billboard_UI/Objects/UIListLayout.client.luau)
+client      94  yes      scripts/ReplicatedStorage/Assets/ExtraPreview/GalaxyTexture.client.luau   (same source as scripts/StarterPlayer/StarterCharacterScripts/GalaxyTexture.client.luau)
+server       3  yes      scripts/ReplicatedStorage/Assets/ExtraPreview/Health.server.luau   (same source as scripts/ReplicatedStorage/UserGenerated/FastFlags/ServerRunner.server.luau)
+server      51  yes      scripts/ReplicatedStorage/Assets/Freeze Ray/FreezeRayVFX.server.luau
+client      31  yes      scripts/ReplicatedStorage/Assets/NpcUIs/Option_UI/Frame/ImageButton/LocalScript.client.luau
+client      10  NO       scripts/ReplicatedStorage/Assets/NpcUIs/Response_UI/Script.server.luau
+server      81  yes      scripts/ReplicatedStorage/Assets/Power Hose/PowerWasher.server.luau
+client      57  NO       scripts/ReplicatedStorage/Assets/Props/Weather Machine/Conveyor/Velocity.server.luau
+server       3  yes      scripts/ReplicatedStorage/Assets/Rake/RakeModel/RakeHitboxHandler.server.luau   (same source as scripts/ReplicatedStorage/UserGenerated/FastFlags/ServerRunner.server.luau)
+server       3  yes      scripts/ReplicatedStorage/Assets/Rakes/Rake/RakeModel/RakeHitboxHandler.server.luau   (same source as scripts/ReplicatedStorage/UserGenerated/FastFlags/ServerRunner.server.luau)
+module    3546  yes      scripts/ReplicatedStorage/ClaudeDepReport/Page01.luau
+module     535  yes      scripts/ReplicatedStorage/ClaudeDepReport/Page02.luau
+module     295  yes      scripts/ReplicatedStorage/ClientModules/AutomaticCanvasSize.luau
+module     166  yes      scripts/ReplicatedStorage/ClientModules/BackpackListener.luau
+module     419  yes      scripts/ReplicatedStorage/ClientModules/Bezier.luau
+module      17  yes      scripts/ReplicatedStorage/ClientModules/Blur.luau
+module      76  yes      scripts/ReplicatedStorage/ClientModules/BodyShaker.luau
+module     134  yes      scripts/ReplicatedStorage/ClientModules/ButtonMash.luau
+module     615  yes      scripts/ReplicatedStorage/ClientModules/CCDIKController.luau   (same source as scripts/StarterPlayer/StarterPlayerScripts/Controllers/VenusFlyTrapController/CCDIKController.luau)
+module     113  yes      scripts/ReplicatedStorage/ClientModules/CCDIKController/Maid.luau   (same source as scripts/StarterPlayer/StarterPlayerScripts/Controllers/VenusFlyTrapController/CCDIKController/Maid.luau)
+module      20  yes      scripts/ReplicatedStorage/ClientModules/CCDIKController/VectorUtil.luau
+module      10  yes      scripts/ReplicatedStorage/ClientModules/CamShake.luau
+module     125  yes      scripts/ReplicatedStorage/ClientModules/CamShake/CameraShaker.luau
+module     133  yes      scripts/ReplicatedStorage/ClientModules/CamShake/CameraShaker/CameraShakeInstance.luau
+module      96  yes      scripts/ReplicatedStorage/ClientModules/CamShake/CameraShaker/CameraShakePresets.luau
+module     445  yes      scripts/ReplicatedStorage/ClientModules/CatmullRomSpline.luau
+module     364  yes      scripts/ReplicatedStorage/ClientModules/Chalk.luau
+module      60  yes      scripts/ReplicatedStorage/ClientModules/Device.luau
+module      48  yes      scripts/ReplicatedStorage/ClientModules/Effects/ChunkDebris.luau
+module      85  yes      scripts/ReplicatedStorage/ClientModules/Effects/LevelUpEffect.luau
+module      35  yes      scripts/ReplicatedStorage/ClientModules/FramePopup.luau
+module     320  yes      scripts/ReplicatedStorage/ClientModules/Iris.luau
+module     416  yes      scripts/ReplicatedStorage/ClientModules/Iris/API.luau
+module     593  yes      scripts/ReplicatedStorage/ClientModules/Iris/Internal.luau
+module       4  yes      scripts/ReplicatedStorage/ClientModules/Iris/PubTypes.luau
+module       4  yes      scripts/ReplicatedStorage/ClientModules/Iris/Types.luau
+module       2  yes      scripts/ReplicatedStorage/ClientModules/Iris/WidgetTypes.luau   (same source as scripts/ReplicatedStorage/UserGenerated.luau)
+module     253  yes      scripts/ReplicatedStorage/ClientModules/Iris/config.luau
+module    2358  yes      scripts/ReplicatedStorage/ClientModules/Iris/demoWindow.luau
+module     429  yes      scripts/ReplicatedStorage/ClientModules/Iris/widgets.luau
+module      88  yes      scripts/ReplicatedStorage/ClientModules/Iris/widgets/Button.luau
+module     111  yes      scripts/ReplicatedStorage/ClientModules/Iris/widgets/Checkbox.luau
+module     455  yes      scripts/ReplicatedStorage/ClientModules/Iris/widgets/Combo.luau
+module     134  yes      scripts/ReplicatedStorage/ClientModules/Iris/widgets/Format.luau
+module     160  yes      scripts/ReplicatedStorage/ClientModules/Iris/widgets/Image.luau
+module    1312  yes      scripts/ReplicatedStorage/ClientModules/Iris/widgets/Input.luau
+module     588  yes      scripts/ReplicatedStorage/ClientModules/Iris/widgets/Menu.luau
+module     666  yes      scripts/ReplicatedStorage/ClientModules/Iris/widgets/Plot.luau
+module     123  yes      scripts/ReplicatedStorage/ClientModules/Iris/widgets/RadioButton.luau
+module     156  yes      scripts/ReplicatedStorage/ClientModules/Iris/widgets/Root.luau
+module     332  yes      scripts/ReplicatedStorage/ClientModules/Iris/widgets/Tab.luau
+module     627  yes      scripts/ReplicatedStorage/ClientModules/Iris/widgets/Table.luau
+module     135  yes      scripts/ReplicatedStorage/ClientModules/Iris/widgets/Text.luau
+module     260  yes      scripts/ReplicatedStorage/ClientModules/Iris/widgets/Tree.luau
+module    1079  yes      scripts/ReplicatedStorage/ClientModules/Iris/widgets/Window.luau
+module     501  yes      scripts/ReplicatedStorage/ClientModules/MessagePrompt.luau
+module      25  yes      scripts/ReplicatedStorage/ClientModules/NPC.luau
+module      39  yes      scripts/ReplicatedStorage/ClientModules/PlacementGrid.luau
+module     103  yes      scripts/ReplicatedStorage/ClientModules/PlayerStateClient.luau
+module     196  yes      scripts/ReplicatedStorage/ClientModules/RagdollModule.luau
+module     873  yes      scripts/ReplicatedStorage/ClientModules/ReplicaClient.luau
+module    1103  yes      scripts/ReplicatedStorage/ClientModules/RestockStoreController.luau
+module      35  yes      scripts/ReplicatedStorage/ClientModules/Reticule.luau
+module      46  yes      scripts/ReplicatedStorage/ClientModules/ScreenResolution.luau
+module     225  yes      scripts/ReplicatedStorage/ClientModules/Signal.luau
+module      32  yes      scripts/ReplicatedStorage/ClientModules/Skybox.luau
+module     323  yes      scripts/ReplicatedStorage/ClientModules/SmartProximityPrompt.luau
+module      70  yes      scripts/ReplicatedStorage/ClientModules/SpiralTrail.luau
+module      36  yes      scripts/ReplicatedStorage/ClientModules/SpiralTrail/CreateTrail.luau
+module     722  yes      scripts/ReplicatedStorage/ClientModules/Spring.luau
+module     125  yes      scripts/ReplicatedStorage/ClientModules/Spring2.luau
+module     596  yes      scripts/ReplicatedStorage/ClientModules/TopText.luau
+module     222  yes      scripts/ReplicatedStorage/ClientModules/Trove.luau
+module     209  yes      scripts/ReplicatedStorage/ClientModules/Trove/init.spec.luau
+module      12  yes      scripts/ReplicatedStorage/ClientModules/Trove/wally.luau
+module      82  yes      scripts/ReplicatedStorage/ClientModules/WatchButtonHold.luau
+module    2505  yes      scripts/ReplicatedStorage/ClientModules/topbarplus.luau
+module      13  yes      scripts/ReplicatedStorage/ClientModules/topbarplus/Attribute.luau
+module     382  yes      scripts/ReplicatedStorage/ClientModules/topbarplus/Elements/Caption.luau
+module     226  yes      scripts/ReplicatedStorage/ClientModules/topbarplus/Elements/Container.luau
+module     450  yes      scripts/ReplicatedStorage/ClientModules/topbarplus/Elements/Dropdown.luau
+module     117  yes      scripts/ReplicatedStorage/ClientModules/topbarplus/Elements/Indicator.luau
+module     210  yes      scripts/ReplicatedStorage/ClientModules/topbarplus/Elements/Menu.luau
+module     119  yes      scripts/ReplicatedStorage/ClientModules/topbarplus/Elements/Notice.luau
+module      51  yes      scripts/ReplicatedStorage/ClientModules/topbarplus/Elements/Selection.luau
+module     473  yes      scripts/ReplicatedStorage/ClientModules/topbarplus/Elements/Widget.luau
+module     199  yes      scripts/ReplicatedStorage/ClientModules/topbarplus/Features/Gamepad.luau
+module     355  yes      scripts/ReplicatedStorage/ClientModules/topbarplus/Features/Overflow.luau
+module     337  yes      scripts/ReplicatedStorage/ClientModules/topbarplus/Features/Themes.luau
+module      39  yes      scripts/ReplicatedStorage/ClientModules/topbarplus/Features/Themes/Classic.luau
+module     110  yes      scripts/ReplicatedStorage/ClientModules/topbarplus/Features/Themes/Default.luau
+module     135  yes      scripts/ReplicatedStorage/ClientModules/topbarplus/Packages/GoodSignal.luau   (same source as scripts/StarterPlayer/StarterPlayerScripts/Controllers/InventoryController/Main/Icon/Packages/GoodSignal.luau)
+module     358  yes      scripts/ReplicatedStorage/ClientModules/topbarplus/Packages/Janitor.luau
+module      30  yes      scripts/ReplicatedStorage/ClientModules/topbarplus/Reference.luau
+module       2  yes      scripts/ReplicatedStorage/ClientModules/topbarplus/Types.luau   (same source as scripts/ReplicatedStorage/UGApp.luau)
+module     724  yes      scripts/ReplicatedStorage/ClientModules/topbarplus/Utility.luau
+module      46  yes      scripts/ReplicatedStorage/ClientModules/topbarplus/VERSION.luau
+module     107  yes      scripts/ReplicatedStorage/CmdrClient.luau
+module     175  yes      scripts/ReplicatedStorage/CmdrClient/CmdrInterface.luau
+module     167  yes      scripts/ReplicatedStorage/CmdrClient/CmdrInterface/AutoComplete.luau
+module     318  yes      scripts/ReplicatedStorage/CmdrClient/CmdrInterface/Window.luau
+module      28  yes      scripts/ReplicatedStorage/CmdrClient/Commands/addgamepass.luau
+module      23  yes      scripts/ReplicatedStorage/CmdrClient/Commands/afkdebug.luau
+module      28  yes      scripts/ReplicatedStorage/CmdrClient/Commands/bargainab.luau
+module      47  yes      scripts/ReplicatedStorage/CmdrClient/Commands/benchmark.luau
+module      17  yes      scripts/ReplicatedStorage/CmdrClient/Commands/cleandevproducts.luau
+module      23  yes      scripts/ReplicatedStorage/CmdrClient/Commands/cleargarden.luau
+module      23  yes      scripts/ReplicatedStorage/CmdrClient/Commands/clearinventory.luau
+module      23  yes      scripts/ReplicatedStorage/CmdrClient/Commands/clearweather.luau
+module      23  yes      scripts/ReplicatedStorage/CmdrClient/Commands/collectall.luau
+module      38  yes      scripts/ReplicatedStorage/CmdrClient/Commands/competitionaddscore.luau
+module      24  yes      scripts/ReplicatedStorage/CmdrClient/Commands/competitionreload.luau
+module      38  yes      scripts/ReplicatedStorage/CmdrClient/Commands/competitionsetscore.luau
+module      17  yes      scripts/ReplicatedStorage/CmdrClient/Commands/competitionstatus.luau
+module      30  yes      scripts/ReplicatedStorage/CmdrClient/Commands/competitiontop.luau
+module      23  yes      scripts/ReplicatedStorage/CmdrClient/Commands/dailydealtime.luau
+module      23  yes      scripts/ReplicatedStorage/CmdrClient/Commands/debugdevproduct.luau
+module      23  yes      scripts/ReplicatedStorage/CmdrClient/Commands/decayall.luau
+module      29  yes      scripts/ReplicatedStorage/CmdrClient/Commands/dupeheld.luau
+module      34  yes      scripts/ReplicatedStorage/CmdrClient/Commands/equippet.luau
+module      30  yes      scripts/ReplicatedStorage/CmdrClient/Commands/expandgarden.luau
+module      24  yes      scripts/ReplicatedStorage/CmdrClient/Commands/fillgarden.luau
+module      34  yes      scripts/ReplicatedStorage/CmdrClient/Commands/fillplant.luau
+module      23  yes      scripts/ReplicatedStorage/CmdrClient/Commands/forcenextmoon.luau
+module      17  yes      scripts/ReplicatedStorage/CmdrClient/Commands/forceperch.luau
+module      24  yes      scripts/ReplicatedStorage/CmdrClient/Commands/forceraccoonsteal.luau
+module      35  yes      scripts/ReplicatedStorage/CmdrClient/Commands/forcerestock.luau
+module      42  yes      scripts/ReplicatedStorage/CmdrClient/Commands/forcespawnpet.luau
+module      31  yes      scripts/ReplicatedStorage/CmdrClient/Commands/forceweather.luau
+module      29  yes      scripts/ReplicatedStorage/CmdrClient/Commands/giveallseeds.luau
+module      29  yes      scripts/ReplicatedStorage/CmdrClient/Commands/givebee.luau
+module      29  yes      scripts/ReplicatedStorage/CmdrClient/Commands/givebunny.luau
+module      34  yes      scripts/ReplicatedStorage/CmdrClient/Commands/givecrate.luau
+module      29  yes      scripts/ReplicatedStorage/CmdrClient/Commands/givecrowbar.luau
+module      29  yes      scripts/ReplicatedStorage/CmdrClient/Commands/givedeer.luau
+module      34  yes      scripts/ReplicatedStorage/CmdrClient/Commands/giveegg.luau
+module      29  yes      scripts/ReplicatedStorage/CmdrClient/Commands/giveflashbang.luau
+module      34  yes      scripts/ReplicatedStorage/CmdrClient/Commands/givefreezeray.luau
+module      29  yes      scripts/ReplicatedStorage/CmdrClient/Commands/givefrog.luau
+module      46  yes      scripts/ReplicatedStorage/CmdrClient/Commands/givefruit.luau
+module      46  yes      scripts/ReplicatedStorage/CmdrClient/Commands/givefullinventory.luau
+module      34  yes      scripts/ReplicatedStorage/CmdrClient/Commands/givegnome.luau
+module      29  yes      scripts/ReplicatedStorage/CmdrClient/Commands/givegoldendragonfly.luau
+module      34  yes      scripts/ReplicatedStorage/CmdrClient/Commands/giveguildcrate.luau
+module      34  yes      scripts/ReplicatedStorage/CmdrClient/Commands/giveladder.luau
+module      29  yes      scripts/ReplicatedStorage/CmdrClient/Commands/givemaxpet.luau
+module      34  yes      scripts/ReplicatedStorage/CmdrClient/Commands/givemushroom.luau
+module      29  yes      scripts/ReplicatedStorage/CmdrClient/Commands/giveowl.luau
+module      56  yes      scripts/ReplicatedStorage/CmdrClient/Commands/givepet.luau
+module      39  yes      scripts/ReplicatedStorage/CmdrClient/Commands/givepettool.luau
+module      29  yes      scripts/ReplicatedStorage/CmdrClient/Commands/givepot.luau
+module      34  yes      scripts/ReplicatedStorage/CmdrClient/Commands/givepowerhose.luau
+module      34  yes      scripts/ReplicatedStorage/CmdrClient/Commands/giveprop.luau
+module      34  yes      scripts/ReplicatedStorage/CmdrClient/Commands/giveraccoon.luau
+module      34  yes      scripts/ReplicatedStorage/CmdrClient/Commands/giverake.luau
+module      29  yes      scripts/ReplicatedStorage/CmdrClient/Commands/giverobin.luau
+module      34  yes      scripts/ReplicatedStorage/CmdrClient/Commands/giveseed.luau
+module      34  yes      scripts/ReplicatedStorage/CmdrClient/Commands/giveseedpack.luau
+module      28  yes      scripts/ReplicatedStorage/CmdrClient/Commands/givesheckles.luau
+module      28  yes      scripts/ReplicatedStorage/CmdrClient/Commands/giveskillpoints.luau
+module      34  yes      scripts/ReplicatedStorage/CmdrClient/Commands/givesprinkler.luau
+module      34  yes      scripts/ReplicatedStorage/CmdrClient/Commands/giveteleporter.luau
+module      29  yes      scripts/ReplicatedStorage/CmdrClient/Commands/givetrowel.luau
+module      29  yes      scripts/ReplicatedStorage/CmdrClient/Commands/giveunicorn.luau
+module      23  yes      scripts/ReplicatedStorage/CmdrClient/Commands/givevinewrapper.luau
+module      34  yes      scripts/ReplicatedStorage/CmdrClient/Commands/givewateringcan.luau
+module      34  yes      scripts/ReplicatedStorage/CmdrClient/Commands/givewheelbarrow.luau
+module      23  yes      scripts/ReplicatedStorage/CmdrClient/Commands/globalnotify.luau
+module      24  yes      scripts/ReplicatedStorage/CmdrClient/Commands/goldrainbowmult.luau
+module      29  yes      scripts/ReplicatedStorage/CmdrClient/Commands/gotoplace.luau
+module      23  yes      scripts/ReplicatedStorage/CmdrClient/Commands/growall.luau
+module      30  yes      scripts/ReplicatedStorage/CmdrClient/Commands/guilddebug.luau
+module      23  yes      scripts/ReplicatedStorage/CmdrClient/Commands/guilddisband.luau
+module      29  yes      scripts/ReplicatedStorage/CmdrClient/Commands/guildfix.luau
+module      17  yes      scripts/ReplicatedStorage/CmdrClient/Commands/guildforcetick.luau
+module      28  yes      scripts/ReplicatedStorage/CmdrClient/Commands/guildgrantcoins.luau
+module      30  yes      scripts/ReplicatedStorage/CmdrClient/Commands/guildinspect.luau
+module      29  yes      scripts/ReplicatedStorage/CmdrClient/Commands/guildinvitesend.luau
+module      28  yes      scripts/ReplicatedStorage/CmdrClient/Commands/guildjoin.luau
+module      23  yes      scripts/ReplicatedStorage/CmdrClient/Commands/guildkick.luau
+module      28  yes      scripts/ReplicatedStorage/CmdrClient/Commands/guildseticon.luau
+module      35  yes      scripts/ReplicatedStorage/CmdrClient/Commands/guildsetslots.luau
+module      23  yes      scripts/ReplicatedStorage/CmdrClient/Commands/guildwipeall.luau
+module      23  yes      scripts/ReplicatedStorage/CmdrClient/Commands/helpsearch.luau
+module      23  yes      scripts/ReplicatedStorage/CmdrClient/Commands/instantpurchases.luau
+module      24  yes      scripts/ReplicatedStorage/CmdrClient/Commands/kickall.luau
+module      17  yes      scripts/ReplicatedStorage/CmdrClient/Commands/listdevproducts.luau
+module      24  yes      scripts/ReplicatedStorage/CmdrClient/Commands/mailboxstats.luau
+module      23  yes      scripts/ReplicatedStorage/CmdrClient/Commands/mailrandom.luau
+module      17  yes      scripts/ReplicatedStorage/CmdrClient/Commands/matchmaking.luau
+module      24  yes      scripts/ReplicatedStorage/CmdrClient/Commands/monkeygrabmult.luau
+module      24  yes      scripts/ReplicatedStorage/CmdrClient/Commands/newserver.luau
+module      28  yes      scripts/ReplicatedStorage/CmdrClient/Commands/playcutscene.luau
+module      28  yes      scripts/ReplicatedStorage/CmdrClient/Commands/progresstime.luau
+module      24  yes      scripts/ReplicatedStorage/CmdrClient/Commands/purgeblacklist.luau
+module      23  yes      scripts/ReplicatedStorage/CmdrClient/Commands/removeallgamepasses.luau
+module      28  yes      scripts/ReplicatedStorage/CmdrClient/Commands/removegamepass.luau
+module      34  yes      scripts/ReplicatedStorage/CmdrClient/Commands/removeprop.luau
+module      34  yes      scripts/ReplicatedStorage/CmdrClient/Commands/removeseed.luau
+module      28  yes      scripts/ReplicatedStorage/CmdrClient/Commands/removesheckles.luau
+module      34  yes      scripts/ReplicatedStorage/CmdrClient/Commands/removesprinkler.luau
+module      34  yes      scripts/ReplicatedStorage/CmdrClient/Commands/removewateringcan.luau
+module      23  yes      scripts/ReplicatedStorage/CmdrClient/Commands/resetdailydeal.luau
+module      17  yes      scripts/ReplicatedStorage/CmdrClient/Commands/resetdevproducts.luau
+module      23  yes      scripts/ReplicatedStorage/CmdrClient/Commands/robinaction.luau
+module      17  yes      scripts/ReplicatedStorage/CmdrClient/Commands/seeddevproducts.luau
+module      23  yes      scripts/ReplicatedStorage/CmdrClient/Commands/setmoon.luau
+module      34  yes      scripts/ReplicatedStorage/CmdrClient/Commands/setpettype.luau
+module      23  yes      scripts/ReplicatedStorage/CmdrClient/Commands/setphase.luau
+module      28  yes      scripts/ReplicatedStorage/CmdrClient/Commands/setsheckles.luau
+module      33  yes      scripts/ReplicatedStorage/CmdrClient/Commands/setskillpointlevel.luau
+module      29  yes      scripts/ReplicatedStorage/CmdrClient/Commands/setweather.luau
+module      24  yes      scripts/ReplicatedStorage/CmdrClient/Commands/shovelragdoll.luau
+module      30  yes      scripts/ReplicatedStorage/CmdrClient/Commands/simulatemoons.luau
+module      17  yes      scripts/ReplicatedStorage/CmdrClient/Commands/simulatepropcrates.luau
+module      29  yes      scripts/ReplicatedStorage/CmdrClient/Commands/spawnwildpet.luau
+module      23  yes      scripts/ReplicatedStorage/CmdrClient/Commands/stopweather.luau
+module      23  yes      scripts/ReplicatedStorage/CmdrClient/Commands/syncdevproducts.luau
+module      24  yes      scripts/ReplicatedStorage/CmdrClient/Commands/testbird.luau
+module      23  yes      scripts/ReplicatedStorage/CmdrClient/Commands/testofflinecutscene.luau
+module      24  yes      scripts/ReplicatedStorage/CmdrClient/Commands/testrainbowmoonpets.luau
+module      23  yes      scripts/ReplicatedStorage/CmdrClient/Commands/wipedata.luau
+module      15  yes      scripts/ReplicatedStorage/CmdrClient/DefaultEventHandlers.luau
+module     243  yes      scripts/ReplicatedStorage/CmdrClient/Shared/Argument.luau
+module     212  yes      scripts/ReplicatedStorage/CmdrClient/Shared/Command.luau
+module     149  yes      scripts/ReplicatedStorage/CmdrClient/Shared/Dispatcher.luau
+module     279  yes      scripts/ReplicatedStorage/CmdrClient/Shared/Registry.luau
+module     554  yes      scripts/ReplicatedStorage/CmdrClient/Shared/Util.luau
+module      48  yes      scripts/ReplicatedStorage/CmdrClient/Types/AfterRun.luau
+module      53  yes      scripts/ReplicatedStorage/CmdrClient/Types/BeforeRun.luau
+module       4  yes      scripts/ReplicatedStorage/CmdrClient/Types/BindableResource.luau
+module     250  yes      scripts/ReplicatedStorage/CmdrClient/Types/BrickColor.luau
+module      36  yes      scripts/ReplicatedStorage/CmdrClient/Types/CardName.luau
+module      54  yes      scripts/ReplicatedStorage/CmdrClient/Types/Color3.luau
+module      22  yes      scripts/ReplicatedStorage/CmdrClient/Types/Command.luau
+module       4  yes      scripts/ReplicatedStorage/CmdrClient/Types/ConditionFunction.luau
+module      76  yes      scripts/ReplicatedStorage/CmdrClient/Types/CosmeticName.luau
+module      76  yes      scripts/ReplicatedStorage/CmdrClient/Types/CrateName.luau
+module      76  yes      scripts/ReplicatedStorage/CmdrClient/Types/CrowbarName.luau
+module      27  yes      scripts/ReplicatedStorage/CmdrClient/Types/Currency.luau
+module      76  yes      scripts/ReplicatedStorage/CmdrClient/Types/Cutscene.luau
+module     126  yes      scripts/ReplicatedStorage/CmdrClient/Types/Duration.luau
+module      77  yes      scripts/ReplicatedStorage/CmdrClient/Types/EggName.luau
+module      76  yes      scripts/ReplicatedStorage/CmdrClient/Types/FreezerayName.luau
+module      76  yes      scripts/ReplicatedStorage/CmdrClient/Types/FruitName.luau
+module     150  yes      scripts/ReplicatedStorage/CmdrClient/Types/GamepassName.luau
+module      76  yes      scripts/ReplicatedStorage/CmdrClient/Types/GnomeName.luau
+module      76  yes      scripts/ReplicatedStorage/CmdrClient/Types/GuildCrateName.luau
+module      13  yes      scripts/ReplicatedStorage/CmdrClient/Types/JSON.luau
+module      76  yes      scripts/ReplicatedStorage/CmdrClient/Types/LadderName.luau
+module      41  yes      scripts/ReplicatedStorage/CmdrClient/Types/MathOperator.luau
+module      79  yes      scripts/ReplicatedStorage/CmdrClient/Types/MoonType.luau
+module      76  yes      scripts/ReplicatedStorage/CmdrClient/Types/MushroomName.luau
+module      78  yes      scripts/ReplicatedStorage/CmdrClient/Types/MutationName.luau
+module      36  yes      scripts/ReplicatedStorage/CmdrClient/Types/PackName.luau
+module      76  yes      scripts/ReplicatedStorage/CmdrClient/Types/Pet.luau
+module      76  yes      scripts/ReplicatedStorage/CmdrClient/Types/Phases.luau
+module      78  yes      scripts/ReplicatedStorage/CmdrClient/Types/PlaceType.luau
+module      33  yes      scripts/ReplicatedStorage/CmdrClient/Types/Player.luau
+module      95  yes      scripts/ReplicatedStorage/CmdrClient/Types/PlayerId.luau
+module      76  yes      scripts/ReplicatedStorage/CmdrClient/Types/PowerhoseName.luau
+module     136  yes      scripts/ReplicatedStorage/CmdrClient/Types/Primitives.luau
+module      76  yes      scripts/ReplicatedStorage/CmdrClient/Types/RaccoonName.luau
+module      76  yes      scripts/ReplicatedStorage/CmdrClient/Types/RakeName.luau
+module      42  yes      scripts/ReplicatedStorage/CmdrClient/Types/RobinAction.luau
+module      76  yes      scripts/ReplicatedStorage/CmdrClient/Types/SeedName.luau
+module      77  yes      scripts/ReplicatedStorage/CmdrClient/Types/SeedPackName.luau
+module      72  yes      scripts/ReplicatedStorage/CmdrClient/Types/SkillName.luau
+module      76  yes      scripts/ReplicatedStorage/CmdrClient/Types/SprinklerName.luau
+module      26  yes      scripts/ReplicatedStorage/CmdrClient/Types/StoredKey.luau
+module      42  yes      scripts/ReplicatedStorage/CmdrClient/Types/Team.luau
+module      76  yes      scripts/ReplicatedStorage/CmdrClient/Types/TeleporterName.luau
+module      76  yes      scripts/ReplicatedStorage/CmdrClient/Types/TrowelName.luau
+module      22  yes      scripts/ReplicatedStorage/CmdrClient/Types/Type.luau
+module      19  yes      scripts/ReplicatedStorage/CmdrClient/Types/URL.luau
+module      27  yes      scripts/ReplicatedStorage/CmdrClient/Types/UserInput.luau
+module      30  yes      scripts/ReplicatedStorage/CmdrClient/Types/Vector.luau
+module      76  yes      scripts/ReplicatedStorage/CmdrClient/Types/WateringCanName.luau
+module      76  yes      scripts/ReplicatedStorage/CmdrClient/Types/Weather.luau
+module      76  yes      scripts/ReplicatedStorage/CmdrClient/Types/WheelbarrowName.luau
+module       6  yes      scripts/ReplicatedStorage/Modules/IsDev.luau
+module     198  yes      scripts/ReplicatedStorage/PlantGenerationModules/Fruits/Acorn.luau
+module     229  yes      scripts/ReplicatedStorage/PlantGenerationModules/Fruits/Apple.luau
+module     175  yes      scripts/ReplicatedStorage/PlantGenerationModules/Fruits/Baby Cactus.luau
+module     163  yes      scripts/ReplicatedStorage/PlantGenerationModules/Fruits/Banana.luau
+module     144  yes      scripts/ReplicatedStorage/PlantGenerationModules/Fruits/Beanstalk.luau
+module     105  yes      scripts/ReplicatedStorage/PlantGenerationModules/Fruits/Blueberry.luau
+module     213  yes      scripts/ReplicatedStorage/PlantGenerationModules/Fruits/Cactus.luau
+module     114  yes      scripts/ReplicatedStorage/PlantGenerationModules/Fruits/Cherry.luau
+module     115  yes      scripts/ReplicatedStorage/PlantGenerationModules/Fruits/Coconut.luau
+module     202  yes      scripts/ReplicatedStorage/PlantGenerationModules/Fruits/Corn.luau
+module     254  yes      scripts/ReplicatedStorage/PlantGenerationModules/Fruits/Dragon Fruit.luau
+module     119  yes      scripts/ReplicatedStorage/PlantGenerationModules/Fruits/Dragon's Breath.luau
+module     165  yes      scripts/ReplicatedStorage/PlantGenerationModules/Fruits/Ghost Pepper.luau
+module     245  yes      scripts/ReplicatedStorage/PlantGenerationModules/Fruits/Glow Mushroom.luau
+module     209  yes      scripts/ReplicatedStorage/PlantGenerationModules/Fruits/Grape.luau
+module     168  yes      scripts/ReplicatedStorage/PlantGenerationModules/Fruits/Green Bean.luau
+module     155  yes      scripts/ReplicatedStorage/PlantGenerationModules/Fruits/Horned Melon.luau
+module     180  yes      scripts/ReplicatedStorage/PlantGenerationModules/Fruits/Lotus.luau
+module     225  yes      scripts/ReplicatedStorage/PlantGenerationModules/Fruits/Mango.luau
+module     209  yes      scripts/ReplicatedStorage/PlantGenerationModules/Fruits/Moon Bloom OLD.luau
+module     255  yes      scripts/ReplicatedStorage/PlantGenerationModules/Fruits/Moon Bloom.luau
+module      70  yes      scripts/ReplicatedStorage/PlantGenerationModules/Fruits/PartFruit.luau
+module     127  yes      scripts/ReplicatedStorage/PlantGenerationModules/Fruits/Pineapple.luau
+module     228  yes      scripts/ReplicatedStorage/PlantGenerationModules/Fruits/Pinetree.luau
+module     189  yes      scripts/ReplicatedStorage/PlantGenerationModules/Fruits/Poison Apple.luau
+module     203  yes      scripts/ReplicatedStorage/PlantGenerationModules/Fruits/Poison Ivy.luau
+module     134  yes      scripts/ReplicatedStorage/PlantGenerationModules/Fruits/Pomegranate.luau
+module     169  yes      scripts/ReplicatedStorage/PlantGenerationModules/Fruits/Romanesco.luau
+module     157  yes      scripts/ReplicatedStorage/PlantGenerationModules/Fruits/Strawberry.luau
+module     201  yes      scripts/ReplicatedStorage/PlantGenerationModules/Fruits/Sunflower.luau
+module      89  yes      scripts/ReplicatedStorage/PlantGenerationModules/Fruits/Thorn Rose.luau
+module     112  yes      scripts/ReplicatedStorage/PlantGenerationModules/Fruits/Tomato.luau
+module      89  yes      scripts/ReplicatedStorage/PlantGenerationModules/Fruits/Venus Fly Trap.luau
+module     324  yes      scripts/ReplicatedStorage/PlantGenerationModules/Plants/Acorn.luau
+module     263  yes      scripts/ReplicatedStorage/PlantGenerationModules/Plants/Apple.luau
+module     142  yes      scripts/ReplicatedStorage/PlantGenerationModules/Plants/Baby Cactus.luau
+module     182  yes      scripts/ReplicatedStorage/PlantGenerationModules/Plants/Bamboo.luau
+module     291  yes      scripts/ReplicatedStorage/PlantGenerationModules/Plants/Banana.luau
+module     184  yes      scripts/ReplicatedStorage/PlantGenerationModules/Plants/Beanstalk.luau
+module     182  yes      scripts/ReplicatedStorage/PlantGenerationModules/Plants/Blueberry.luau
+module     135  yes      scripts/ReplicatedStorage/PlantGenerationModules/Plants/Buttercup.luau
+module     339  yes      scripts/ReplicatedStorage/PlantGenerationModules/Plants/Cactus.luau
+module     107  yes      scripts/ReplicatedStorage/PlantGenerationModules/Plants/Carrot.luau
+module     235  yes      scripts/ReplicatedStorage/PlantGenerationModules/Plants/Cherry.luau
+module     300  yes      scripts/ReplicatedStorage/PlantGenerationModules/Plants/Coconut.luau
+module     231  yes      scripts/ReplicatedStorage/PlantGenerationModules/Plants/Corn.luau
+module     324  yes      scripts/ReplicatedStorage/PlantGenerationModules/Plants/Dragon Fruit.luau
+module     257  yes      scripts/ReplicatedStorage/PlantGenerationModules/Plants/Dragon's Breath.luau
+module     250  yes      scripts/ReplicatedStorage/PlantGenerationModules/Plants/Ghost Pepper.luau
+module     224  yes      scripts/ReplicatedStorage/PlantGenerationModules/Plants/Glow Mushroom.luau
+module     265  yes      scripts/ReplicatedStorage/PlantGenerationModules/Plants/Grape.luau
+module     201  yes      scripts/ReplicatedStorage/PlantGenerationModules/Plants/Green Bean.luau
+module     231  yes      scripts/ReplicatedStorage/PlantGenerationModules/Plants/Horned Melon.luau
+module     117  yes      scripts/ReplicatedStorage/PlantGenerationModules/Plants/Lotus.luau
+module     294  yes      scripts/ReplicatedStorage/PlantGenerationModules/Plants/Magic Beanstalk.luau
+module     245  yes      scripts/ReplicatedStorage/PlantGenerationModules/Plants/Mango.luau
+module     224  yes      scripts/ReplicatedStorage/PlantGenerationModules/Plants/Moon Bloom OLD.luau
+module     308  yes      scripts/ReplicatedStorage/PlantGenerationModules/Plants/Moon Bloom.luau
+module     203  yes      scripts/ReplicatedStorage/PlantGenerationModules/Plants/Mushroom.luau
+module      86  yes      scripts/ReplicatedStorage/PlantGenerationModules/Plants/PartFruit.luau
+module     192  yes      scripts/ReplicatedStorage/PlantGenerationModules/Plants/Pineapple.luau
+module     162  yes      scripts/ReplicatedStorage/PlantGenerationModules/Plants/Pinetree.luau
+module     430  yes      scripts/ReplicatedStorage/PlantGenerationModules/Plants/Poison Apple.luau
+module     232  yes      scripts/ReplicatedStorage/PlantGenerationModules/Plants/Poison Ivy.luau
+module     609  yes      scripts/ReplicatedStorage/PlantGenerationModules/Plants/Pomegranate.luau
+module     159  yes      scripts/ReplicatedStorage/PlantGenerationModules/Plants/Pumpkin.luau
+module     140  yes      scripts/ReplicatedStorage/PlantGenerationModules/Plants/Romanesco.luau
+module     144  yes      scripts/ReplicatedStorage/PlantGenerationModules/Plants/Strawberry.luau
+module     396  yes      scripts/ReplicatedStorage/PlantGenerationModules/Plants/Sunflower.luau
+module     530  yes      scripts/ReplicatedStorage/PlantGenerationModules/Plants/Thorn Rose.luau
+module     373  yes      scripts/ReplicatedStorage/PlantGenerationModules/Plants/Tomato.luau
+module     173  yes      scripts/ReplicatedStorage/PlantGenerationModules/Plants/Tulip.luau
+module     397  yes      scripts/ReplicatedStorage/PlantGenerationModules/Plants/Venus Fly Trap.luau
+client      17  yes      scripts/ReplicatedStorage/ProximityPromptTemplates/Default/PromptFrame/BackgroundShadow/Resizer.client.luau
+module     149  yes      scripts/ReplicatedStorage/ReplicaShared/Maid.luau
+module      89  yes      scripts/ReplicatedStorage/ReplicaShared/RateLimit.luau
+module     166  yes      scripts/ReplicatedStorage/ReplicaShared/Remote.luau
+module     135  yes      scripts/ReplicatedStorage/ReplicaShared/Signal.luau
+module      23  yes      scripts/ReplicatedStorage/SharedData/ExpansionPrices.luau
+module      15  yes      scripts/ReplicatedStorage/SharedData/GreenbeanAvatarItems.luau
+module      39  yes      scripts/ReplicatedStorage/SharedData/GreenbeanCheck.luau
+module     346  yes      scripts/ReplicatedStorage/SharedData/PetData.luau
+module      67  yes      scripts/ReplicatedStorage/SharedData/PetSizes.luau
+module      41  yes      scripts/ReplicatedStorage/SharedData/PetSlotPrices.luau
+module      48  yes      scripts/ReplicatedStorage/SharedData/PetTypes.luau
+module     183  yes      scripts/ReplicatedStorage/SharedModules/AnimatedGradient.luau
+module       8  yes      scripts/ReplicatedStorage/SharedModules/BenchmarkPackets.luau
+module       5  yes      scripts/ReplicatedStorage/SharedModules/BidOddModule.luau
+module       6  yes      scripts/ReplicatedStorage/SharedModules/BuildData.luau
+module      35  yes      scripts/ReplicatedStorage/SharedModules/CalculateOvertimeGrowth.luau
+module      26  yes      scripts/ReplicatedStorage/SharedModules/CalculateStealDuration.luau
+module     171  yes      scripts/ReplicatedStorage/SharedModules/CrateData.luau
+module      28  yes      scripts/ReplicatedStorage/SharedModules/CrateData/Arch Crate.luau
+module      24  yes      scripts/ReplicatedStorage/SharedModules/CrateData/Bear Trap Crate.luau
+module      36  yes      scripts/ReplicatedStorage/SharedModules/CrateData/Bench Crate.luau
+module      28  yes      scripts/ReplicatedStorage/SharedModules/CrateData/Bridge Crate.luau
+module      32  yes      scripts/ReplicatedStorage/SharedModules/CrateData/Conveyor Crate.luau
+module      68  yes      scripts/ReplicatedStorage/SharedModules/CrateData/Fence Crate.luau
+module      28  yes      scripts/ReplicatedStorage/SharedModules/CrateData/Ladder Crate.luau
+module      32  yes      scripts/ReplicatedStorage/SharedModules/CrateData/Light Crate.luau
+module      28  yes      scripts/ReplicatedStorage/SharedModules/CrateData/Owner Door Crate.luau
+module      40  yes      scripts/ReplicatedStorage/SharedModules/CrateData/Roleplay Crate.luau
+module      24  yes      scripts/ReplicatedStorage/SharedModules/CrateData/Seesaw Crate.luau
+module      28  yes      scripts/ReplicatedStorage/SharedModules/CrateData/Sign Crate.luau
+module      28  yes      scripts/ReplicatedStorage/SharedModules/CrateData/Spring Crate.luau
+module      24  yes      scripts/ReplicatedStorage/SharedModules/CrateData/Teleporter Pad Crate.luau
+module      17  yes      scripts/ReplicatedStorage/SharedModules/CrowbarData.luau
+module      16  yes      scripts/ReplicatedStorage/SharedModules/DevAllowedIDs.luau
+module     242  yes      scripts/ReplicatedStorage/SharedModules/DevProductOverrides.luau
+module     112  yes      scripts/ReplicatedStorage/SharedModules/DevProducts.luau
+module      30  yes      scripts/ReplicatedStorage/SharedModules/EffectLoadManager.luau
+module     274  yes      scripts/ReplicatedStorage/SharedModules/EggData.luau
+module     104  yes      scripts/ReplicatedStorage/SharedModules/Environment.luau
+module     150  yes      scripts/ReplicatedStorage/SharedModules/ExclusiveShopData.luau
+module     505  yes      scripts/ReplicatedStorage/SharedModules/FakeRobuxPrompt.luau
+module     133  yes      scripts/ReplicatedStorage/SharedModules/FenceData.luau
+module      10  yes      scripts/ReplicatedStorage/SharedModules/Flags/AntiAfkFlags.luau
+module      10  yes      scripts/ReplicatedStorage/SharedModules/Flags/CrateShopFlags.luau
+module       8  yes      scripts/ReplicatedStorage/SharedModules/Flags/GardenFlags.luau
+module       8  yes      scripts/ReplicatedStorage/SharedModules/Flags/GearShopFlags.luau
+module       8  yes      scripts/ReplicatedStorage/SharedModules/Flags/MailboxFlags.luau
+module      16  yes      scripts/ReplicatedStorage/SharedModules/Flags/PerfFlags.luau
+module       8  yes      scripts/ReplicatedStorage/SharedModules/Flags/SeedShopFlags.luau
+module      22  yes      scripts/ReplicatedStorage/SharedModules/FreezeRayData.luau
+module      75  yes      scripts/ReplicatedStorage/SharedModules/FruitProxyUtil.luau
+module      41  yes      scripts/ReplicatedStorage/SharedModules/FruitValueCalc.luau
+module     265  yes      scripts/ReplicatedStorage/SharedModules/GearShopData.luau
+module      67  yes      scripts/ReplicatedStorage/SharedModules/GetGenerationPerMinute.luau
+module      22  yes      scripts/ReplicatedStorage/SharedModules/GnomeData.luau
+module      33  yes      scripts/ReplicatedStorage/SharedModules/GrowEffects.luau
+module     223  yes      scripts/ReplicatedStorage/SharedModules/GrowRateData.luau
+module      16  yes      scripts/ReplicatedStorage/SharedModules/GrowableScaleSync.luau
+module     191  yes      scripts/ReplicatedStorage/SharedModules/Guild/Asserts.luau
+module      97  yes      scripts/ReplicatedStorage/SharedModules/Guild/IconPool.luau
+module       2  yes      scripts/ReplicatedStorage/SharedModules/Guild/Types.luau   (same source as scripts/ReplicatedStorage/UserGenerated.luau)
+module      86  yes      scripts/ReplicatedStorage/SharedModules/GuildCompetition.luau
+module     108  yes      scripts/ReplicatedStorage/SharedModules/GuildCrateData.luau
+module      45  yes      scripts/ReplicatedStorage/SharedModules/GuildCrateData/Common Guild Crate.luau
+module      45  yes      scripts/ReplicatedStorage/SharedModules/GuildCrateData/Epic Guild Crate.luau
+module      45  yes      scripts/ReplicatedStorage/SharedModules/GuildCrateData/Legendary Guild Crate.luau
+module      39  yes      scripts/ReplicatedStorage/SharedModules/GuildCrateData/Mythic Guild Crate.luau
+module      33  yes      scripts/ReplicatedStorage/SharedModules/GuildCrateData/Rare Guild Crate.luau
+module      27  yes      scripts/ReplicatedStorage/SharedModules/GuildCrateData/Super Guild Crate.luau
+module      45  yes      scripts/ReplicatedStorage/SharedModules/GuildCrateData/Uncommon Guild Crate.luau
+module      16  yes      scripts/ReplicatedStorage/SharedModules/InArea.luau
+module      10  yes      scripts/ReplicatedStorage/SharedModules/LadderData.luau
+module      22  yes      scripts/ReplicatedStorage/SharedModules/LanternData.luau
+module       8  yes      scripts/ReplicatedStorage/SharedModules/LevelTrackingEquation.luau
+module     118  yes      scripts/ReplicatedStorage/SharedModules/MailIndex.luau
+module      35  yes      scripts/ReplicatedStorage/SharedModules/MultiplierProductIds.luau
+module      68  yes      scripts/ReplicatedStorage/SharedModules/MushroomData.luau
+module     151  yes      scripts/ReplicatedStorage/SharedModules/MutationData.luau
+module      11  yes      scripts/ReplicatedStorage/SharedModules/MutationData/Bloodlit.luau
+module      11  yes      scripts/ReplicatedStorage/SharedModules/MutationData/Chained.luau
+module       8  yes      scripts/ReplicatedStorage/SharedModules/MutationData/Electric.luau
+module      11  yes      scripts/ReplicatedStorage/SharedModules/MutationData/Frozen.luau
+module      11  yes      scripts/ReplicatedStorage/SharedModules/MutationData/Gold.luau
+module      11  yes      scripts/ReplicatedStorage/SharedModules/MutationData/Pizza.luau
+module       8  yes      scripts/ReplicatedStorage/SharedModules/MutationData/Rainbow.luau
+module      11  yes      scripts/ReplicatedStorage/SharedModules/MutationData/Solarflare.luau
+module      11  yes      scripts/ReplicatedStorage/SharedModules/MutationData/Starstruck.luau
+module     428  yes      scripts/ReplicatedStorage/SharedModules/Networking.luau
+module     110  yes      scripts/ReplicatedStorage/SharedModules/NumberUtils.luau
+module     857  yes      scripts/ReplicatedStorage/SharedModules/Packet.luau
+module      78  yes      scripts/ReplicatedStorage/SharedModules/Packet/Signal.luau
+module      34  yes      scripts/ReplicatedStorage/SharedModules/Packet/Task.luau
+module    3111  yes      scripts/ReplicatedStorage/SharedModules/Packet/Types.luau
+module      67  yes      scripts/ReplicatedStorage/SharedModules/Packet/Types/Characters.luau
+module      12  yes      scripts/ReplicatedStorage/SharedModules/Packet/Types/Enums.luau
+module       9  yes      scripts/ReplicatedStorage/SharedModules/Packet/Types/Static1.luau
+module       9  yes      scripts/ReplicatedStorage/SharedModules/Packet/Types/Static2.luau
+module       9  yes      scripts/ReplicatedStorage/SharedModules/Packet/Types/Static3.luau
+module     131  yes      scripts/ReplicatedStorage/SharedModules/PetBehaviors/BehaviorBase.luau
+module     549  yes      scripts/ReplicatedStorage/SharedModules/PetBehaviors/BlackDragonDefend.luau
+module     839  yes      scripts/ReplicatedStorage/SharedModules/PetBehaviors/DefendGarden.luau
+module     648  yes      scripts/ReplicatedStorage/SharedModules/PetBehaviors/IceSerpentDefend.luau
+module       8  yes      scripts/ReplicatedStorage/SharedModules/PetBehaviors/Index.luau
+module     576  yes      scripts/ReplicatedStorage/SharedModules/PetBehaviors/PickFruit.luau
+module     728  yes      scripts/ReplicatedStorage/SharedModules/PetBehaviors/StealFruit.luau
+module      33  yes      scripts/ReplicatedStorage/SharedModules/PetBehaviors/TEMPLATE.luau
+module      18  yes      scripts/ReplicatedStorage/SharedModules/PetModules.luau
+module      72  yes      scripts/ReplicatedStorage/SharedModules/PetModules/Bee.luau
+module      48  yes      scripts/ReplicatedStorage/SharedModules/PetModules/BlackDragon.luau
+module      27  yes      scripts/ReplicatedStorage/SharedModules/PetModules/Bunny.luau
+module      18  yes      scripts/ReplicatedStorage/SharedModules/PetModules/Deer.luau
+module      26  yes      scripts/ReplicatedStorage/SharedModules/PetModules/Frog.luau
+module      34  yes      scripts/ReplicatedStorage/SharedModules/PetModules/GoldenDragonfly.luau
+module      49  yes      scripts/ReplicatedStorage/SharedModules/PetModules/IceSerpent.luau
+module      30  yes      scripts/ReplicatedStorage/SharedModules/PetModules/Monkey.luau
+module      52  yes      scripts/ReplicatedStorage/SharedModules/PetModules/Owl.luau
+module      31  yes      scripts/ReplicatedStorage/SharedModules/PetModules/Raccoon.luau
+module      65  yes      scripts/ReplicatedStorage/SharedModules/PetModules/Robin.luau
+module      19  yes      scripts/ReplicatedStorage/SharedModules/PetModules/Unicorn.luau
+module     296  yes      scripts/ReplicatedStorage/SharedModules/PlantSizeMultipliers.luau
+module      22  yes      scripts/ReplicatedStorage/SharedModules/PowerHoseData.luau
+module      58  yes      scripts/ReplicatedStorage/SharedModules/ProductIds.luau
+module      26  yes      scripts/ReplicatedStorage/SharedModules/PropData.luau
+module      22  yes      scripts/ReplicatedStorage/SharedModules/RaccoonData.luau
+module      22  yes      scripts/ReplicatedStorage/SharedModules/RakeData.luau
+module       2  yes      scripts/ReplicatedStorage/SharedModules/RarityData.luau   (same source as scripts/ReplicatedStorage/UserGenerated.luau)
+module     159  yes      scripts/ReplicatedStorage/SharedModules/RarityVisuals.luau
+module     119  yes      scripts/ReplicatedStorage/SharedModules/RobuxShopContent.luau
+module     504  yes      scripts/ReplicatedStorage/SharedModules/SeedData.luau
+module     241  yes      scripts/ReplicatedStorage/SharedModules/SeedPackData.luau
+module      39  yes      scripts/ReplicatedStorage/SharedModules/SellValueData.luau
+module       6  yes      scripts/ReplicatedStorage/SharedModules/ShovelData.luau
+module      22  yes      scripts/ReplicatedStorage/SharedModules/SignData.luau
+module      76  yes      scripts/ReplicatedStorage/SharedModules/SprinklerData.luau
+module      69  yes      scripts/ReplicatedStorage/SharedModules/TameChance.luau
+module      23  yes      scripts/ReplicatedStorage/SharedModules/TeleporterData.luau
+module      53  yes      scripts/ReplicatedStorage/SharedModules/TimeCycleData.luau
+module      17  yes      scripts/ReplicatedStorage/SharedModules/TrowelData.luau
+module      33  yes      scripts/ReplicatedStorage/SharedModules/WateringcanData.luau
+module      45  yes      scripts/ReplicatedStorage/SharedModules/WeatherData.luau
+module       6  yes      scripts/ReplicatedStorage/SharedModules/WeightFormat.luau
+module      19  yes      scripts/ReplicatedStorage/SharedModules/WheelbarrowData.luau
+module    1906  yes      scripts/ReplicatedStorage/SharedModules/Zone.luau
+module      91  yes      scripts/ReplicatedStorage/SharedModules/Zone/Enum.luau
+module       7  yes      scripts/ReplicatedStorage/SharedModules/Zone/Enum/Accuracy.luau
+module       5  yes      scripts/ReplicatedStorage/SharedModules/Zone/Enum/Detection.luau
+module     294  yes      scripts/ReplicatedStorage/SharedModules/Zone/Janitor.luau
+module     121  yes      scripts/ReplicatedStorage/SharedModules/Zone/OldSignal.luau
+module     141  yes      scripts/ReplicatedStorage/SharedModules/Zone/Signal.luau
+module       3  yes      scripts/ReplicatedStorage/SharedModules/Zone/VERSION.luau   (same source as scripts/StarterGui/CrateShop/Frame/ScrollingFrame/Robux_Shelf/Show_Bottom/LocalScript.client.luau)
+module     583  yes      scripts/ReplicatedStorage/SharedModules/Zone/ZoneController.luau
+module      40  yes      scripts/ReplicatedStorage/SharedModules/Zone/ZoneController/CollectiveWorldModel.luau
+module     286  yes      scripts/ReplicatedStorage/SharedModules/Zone/ZoneController/Tracker.luau
+module      33  yes      scripts/ReplicatedStorage/SharedModules/Zone/ZonePlusReference.luau
+module    1107  yes      scripts/ReplicatedStorage/SharedModules/msgpack.luau
+module       2  yes      scripts/ReplicatedStorage/UGApp.luau
+module       2  yes      scripts/ReplicatedStorage/UserGenerated.luau
+module      12  yes      scripts/ReplicatedStorage/UserGenerated/ABTests.luau
+client       2  NO       scripts/ReplicatedStorage/UserGenerated/ABTests/ClientRunner.server.luau
+server       3  yes      scripts/ReplicatedStorage/UserGenerated/ABTests/ServerRunner.server.luau   (same source as scripts/Workspace/GearScenes/Power Hose/HoseInspect/Player1/Power Hose/PowerWasher.server.luau)
+module      13  yes      scripts/ReplicatedStorage/UserGenerated/ABTests/SharedABTests.luau
+module       2  yes      scripts/ReplicatedStorage/UserGenerated/Analytics.luau   (same source as scripts/ReplicatedStorage/UGApp.luau)
+module     138  yes      scripts/ReplicatedStorage/UserGenerated/Analytics/ClientKit.luau
+client      10  yes      scripts/ReplicatedStorage/UserGenerated/Analytics/ClientKit/FocusStateSender.server.luau
+client      10  yes      scripts/ReplicatedStorage/UserGenerated/Analytics/ClientKit/MenuStateSender.server.luau
+client      23  yes      scripts/ReplicatedStorage/UserGenerated/Analytics/ClientKit/PingSender.server.luau
+client     324  yes      scripts/ReplicatedStorage/UserGenerated/Analytics/ClientRunner.server.luau
+module       2  yes      scripts/ReplicatedStorage/UserGenerated/Client.luau   (same source as scripts/ReplicatedFirst/UserGenerated.luau)
+module     147  yes      scripts/ReplicatedStorage/UserGenerated/Client/ClientABTests.luau
+module     191  yes      scripts/ReplicatedStorage/UserGenerated/Client/ClientFastFlags.luau
+module       2  yes      scripts/ReplicatedStorage/UserGenerated/Collections.luau   (same source as scripts/ReplicatedFirst/UserGenerated.luau)
+module      31  yes      scripts/ReplicatedStorage/UserGenerated/Collections/DeepCopy.luau
+module      25  yes      scripts/ReplicatedStorage/UserGenerated/Collections/DeepCopyPure.luau
+module      16  yes      scripts/ReplicatedStorage/UserGenerated/Collections/DeepCopyPureUnsafe.luau
+module      54  yes      scripts/ReplicatedStorage/UserGenerated/Collections/DeepEquals.luau
+module      52  yes      scripts/ReplicatedStorage/UserGenerated/Collections/DeepEqualsPure.luau
+module      36  yes      scripts/ReplicatedStorage/UserGenerated/Collections/DeepEqualsPureUnsafe.luau
+module      27  yes      scripts/ReplicatedStorage/UserGenerated/Collections/DeepFreeze.luau
+module      19  yes      scripts/ReplicatedStorage/UserGenerated/Collections/DeepFreezeUnsafe.luau
+module     179  yes      scripts/ReplicatedStorage/UserGenerated/Collections/DropTable.luau
+module     119  yes      scripts/ReplicatedStorage/UserGenerated/Collections/LeftistHeap.luau
+module    1031  yes      scripts/ReplicatedStorage/UserGenerated/Collections/RBTreeList.luau
+module     135  yes      scripts/ReplicatedStorage/UserGenerated/Collections/SpatialTable.luau
+module       2  yes      scripts/ReplicatedStorage/UserGenerated/Concurrency.luau   (same source as scripts/ReplicatedStorage/UGApp.luau)
+module     383  yes      scripts/ReplicatedStorage/UserGenerated/Concurrency/Bindable.luau
+module     167  yes      scripts/ReplicatedStorage/UserGenerated/Concurrency/Cache.luau
+module      48  yes      scripts/ReplicatedStorage/UserGenerated/Concurrency/Lock.luau
+module      62  yes      scripts/ReplicatedStorage/UserGenerated/Concurrency/Observable.luau
+module      86  yes      scripts/ReplicatedStorage/UserGenerated/Concurrency/Render.luau
+module      14  yes      scripts/ReplicatedStorage/UserGenerated/Concurrency/ThreadJoin.luau
+module      19  yes      scripts/ReplicatedStorage/UserGenerated/FastFlags.luau
+client       2  yes      scripts/ReplicatedStorage/UserGenerated/FastFlags/ClientRunner.server.luau
+server       3  yes      scripts/ReplicatedStorage/UserGenerated/FastFlags/ServerRunner.server.luau
+module       9  yes      scripts/ReplicatedStorage/UserGenerated/FastFlags/SharedFastFlags.luau
+module       2  yes      scripts/ReplicatedStorage/UserGenerated/IO.luau   (same source as scripts/ReplicatedStorage/UserGenerated.luau)
+module     147  yes      scripts/ReplicatedStorage/UserGenerated/IO/Base64.luau
+module      16  yes      scripts/ReplicatedStorage/UserGenerated/IO/BinaryToHex.luau
+module      16  yes      scripts/ReplicatedStorage/UserGenerated/IO/BufferCompare.luau
+module      18  yes      scripts/ReplicatedStorage/UserGenerated/IO/BufferToHex.luau
+module       2  yes      scripts/ReplicatedStorage/UserGenerated/IO/Crypto.luau   (same source as scripts/ReplicatedStorage/UserGenerated.luau)
+module     616  yes      scripts/ReplicatedStorage/UserGenerated/IO/Crypto/AES.luau
+module     477  yes      scripts/ReplicatedStorage/UserGenerated/IO/Crypto/AES/Modes.luau
+module     286  yes      scripts/ReplicatedStorage/UserGenerated/IO/Crypto/AES/Pads.luau
+module      58  yes      scripts/ReplicatedStorage/UserGenerated/IO/Crypto/CRC32.luau
+module      49  yes      scripts/ReplicatedStorage/UserGenerated/IO/Crypto/GenerateSeed.luau
+module      55  yes      scripts/ReplicatedStorage/UserGenerated/IO/Crypto/HMAC.luau
+module       2  yes      scripts/ReplicatedStorage/UserGenerated/IO/Crypto/Hash.luau   (same source as scripts/ReplicatedStorage/UserGenerated.luau)
+module     233  yes      scripts/ReplicatedStorage/UserGenerated/IO/Crypto/MD5.luau
+module      70  yes      scripts/ReplicatedStorage/UserGenerated/IO/Crypto/MurmurHash3.luau
+module      73  yes      scripts/ReplicatedStorage/UserGenerated/IO/Crypto/PositionalRandom.luau
+module     117  yes      scripts/ReplicatedStorage/UserGenerated/IO/Crypto/SHA1.luau
+module     186  yes      scripts/ReplicatedStorage/UserGenerated/IO/Crypto/SHA224.luau
+module     187  yes      scripts/ReplicatedStorage/UserGenerated/IO/Crypto/SHA256.luau
+module     366  yes      scripts/ReplicatedStorage/UserGenerated/IO/Crypto/SHA384.luau
+module     367  yes      scripts/ReplicatedStorage/UserGenerated/IO/Crypto/SHA512.luau
+module     175  yes      scripts/ReplicatedStorage/UserGenerated/IO/Crypto/SaltedEncryption.luau
+module      90  yes      scripts/ReplicatedStorage/UserGenerated/IO/Crypto/XXHash32.luau
+module      52  yes      scripts/ReplicatedStorage/UserGenerated/IO/HTTP.luau
+module     106  yes      scripts/ReplicatedStorage/UserGenerated/IO/HTTP/URL.luau
+module      54  yes      scripts/ReplicatedStorage/UserGenerated/IO/HexToBuffer.luau
+module     680  yes      scripts/ReplicatedStorage/UserGenerated/IO/JSON5Decoder.luau
+module     790  yes      scripts/ReplicatedStorage/UserGenerated/IO/JSONEncoder.luau
+module    2573  yes      scripts/ReplicatedStorage/UserGenerated/IO/LibDeflate.luau
+module       2  yes      scripts/ReplicatedStorage/UserGenerated/Lang.luau   (same source as scripts/ReplicatedStorage/UGApp.luau)
+module    1877  yes      scripts/ReplicatedStorage/UserGenerated/Lang/Asserts.luau
+module      18  yes      scripts/ReplicatedStorage/UserGenerated/Lang/Finally.luau
+module     122  yes      scripts/ReplicatedStorage/UserGenerated/Lang/Janitor.luau
+module      10  yes      scripts/ReplicatedStorage/UserGenerated/Lang/Keys.luau
+module     157  yes      scripts/ReplicatedStorage/UserGenerated/Lang/Tests.luau
+module      10  yes      scripts/ReplicatedStorage/UserGenerated/Lang/Values.luau
+module       8  yes      scripts/ReplicatedStorage/UserGenerated/Lang/WCall.luau
+module     150  yes      scripts/ReplicatedStorage/UserGenerated/Logging.luau
+client       9  yes      scripts/ReplicatedStorage/UserGenerated/Logging/ClientRunner.server.luau
+server       3  yes      scripts/ReplicatedStorage/UserGenerated/Logging/ServerRunner.server.luau
+module    1577  yes      scripts/ReplicatedStorage/UserGenerated/Lottie.luau
+module     411  yes      scripts/ReplicatedStorage/UserGenerated/Lottie/Easing.luau
+module     673  yes      scripts/ReplicatedStorage/UserGenerated/Lottie/PNG.luau
+module       2  yes      scripts/ReplicatedStorage/UserGenerated/Lottie/PNG/Types.luau   (same source as scripts/ReplicatedFirst/UserGenerated.luau)
+module       6  yes      scripts/ReplicatedStorage/UserGenerated/Lottie/PNG/chunks.luau
+module      44  yes      scripts/ReplicatedStorage/UserGenerated/Lottie/PNG/chunks/IHDR.luau
+module      29  yes      scripts/ReplicatedStorage/UserGenerated/Lottie/PNG/chunks/PLTE.luau
+module      47  yes      scripts/ReplicatedStorage/UserGenerated/Lottie/PNG/chunks/tRNS.luau
+module     269  yes      scripts/ReplicatedStorage/UserGenerated/Lottie/PNG/crc32.luau
+module    1248  yes      scripts/ReplicatedStorage/UserGenerated/Lottie/PNG/zlib.luau
+module       2  yes      scripts/ReplicatedStorage/UserGenerated/Lottie/Types.luau
+module       2  yes      scripts/ReplicatedStorage/UserGenerated/Math.luau   (same source as scripts/ReplicatedStorage/UGApp.luau)
+module      27  yes      scripts/ReplicatedStorage/UserGenerated/Math/RoundFigures.luau
+module      17  yes      scripts/ReplicatedStorage/UserGenerated/Math/StableExp10.luau
+module      10  yes      scripts/ReplicatedStorage/UserGenerated/Math/Unpack64.luau
+module      14  yes      scripts/ReplicatedStorage/UserGenerated/Randoms.luau
+module       2  yes      scripts/ReplicatedStorage/UserGenerated/Randoms/Base.luau
+module     601  yes      scripts/ReplicatedStorage/UserGenerated/Randoms/ISAAC.luau
+module     581  yes      scripts/ReplicatedStorage/UserGenerated/Randoms/Xorshift128.luau
+module     241  yes      scripts/ReplicatedStorage/UserGenerated/Randoms/Xorshift128/Theory.luau
+module       2  yes      scripts/ReplicatedStorage/UserGenerated/Roblox.luau   (same source as scripts/ReplicatedStorage/UserGenerated.luau)
+module      49  yes      scripts/ReplicatedStorage/UserGenerated/Roblox/GroupServiceHelper.luau
+module      32  yes      scripts/ReplicatedStorage/UserGenerated/Roblox/JobId.luau
+module      52  yes      scripts/ReplicatedStorage/UserGenerated/Roblox/LocalizationServiceHelper.luau
+module      47  yes      scripts/ReplicatedStorage/UserGenerated/Roblox/MarketplaceServiceHelper.luau
+module      73  yes      scripts/ReplicatedStorage/UserGenerated/Roblox/PolicyServiceHelper.luau
+module      40  yes      scripts/ReplicatedStorage/UserGenerated/Roblox/VoiceChatServiceHelper.luau
+module       2  yes      scripts/ReplicatedStorage/UserGenerated/SFX.luau   (same source as scripts/ReplicatedFirst/UserGenerated.luau)
+module      12  yes      scripts/ReplicatedStorage/UserGenerated/SFX/PlaySFX.luau
+module      12  yes      scripts/ReplicatedStorage/UserGenerated/SharedConfig.luau
+module       2  yes      scripts/ReplicatedStorage/UserGenerated/Strings.luau   (same source as scripts/ReplicatedFirst/UserGenerated.luau)
+module      45  yes      scripts/ReplicatedStorage/UserGenerated/Strings/Commas.luau
+module      58  yes      scripts/ReplicatedStorage/UserGenerated/Strings/FormatAbbreviated.luau
+module      17  yes      scripts/ReplicatedStorage/UserGenerated/Strings/FormatChance.luau
+module      54  yes      scripts/ReplicatedStorage/UserGenerated/Strings/FormatDuration.luau
+module       8  yes      scripts/ReplicatedStorage/UserGenerated/Strings/FormatFigures.luau
+module      25  yes      scripts/ReplicatedStorage/UserGenerated/Strings/FormatMultiplier.luau
+module      25  yes      scripts/ReplicatedStorage/UserGenerated/Strings/FormatOdds.luau
+module       7  yes      scripts/ReplicatedStorage/UserGenerated/Strings/FormatPercent.luau
+module      48  yes      scripts/ReplicatedStorage/UserGenerated/Strings/FormatShort.luau
+module      46  yes      scripts/ReplicatedStorage/UserGenerated/Strings/ObjectPaths.luau
+module     680  yes      scripts/ReplicatedStorage/UserGenerated/Strings/Stringify.luau
+module      32  yes      scripts/ReplicatedStorage/UserGenerated/Strings/TrimmedNumberString.luau
+module      28  yes      scripts/ReplicatedStorage/UserGenerated/Strings/UTF8Sub.luau
+module       2  yes      scripts/ReplicatedStorage/UserGenerated/VFX.luau   (same source as scripts/ReplicatedFirst/UserGenerated.luau)
+module      18  yes      scripts/ReplicatedStorage/UserGenerated/VFX/Emit.luau
+module      41  yes      scripts/ReplicatedStorage/UserGenerated/VFX/EmitOnce.luau
+module      25  yes      scripts/ReplicatedStorage/UserGenerated/VFX/PlayVFX.luau
+server     778  yes      scripts/ServerScriptService/AdminCommandBridge.server.luau
+server      81  yes      scripts/ServerScriptService/CmdrPetCommands.server.luau
+server     362  yes      scripts/ServerScriptService/CrateShopService.server.luau
+server     888  yes      scripts/ServerScriptService/DevProductService.server.luau
+server     199  yes      scripts/ServerScriptService/ExclusiveShopService.server.luau
+server    1131  yes      scripts/ServerScriptService/GameServer.server.luau
+module      18  yes      scripts/ServerScriptService/GameServerAPI.luau
+server     868  yes      scripts/ServerScriptService/GearService.server.luau
+server     574  yes      scripts/ServerScriptService/GearUsageService.server.luau
+server     220  yes      scripts/ServerScriptService/HugePetsService.server.luau
+server     341  yes      scripts/ServerScriptService/MailboxService.server.luau
+server     133  yes      scripts/ServerScriptService/OpSeedAdminCommand.server.luau
+server     248  yes      scripts/ServerScriptService/OpSeedSizeService.server.luau
+server     263  yes      scripts/ServerScriptService/OpSprinklerService.server.luau
+server     175  yes      scripts/ServerScriptService/PetBehaviorService.server.luau
+server     494  yes      scripts/ServerScriptService/PetEquipService.server.luau
+server    1866  yes      scripts/ServerScriptService/PlantService.server.luau
+server     223  yes      scripts/ServerScriptService/RainbowSeedService.server.luau
+server    1800  yes      scripts/ServerScriptService/Script.server.luau
+server     196  yes      scripts/ServerScriptService/SeedPackService.server.luau
+server      87  yes      scripts/ServerScriptService/ServerBootstrap.server.luau
+module       2  yes      scripts/ServerScriptService/ServerPackages/Cmdr.luau
+module       2  yes      scripts/ServerScriptService/ServerPackages/ProfileStore.luau
+module      42  yes      scripts/ServerScriptService/ServerPackages/_Index/evaera_cmdr@1.12.0/cmdr.luau
+module      14  yes      scripts/ServerScriptService/ServerPackages/_Index/evaera_cmdr@1.12.0/cmdr/BuiltInCommands/Admin/announce.luau
+module      16  yes      scripts/ServerScriptService/ServerPackages/_Index/evaera_cmdr@1.12.0/cmdr/BuiltInCommands/Admin/announceServer.luau
+module      29  yes      scripts/ServerScriptService/ServerPackages/_Index/evaera_cmdr@1.12.0/cmdr/BuiltInCommands/Admin/gotoPlace.luau
+module      24  yes      scripts/ServerScriptService/ServerPackages/_Index/evaera_cmdr@1.12.0/cmdr/BuiltInCommands/Admin/gotoPlaceServer.luau
+module      14  yes      scripts/ServerScriptService/ServerPackages/_Index/evaera_cmdr@1.12.0/cmdr/BuiltInCommands/Admin/kick.luau
+module       8  yes      scripts/ServerScriptService/ServerPackages/_Index/evaera_cmdr@1.12.0/cmdr/BuiltInCommands/Admin/kickServer.luau
+module      14  yes      scripts/ServerScriptService/ServerPackages/_Index/evaera_cmdr@1.12.0/cmdr/BuiltInCommands/Admin/kill.luau
+module      10  yes      scripts/ServerScriptService/ServerPackages/_Index/evaera_cmdr@1.12.0/cmdr/BuiltInCommands/Admin/killServer.luau
+module      16  yes      scripts/ServerScriptService/ServerPackages/_Index/evaera_cmdr@1.12.0/cmdr/BuiltInCommands/Admin/respawn.luau
+module       9  yes      scripts/ServerScriptService/ServerPackages/_Index/evaera_cmdr@1.12.0/cmdr/BuiltInCommands/Admin/respawnServer.luau
+module      23  yes      scripts/ServerScriptService/ServerPackages/_Index/evaera_cmdr@1.12.0/cmdr/BuiltInCommands/Admin/teleport.luau
+module      22  yes      scripts/ServerScriptService/ServerPackages/_Index/evaera_cmdr@1.12.0/cmdr/BuiltInCommands/Admin/teleportServer.luau
+module      24  yes      scripts/ServerScriptService/ServerPackages/_Index/evaera_cmdr@1.12.0/cmdr/BuiltInCommands/Debug/blink.luau
+module      14  yes      scripts/ServerScriptService/ServerPackages/_Index/evaera_cmdr@1.12.0/cmdr/BuiltInCommands/Debug/fetch.luau
+module       6  yes      scripts/ServerScriptService/ServerPackages/_Index/evaera_cmdr@1.12.0/cmdr/BuiltInCommands/Debug/fetchServer.luau
+module      22  yes      scripts/ServerScriptService/ServerPackages/_Index/evaera_cmdr@1.12.0/cmdr/BuiltInCommands/Debug/getPlayerPlaceInstance.luau
+module      28  yes      scripts/ServerScriptService/ServerPackages/_Index/evaera_cmdr@1.12.0/cmdr/BuiltInCommands/Debug/getPlayerPlaceInstanceServer.luau
+module      27  yes      scripts/ServerScriptService/ServerPackages/_Index/evaera_cmdr@1.12.0/cmdr/BuiltInCommands/Debug/position.luau
+module      34  yes      scripts/ServerScriptService/ServerPackages/_Index/evaera_cmdr@1.12.0/cmdr/BuiltInCommands/Debug/thru.luau
+module       8  yes      scripts/ServerScriptService/ServerPackages/_Index/evaera_cmdr@1.12.0/cmdr/BuiltInCommands/Debug/uptime.luau
+module      12  yes      scripts/ServerScriptService/ServerPackages/_Index/evaera_cmdr@1.12.0/cmdr/BuiltInCommands/Debug/uptimeServer.luau
+module      13  yes      scripts/ServerScriptService/ServerPackages/_Index/evaera_cmdr@1.12.0/cmdr/BuiltInCommands/Debug/version.luau
+module      28  yes      scripts/ServerScriptService/ServerPackages/_Index/evaera_cmdr@1.12.0/cmdr/BuiltInCommands/Utility/alias.luau
+module      66  yes      scripts/ServerScriptService/ServerPackages/_Index/evaera_cmdr@1.12.0/cmdr/BuiltInCommands/Utility/bind.luau
+module      24  yes      scripts/ServerScriptService/ServerPackages/_Index/evaera_cmdr@1.12.0/cmdr/BuiltInCommands/Utility/clear.luau
+module      19  yes      scripts/ServerScriptService/ServerPackages/_Index/evaera_cmdr@1.12.0/cmdr/BuiltInCommands/Utility/convertTimestamp.luau
+module      18  yes      scripts/ServerScriptService/ServerPackages/_Index/evaera_cmdr@1.12.0/cmdr/BuiltInCommands/Utility/echo.luau
+module      80  yes      scripts/ServerScriptService/ServerPackages/_Index/evaera_cmdr@1.12.0/cmdr/BuiltInCommands/Utility/edit.luau
+module      29  yes      scripts/ServerScriptService/ServerPackages/_Index/evaera_cmdr@1.12.0/cmdr/BuiltInCommands/Utility/history.luau
+module      22  yes      scripts/ServerScriptService/ServerPackages/_Index/evaera_cmdr@1.12.0/cmdr/BuiltInCommands/Utility/hover.luau
+module      22  yes      scripts/ServerScriptService/ServerPackages/_Index/evaera_cmdr@1.12.0/cmdr/BuiltInCommands/Utility/jsonArrayDecode.luau
+module      20  yes      scripts/ServerScriptService/ServerPackages/_Index/evaera_cmdr@1.12.0/cmdr/BuiltInCommands/Utility/jsonArrayEncode.luau
+module      18  yes      scripts/ServerScriptService/ServerPackages/_Index/evaera_cmdr@1.12.0/cmdr/BuiltInCommands/Utility/len.luau
+module      36  yes      scripts/ServerScriptService/ServerPackages/_Index/evaera_cmdr@1.12.0/cmdr/BuiltInCommands/Utility/math.luau
+module      23  yes      scripts/ServerScriptService/ServerPackages/_Index/evaera_cmdr@1.12.0/cmdr/BuiltInCommands/Utility/pick.luau
+module      24  yes      scripts/ServerScriptService/ServerPackages/_Index/evaera_cmdr@1.12.0/cmdr/BuiltInCommands/Utility/rand.luau
+module      33  yes      scripts/ServerScriptService/ServerPackages/_Index/evaera_cmdr@1.12.0/cmdr/BuiltInCommands/Utility/replace.luau
+module      33  yes      scripts/ServerScriptService/ServerPackages/_Index/evaera_cmdr@1.12.0/cmdr/BuiltInCommands/Utility/resolve.luau
+module      21  yes      scripts/ServerScriptService/ServerPackages/_Index/evaera_cmdr@1.12.0/cmdr/BuiltInCommands/Utility/run.luau
+module      39  yes      scripts/ServerScriptService/ServerPackages/_Index/evaera_cmdr@1.12.0/cmdr/BuiltInCommands/Utility/runLines.luau
+module      54  yes      scripts/ServerScriptService/ServerPackages/_Index/evaera_cmdr@1.12.0/cmdr/BuiltInCommands/Utility/runif.luau
+module      26  yes      scripts/ServerScriptService/ServerPackages/_Index/evaera_cmdr@1.12.0/cmdr/BuiltInCommands/Utility/unbind.luau
+module      23  yes      scripts/ServerScriptService/ServerPackages/_Index/evaera_cmdr@1.12.0/cmdr/BuiltInCommands/Utility/var.luau
+module      61  yes      scripts/ServerScriptService/ServerPackages/_Index/evaera_cmdr@1.12.0/cmdr/BuiltInCommands/Utility/varServer.luau
+module      24  yes      scripts/ServerScriptService/ServerPackages/_Index/evaera_cmdr@1.12.0/cmdr/BuiltInCommands/Utility/varSet.luau
+module      64  yes      scripts/ServerScriptService/ServerPackages/_Index/evaera_cmdr@1.12.0/cmdr/BuiltInCommands/Utility/varSetServer.luau
+module      65  yes      scripts/ServerScriptService/ServerPackages/_Index/evaera_cmdr@1.12.0/cmdr/BuiltInCommands/help.luau
+module       4  yes      scripts/ServerScriptService/ServerPackages/_Index/evaera_cmdr@1.12.0/cmdr/BuiltInTypes/BindableResource.luau
+module      80  yes      scripts/ServerScriptService/ServerPackages/_Index/evaera_cmdr@1.12.0/cmdr/BuiltInTypes/BrickColor.luau
+module      53  yes      scripts/ServerScriptService/ServerPackages/_Index/evaera_cmdr@1.12.0/cmdr/BuiltInTypes/Color3.luau
+module      27  yes      scripts/ServerScriptService/ServerPackages/_Index/evaera_cmdr@1.12.0/cmdr/BuiltInTypes/Command.luau
+module       4  yes      scripts/ServerScriptService/ServerPackages/_Index/evaera_cmdr@1.12.0/cmdr/BuiltInTypes/ConditionFunction.luau
+module     113  yes      scripts/ServerScriptService/ServerPackages/_Index/evaera_cmdr@1.12.0/cmdr/BuiltInTypes/Duration.luau
+module      14  yes      scripts/ServerScriptService/ServerPackages/_Index/evaera_cmdr@1.12.0/cmdr/BuiltInTypes/JSON.luau
+module      41  yes      scripts/ServerScriptService/ServerPackages/_Index/evaera_cmdr@1.12.0/cmdr/BuiltInTypes/MathOperator.luau
+module      41  yes      scripts/ServerScriptService/ServerPackages/_Index/evaera_cmdr@1.12.0/cmdr/BuiltInTypes/Player.luau
+module      63  yes      scripts/ServerScriptService/ServerPackages/_Index/evaera_cmdr@1.12.0/cmdr/BuiltInTypes/PlayerId.luau
+module     141  yes      scripts/ServerScriptService/ServerPackages/_Index/evaera_cmdr@1.12.0/cmdr/BuiltInTypes/Primitives.luau
+module      35  yes      scripts/ServerScriptService/ServerPackages/_Index/evaera_cmdr@1.12.0/cmdr/BuiltInTypes/StoredKey.luau
+module      54  yes      scripts/ServerScriptService/ServerPackages/_Index/evaera_cmdr@1.12.0/cmdr/BuiltInTypes/Team.luau
+module      27  yes      scripts/ServerScriptService/ServerPackages/_Index/evaera_cmdr@1.12.0/cmdr/BuiltInTypes/Type.luau
+module      21  yes      scripts/ServerScriptService/ServerPackages/_Index/evaera_cmdr@1.12.0/cmdr/BuiltInTypes/URL.luau
+module      33  yes      scripts/ServerScriptService/ServerPackages/_Index/evaera_cmdr@1.12.0/cmdr/BuiltInTypes/UserInput.luau
+module      32  yes      scripts/ServerScriptService/ServerPackages/_Index/evaera_cmdr@1.12.0/cmdr/BuiltInTypes/Vector.luau
+module     127  yes      scripts/ServerScriptService/ServerPackages/_Index/evaera_cmdr@1.12.0/cmdr/CmdrClient.luau
+module     152  yes      scripts/ServerScriptService/ServerPackages/_Index/evaera_cmdr@1.12.0/cmdr/CmdrClient/CmdrInterface.luau
+module     217  yes      scripts/ServerScriptService/ServerPackages/_Index/evaera_cmdr@1.12.0/cmdr/CmdrClient/CmdrInterface/AutoComplete.luau
+module     337  yes      scripts/ServerScriptService/ServerPackages/_Index/evaera_cmdr@1.12.0/cmdr/CmdrClient/CmdrInterface/Window.luau
+module      16  yes      scripts/ServerScriptService/ServerPackages/_Index/evaera_cmdr@1.12.0/cmdr/CmdrClient/DefaultEventHandlers.luau
+module     218  yes      scripts/ServerScriptService/ServerPackages/_Index/evaera_cmdr@1.12.0/cmdr/CreateGui.luau
+module      41  yes      scripts/ServerScriptService/ServerPackages/_Index/evaera_cmdr@1.12.0/cmdr/Initialize.luau
+module     258  yes      scripts/ServerScriptService/ServerPackages/_Index/evaera_cmdr@1.12.0/cmdr/Shared/Argument.luau
+module     223  yes      scripts/ServerScriptService/ServerPackages/_Index/evaera_cmdr@1.12.0/cmdr/Shared/Command.luau
+module     191  yes      scripts/ServerScriptService/ServerPackages/_Index/evaera_cmdr@1.12.0/cmdr/Shared/Dispatcher.luau
+module     295  yes      scripts/ServerScriptService/ServerPackages/_Index/evaera_cmdr@1.12.0/cmdr/Shared/Registry.luau
+module     549  yes      scripts/ServerScriptService/ServerPackages/_Index/evaera_cmdr@1.12.0/cmdr/Shared/Util.luau
+module    2244  yes      scripts/ServerScriptService/ServerPackages/_Index/lm-loleris_profilestore@1.0.3/profilestore.luau
+server      27  yes      scripts/ServerScriptService/SocialPopupService.server.luau
+server     116  yes      scripts/ServerScriptService/TimeCycleServer.server.luau
+server      74  yes      scripts/ServerScriptService/TutorialService.server.luau
+module      50  yes      scripts/ServerScriptService/UserGenerated/Server/ServerABTests.luau
+module      93  yes      scripts/ServerScriptService/UserGenerated/Server/ServerFastFlags.luau
+server     176  yes      scripts/ServerScriptService/WeatherService.server.luau
+server     438  yes      scripts/ServerScriptService/WildPetService.server.luau
+server      72  yes      scripts/ServerScriptService/_DebugPlot.server.luau
+server      23  yes      scripts/ServerScriptService/_DiagServer.server.luau
+server      67  yes      scripts/ServerScriptService/__MCP_CommandListener.server.luau
+client     179  yes      scripts/StarterGui/AdminPanel/AdminPanelController.client.luau
+client     110  yes      scripts/StarterGui/Banhammer/BanGui/BanGuiClient.client.luau
+client      79  yes      scripts/StarterGui/Banhammer/BanHammer/BanHammerClient.client.luau
+client      10  yes      scripts/StarterGui/BuildMobile/TouchControlFrame/BuildButton/LocalScript.client.luau
+client     130  yes      scripts/StarterGui/ColorPickerGuild/Backdrop/ColorPicker/SelectionScript.client.luau
+client      77  yes      scripts/StarterGui/ConsoleIconMapper.client.luau
+client      11  yes      scripts/StarterGui/CrateShop/Frame/Header/ExitButton/LocalScript.client.luau
+client      40  yes      scripts/StarterGui/CrateShop/Frame/Header/RefreshIn/LocalScript.client.luau
+client      30  yes      scripts/StarterGui/CrateShop/Frame/Header/RestockButton/LocalScript.client.luau
+client      16  yes      scripts/StarterGui/CrateShop/Frame/MobileScaling.client.luau
+client      57  yes      scripts/StarterGui/CrateShop/Frame/ScrollingFrame/GenerateItems.client.luau
+client      28  yes      scripts/StarterGui/CrateShop/Frame/ScrollingFrame/ItemTemplate/Main_Frame/TextButton/SFX.client.luau
+client       3  yes      scripts/StarterGui/CrateShop/Frame/ScrollingFrame/Robux_Shelf/Show_Bottom/LocalScript.client.luau
+client       3  yes      scripts/StarterGui/CrateShop/Frame/ScrollingFrame/Sheckles_Shelf/Show_Bottom/LocalScript.client.luau   (same source as scripts/StarterGui/CrateShop/Frame/ScrollingFrame/Robux_Shelf/Show_Bottom/LocalScript.client.luau)
+client     685  yes      scripts/StarterGui/CustomiseFenceTheme/Frame/FenceScrollingFrame/LocalScript.client.luau
+client     378  yes      scripts/StarterGui/CustomiseFenceTheme/Frame/GardenStatsContent/Frame/Visiblity.client.luau
+client      35  yes      scripts/StarterGui/CustomiseFenceTheme/Frame/GardenStatsContent/RefundButton/LocalScript.client.luau
+client       3  yes      scripts/StarterGui/CustomiseFenceTheme/Frame/Switch.client.luau   (same source as scripts/MaterialService/ToolMaterials/README.luau)
+client       8  yes      scripts/StarterGui/EditGuild/MainFrame/Content/GuildImagePreview/DiceButton/LocalScript.client.luau
+client      15  yes      scripts/StarterGui/EquipPet/Container/Resize.client.luau
+client      33  yes      scripts/StarterGui/GardenLevel/SHOW/LocalScript.client.luau
+client      11  yes      scripts/StarterGui/GearShop/Frame/Header/ExitButton/LocalScript.client.luau
+client      40  yes      scripts/StarterGui/GearShop/Frame/Header/RefreshIn/LocalScript.client.luau
+client      30  yes      scripts/StarterGui/GearShop/Frame/Header/RestockButton/LocalScript.client.luau
+client      16  yes      scripts/StarterGui/GearShop/Frame/MobileScaling.client.luau   (same source as scripts/StarterGui/CrateShop/Frame/MobileScaling.client.luau)
+client     131  yes      scripts/StarterGui/GearShop/Frame/ScrollingFrame/GenerateItems.client.luau
+client      28  yes      scripts/StarterGui/GearShop/Frame/ScrollingFrame/ItemTemplate/Main_Frame/TextButton/SFX.client.luau
+client       3  yes      scripts/StarterGui/GearShop/Frame/ScrollingFrame/Robux_Shelf/Show_Bottom/LocalScript.client.luau   (same source as scripts/MaterialService/ToolMaterials/README.luau)
+client       3  yes      scripts/StarterGui/GearShop/Frame/ScrollingFrame/Sheckles_Shelf/Show_Bottom/LocalScript.client.luau
+client      35  yes      scripts/StarterGui/GrowingList/Frame/Header/GrowAll/LocalScript.client.luau
+client       6  yes      scripts/StarterGui/GuildShop/MainFrame/Header/ExitButton/LocalScript.client.luau
+client      10  yes      scripts/StarterGui/HUD/Currencies/CoinsCounter/FriendButton/LocalScript.client.luau
+client      33  yes      scripts/StarterGui/HUD/Currencies/FriendBoost/TextLabel/FriendBoostScript.client.luau
+client     380  yes      scripts/StarterGui/HUD/CurrenciesScript.client.luau
+client      28  yes      scripts/StarterGui/MailboxUI/Frame/SendingFrame/ItemSendFrame/ScrollingFrames/InventoryFrame/ItemFrameTemplate/Frame/Button/TextButton/SFX.client.luau   (same source as scripts/StarterGui/PremiumSeedShop/Frame/ScrollingFrame/ItemTemplate/Main_Frame/TextButton/SFX.client.luau)
+client       3  yes      scripts/StarterGui/MailboxUI/Frame/SendingFrame/SelectPlayerFrame/Topbar/SearchBox/LocalScript.client.luau   (same source as scripts/MaterialService/ToolMaterials/README.luau)
+client     266  yes      scripts/StarterGui/MushroomUI/Frame/MushroomUIClient.client.luau
+client     108  yes      scripts/StarterGui/Odds/Frame/CrateName/Frame_Update.client.luau
+client       7  yes      scripts/StarterGui/Odds/Frame/Header/ExitButton/Close.client.luau
+client      31  yes      scripts/StarterGui/PetList/Switch.client.luau
+client      28  yes      scripts/StarterGui/PlayerGardenMarket/Listings/ScrollingFrame/PlayerCard/TextButton/SFX.client.luau   (same source as scripts/StarterGui/PremiumSeedShop/Frame/ScrollingFrame/ItemTemplate/Main_Frame/TextButton/SFX.client.luau)
+client      28  yes      scripts/StarterGui/PlayerSelector/Frame/ScrollingFrame/PlayerCard/Holder/TextButton/SFX.client.luau   (same source as scripts/StarterGui/GearShop/Frame/ScrollingFrame/ItemTemplate/Main_Frame/TextButton/SFX.client.luau)
+client     459  yes      scripts/StarterGui/PlayerSelector/PlayerSelectClient.client.luau
+client      11  yes      scripts/StarterGui/PremiumSeedShop/Frame/Header/ExitButton/LocalScript.client.luau
+client      33  yes      scripts/StarterGui/PremiumSeedShop/Frame/Header/RefreshIn/LocalScript.client.luau
+client     484  NO       scripts/StarterGui/PremiumSeedShop/Frame/ScrollingFrame/GenerateItems.client.luau
+client      28  yes      scripts/StarterGui/PremiumSeedShop/Frame/ScrollingFrame/ItemTemplate/Main_Frame/TextButton/SFX.client.luau
+client      15  yes      scripts/StarterGui/PropsFrame/BackModeButtonBar/Resize.client.luau   (same source as scripts/StarterGui/PropsFrame/InitialModeButtonBar/Resize.client.luau)
+client    2155  yes      scripts/StarterGui/PropsFrame/Controller2.client.luau
+client      15  yes      scripts/StarterGui/PropsFrame/InitialModeButtonBar/Resize.client.luau
+client      18  yes      scripts/StarterGui/PropsFrame/Items/EmptyFrame.client.luau
+client     185  yes      scripts/StarterGui/Rainbow Shovel/RainbowShovel/RainbowShovel.client.luau
+client      16  yes      scripts/StarterGui/RobuxShop/Disable.client.luau
+client      75  yes      scripts/StarterGui/RobuxShop/Frame/ScrollingFrame/Admin/AdminBuyClient.client.luau
+client      65  yes      scripts/StarterGui/RobuxShop/Frame/ScrollingFrame/Pets/PetBuyClient.client.luau
+client     925  yes      scripts/StarterGui/RobuxShop/RobuxShopClient.client.luau
+client      19  yes      scripts/StarterGui/SeedShop/Frame/ExclusiveShop/GenerateItems.client.luau
+client      28  yes      scripts/StarterGui/SeedShop/Frame/ExclusiveShop/ItemFrame_Exotic/Main_Frame/TextButton/SFX.client.luau   (same source as scripts/StarterGui/PremiumSeedShop/Frame/ScrollingFrame/ItemTemplate/Main_Frame/TextButton/SFX.client.luau)
+client      28  yes      scripts/StarterGui/SeedShop/Frame/ExclusiveShop/ItemFrame_Secret/Main_Frame/TextButton/SFX.client.luau   (same source as scripts/StarterGui/CrateShop/Frame/ScrollingFrame/ItemTemplate/Main_Frame/TextButton/SFX.client.luau)
+client      28  yes      scripts/StarterGui/SeedShop/Frame/ExclusiveShop/ItemFrame_Super/Main_Frame/TextButton/SFX.client.luau   (same source as scripts/StarterGui/PremiumSeedShop/Frame/ScrollingFrame/ItemTemplate/Main_Frame/TextButton/SFX.client.luau)
+client       3  yes      scripts/StarterGui/SeedShop/Frame/ExclusiveShop/Robux_Shelf/Show_Bottom/LocalScript.client.luau   (same source as scripts/StarterGui/CrateShop/Frame/ScrollingFrame/Robux_Shelf/Show_Bottom/LocalScript.client.luau)
+client      11  yes      scripts/StarterGui/SeedShop/Frame/Header/ExitButton/LocalScript.client.luau
+client      51  yes      scripts/StarterGui/SeedShop/Frame/Header/RefreshIn/LocalScript.client.luau
+client      30  yes      scripts/StarterGui/SeedShop/Frame/Header/RestockButton/LocalScript.client.luau
+client      16  yes      scripts/StarterGui/SeedShop/Frame/MobileScaling.client.luau
+client      42  yes      scripts/StarterGui/SeedShop/Frame/NormalShop/GenerateItems.client.luau
+client      28  yes      scripts/StarterGui/SeedShop/Frame/NormalShop/ItemTemplate/Main_Frame/TextButton/SFX.client.luau   (same source as scripts/StarterGui/CrateShop/Frame/ScrollingFrame/ItemTemplate/Main_Frame/TextButton/SFX.client.luau)
+client       3  yes      scripts/StarterGui/SeedShop/Frame/NormalShop/Robux_Shelf/Show_Bottom/LocalScript.client.luau   (same source as scripts/StarterGui/CrateShop/Frame/ScrollingFrame/Robux_Shelf/Show_Bottom/LocalScript.client.luau)
+client       3  yes      scripts/StarterGui/SeedShop/Frame/NormalShop/Sheckles_Shelf/Show_Bottom/LocalScript.client.luau   (same source as scripts/StarterGui/CrateShop/Frame/ScrollingFrame/Robux_Shelf/Show_Bottom/LocalScript.client.luau)
+client      34  yes      scripts/StarterGui/SeedShop/Frame/ShopSwitchController.client.luau
+client     101  yes      scripts/StarterGui/Settings/Frame/Content/BGM/Slider/SliderMusic.client.luau
+client      57  yes      scripts/StarterGui/Settings/Frame/Content/CodesFrame/Codes.client.luau
+client     101  yes      scripts/StarterGui/Settings/Frame/Content/SFX/Slider/SliderSFX.client.luau
+client       6  yes      scripts/StarterGui/Settings/Frame/Header/ExitButton/Close.client.luau
+client      12  yes      scripts/StarterGui/TeleportButtons/SideButtons/DebugRays/LocalScript.client.luau
+client      24  yes      scripts/StarterGui/TeleportButtons/SideButtons/SideButtonsScript.client.luau
+client     213  yes      scripts/StarterGui/TeleportButtons/TeleportButtons/ButtonHandler.client.luau
+client      52  yes      scripts/StarterGui/TeleportButtons/TimeCycleBar/Scaler.client.luau
+client      15  yes      scripts/StarterGui/TrowelUI/InitialModeTrowel/Resize.client.luau
+client      10  NO       scripts/StarterGui/VersionHistory/LocalScript.client.luau
+client      16  NO       scripts/StarterGui/Watermark/LocalScript.client.luau
+module      97  yes      scripts/StarterPack/Bloodmoon.luau
+client     203  yes      scripts/StarterPack/Shovel Rainbow/RainbowShovelClient.client.luau
+client       6  yes      scripts/StarterPlayer/StarterCharacterScripts/Billboard_UI.client.luau
+client      65  yes      scripts/StarterPlayer/StarterCharacterScripts/Billboard_UI/Billboard_UI/Objects/UIListLayout.client.luau
+client      94  yes      scripts/StarterPlayer/StarterCharacterScripts/GalaxyTexture.client.luau
+client      21  yes      scripts/StarterPlayer/StarterPlayerScripts/ChatMessages.client.luau
+client     146  yes      scripts/StarterPlayer/StarterPlayerScripts/ControllerStarter.client.luau
+module      85  yes      scripts/StarterPlayer/StarterPlayerScripts/Controllers/AntiAfkController.luau
+module     673  yes      scripts/StarterPlayer/StarterPlayerScripts/Controllers/BeeStingController.luau
+module     501  yes      scripts/StarterPlayer/StarterPlayerScripts/Controllers/BenchmarkController.luau
+module     335  yes      scripts/StarterPlayer/StarterPlayerScripts/Controllers/BirdController.luau
+module     334  yes      scripts/StarterPlayer/StarterPlayerScripts/Controllers/BirdHandleController.luau
+module     249  yes      scripts/StarterPlayer/StarterPlayerScripts/Controllers/BirdVisualController.luau
+module     337  yes      scripts/StarterPlayer/StarterPlayerScripts/Controllers/BlackDragonFireController.luau
+module     100  yes      scripts/StarterPlayer/StarterPlayerScripts/Controllers/BlockSmashController.luau
+module     329  yes      scripts/StarterPlayer/StarterPlayerScripts/Controllers/BuildHandleController.luau
+module      85  yes      scripts/StarterPlayer/StarterPlayerScripts/Controllers/CMDRController.luau
+module      34  yes      scripts/StarterPlayer/StarterPlayerScripts/Controllers/ClickSFXControlelr.luau
+module     189  yes      scripts/StarterPlayer/StarterPlayerScripts/Controllers/ColorPickerGuildController.luau
+module      52  yes      scripts/StarterPlayer/StarterPlayerScripts/Controllers/ConveyorController.luau
+module     172  yes      scripts/StarterPlayer/StarterPlayerScripts/Controllers/CrateController.luau
+module     903  yes      scripts/StarterPlayer/StarterPlayerScripts/Controllers/CrateController/CrateOpenEffect.luau
+module     326  yes      scripts/StarterPlayer/StarterPlayerScripts/Controllers/CrateHandleController.luau
+module    1033  yes      scripts/StarterPlayer/StarterPlayerScripts/Controllers/CreateGuildController.luau
+module     381  yes      scripts/StarterPlayer/StarterPlayerScripts/Controllers/CrowbarController.luau
+module     301  yes      scripts/StarterPlayer/StarterPlayerScripts/Controllers/CrowbarHandleController.luau
+module     277  yes      scripts/StarterPlayer/StarterPlayerScripts/Controllers/CutsceneController.luau
+module     739  yes      scripts/StarterPlayer/StarterPlayerScripts/Controllers/DevProductController.luau
+module     675  yes      scripts/StarterPlayer/StarterPlayerScripts/Controllers/DisplayPlantGrowthController.luau
+module     501  yes      scripts/StarterPlayer/StarterPlayerScripts/Controllers/DragonBreathController.luau
+module     615  yes      scripts/StarterPlayer/StarterPlayerScripts/Controllers/DragonBreathController/CCDIKController.luau   (same source as scripts/StarterPlayer/StarterPlayerScripts/Controllers/VenusFlyTrapController/CCDIKController.luau)
+module     113  yes      scripts/StarterPlayer/StarterPlayerScripts/Controllers/DragonBreathController/CCDIKController/Maid.luau
+module      20  yes      scripts/StarterPlayer/StarterPlayerScripts/Controllers/DragonBreathController/CCDIKController/VectorUtil.luau   (same source as scripts/StarterPlayer/StarterPlayerScripts/Controllers/VenusFlyTrapController/CCDIKController/VectorUtil.luau)
+module     829  yes      scripts/StarterPlayer/StarterPlayerScripts/Controllers/DroppedItemController.luau
+module    1877  yes      scripts/StarterPlayer/StarterPlayerScripts/Controllers/EditGuildController.luau
+module     385  yes      scripts/StarterPlayer/StarterPlayerScripts/Controllers/EggHandleController.luau
+module      40  yes      scripts/StarterPlayer/StarterPlayerScripts/Controllers/EggOpenController.luau
+module    1361  yes      scripts/StarterPlayer/StarterPlayerScripts/Controllers/EggOpenController/EggEffect.luau
+module    1181  yes      scripts/StarterPlayer/StarterPlayerScripts/Controllers/EggOpenController/EggHatchAnim.luau
+module     166  yes      scripts/StarterPlayer/StarterPlayerScripts/Controllers/EggOpenController/EggScreenShake.luau
+module     265  yes      scripts/StarterPlayer/StarterPlayerScripts/Controllers/EmptyPotController.luau
+module     568  yes      scripts/StarterPlayer/StarterPlayerScripts/Controllers/ExclusiveStoreController.luau
+module     348  yes      scripts/StarterPlayer/StarterPlayerScripts/Controllers/ExtraEggHatchController.luau
+module     114  yes      scripts/StarterPlayer/StarterPlayerScripts/Controllers/FieldOfViewController.luau
+module     322  yes      scripts/StarterPlayer/StarterPlayerScripts/Controllers/FlashbangController.luau
+module     206  yes      scripts/StarterPlayer/StarterPlayerScripts/Controllers/FlashbangVFXController.luau
+module     169  yes      scripts/StarterPlayer/StarterPlayerScripts/Controllers/FreezeRayController.luau
+module    1033  yes      scripts/StarterPlayer/StarterPlayerScripts/Controllers/FruitVisualizerController.luau
+module     981  yes      scripts/StarterPlayer/StarterPlayerScripts/Controllers/GardenSyncController.luau
+module     433  yes      scripts/StarterPlayer/StarterPlayerScripts/Controllers/GardenVisualController.luau
+module     709  yes      scripts/StarterPlayer/StarterPlayerScripts/Controllers/GearInspectController.luau
+module     336  yes      scripts/StarterPlayer/StarterPlayerScripts/Controllers/GearInspectController/GearScenes/Freeze Ray/Scene.luau
+module     319  yes      scripts/StarterPlayer/StarterPlayerScripts/Controllers/GearInspectController/GearScenes/Power Hose/Scene.luau
+module     151  yes      scripts/StarterPlayer/StarterPlayerScripts/Controllers/GearInspectController/GearScenes/Rainbow Carpet/Scene.luau
+module     574  yes      scripts/StarterPlayer/StarterPlayerScripts/Controllers/GearInspectController/GearScenes/Vine Wrapper Old/Scene.luau
+module     590  yes      scripts/StarterPlayer/StarterPlayerScripts/Controllers/GearInspectController/GearScenes/Vine Wrapper/Scene.luau   (same source as scripts/Workspace/GearScenes/Vine Wrapper/Scene.luau)
+module     337  yes      scripts/StarterPlayer/StarterPlayerScripts/Controllers/GearInspectController/SceneApi.luau
+module     285  yes      scripts/StarterPlayer/StarterPlayerScripts/Controllers/GhostPepperController.luau
+module     199  yes      scripts/StarterPlayer/StarterPlayerScripts/Controllers/GiftingController.luau
+module     895  yes      scripts/StarterPlayer/StarterPlayerScripts/Controllers/GnomeController.luau
+module     287  yes      scripts/StarterPlayer/StarterPlayerScripts/Controllers/GnomeHandleController.luau
+module     105  yes      scripts/StarterPlayer/StarterPlayerScripts/Controllers/GreenbeanAvatarController.luau
+module     560  yes      scripts/StarterPlayer/StarterPlayerScripts/Controllers/GrowingListController.luau
+module     186  yes      scripts/StarterPlayer/StarterPlayerScripts/Controllers/GuiController.luau
+module      84  yes      scripts/StarterPlayer/StarterPlayerScripts/Controllers/GuiController/Components/Click.luau
+module      11  yes      scripts/StarterPlayer/StarterPlayerScripts/Controllers/GuildChatTagController.luau
+module      53  yes      scripts/StarterPlayer/StarterPlayerScripts/Controllers/GuildChatTagController/GuildChatTag.luau
+module     348  yes      scripts/StarterPlayer/StarterPlayerScripts/Controllers/GuildInviteController.luau
+module     351  yes      scripts/StarterPlayer/StarterPlayerScripts/Controllers/GuildShopController.luau
+module     238  yes      scripts/StarterPlayer/StarterPlayerScripts/Controllers/GuildWeekCompleteController.luau
+module     879  yes      scripts/StarterPlayer/StarterPlayerScripts/Controllers/HarvestPromptController.luau
+module     375  yes      scripts/StarterPlayer/StarterPlayerScripts/Controllers/HarvestPromptLabelController.luau
+module     933  yes      scripts/StarterPlayer/StarterPlayerScripts/Controllers/HarvestedFruitHandleController.luau
+client      35  NO       scripts/StarterPlayer/StarterPlayerScripts/Controllers/HarvestedFruitHandleController/Mushroom.server.luau
+module     133  yes      scripts/StarterPlayer/StarterPlayerScripts/Controllers/HoverController.luau
+module     325  yes      scripts/StarterPlayer/StarterPlayerScripts/Controllers/IceSerpentFireController.luau
+module       8  yes      scripts/StarterPlayer/StarterPlayerScripts/Controllers/InventoryController.luau
+module    4351  yes      scripts/StarterPlayer/StarterPlayerScripts/Controllers/InventoryController/Main.luau
+module     131  yes      scripts/StarterPlayer/StarterPlayerScripts/Controllers/InventoryController/Main/GameTranslator.luau
+module    1081  yes      scripts/StarterPlayer/StarterPlayerScripts/Controllers/InventoryController/Main/Icon.luau
+module       6  yes      scripts/StarterPlayer/StarterPlayerScripts/Controllers/InventoryController/Main/Icon/Attribute.luau
+module     379  yes      scripts/StarterPlayer/StarterPlayerScripts/Controllers/InventoryController/Main/Icon/Elements/Caption.luau
+module     185  yes      scripts/StarterPlayer/StarterPlayerScripts/Controllers/InventoryController/Main/Icon/Elements/Container.luau
+module     188  yes      scripts/StarterPlayer/StarterPlayerScripts/Controllers/InventoryController/Main/Icon/Elements/Dropdown.luau
+module     117  yes      scripts/StarterPlayer/StarterPlayerScripts/Controllers/InventoryController/Main/Icon/Elements/Indicator.luau
+module     204  yes      scripts/StarterPlayer/StarterPlayerScripts/Controllers/InventoryController/Main/Icon/Elements/Menu.luau
+module     120  yes      scripts/StarterPlayer/StarterPlayerScripts/Controllers/InventoryController/Main/Icon/Elements/Notice.luau
+module      55  yes      scripts/StarterPlayer/StarterPlayerScripts/Controllers/InventoryController/Main/Icon/Elements/Selection.luau
+module     444  yes      scripts/StarterPlayer/StarterPlayerScripts/Controllers/InventoryController/Main/Icon/Elements/Widget.luau
+module     195  yes      scripts/StarterPlayer/StarterPlayerScripts/Controllers/InventoryController/Main/Icon/Features/Gamepad.luau
+module     293  yes      scripts/StarterPlayer/StarterPlayerScripts/Controllers/InventoryController/Main/Icon/Features/Overflow.luau
+module     335  yes      scripts/StarterPlayer/StarterPlayerScripts/Controllers/InventoryController/Main/Icon/Features/Themes.luau
+module      39  yes      scripts/StarterPlayer/StarterPlayerScripts/Controllers/InventoryController/Main/Icon/Features/Themes/Classic.luau
+module     108  yes      scripts/StarterPlayer/StarterPlayerScripts/Controllers/InventoryController/Main/Icon/Features/Themes/Default.luau
+module     135  yes      scripts/StarterPlayer/StarterPlayerScripts/Controllers/InventoryController/Main/Icon/Packages/GoodSignal.luau
+module     359  yes      scripts/StarterPlayer/StarterPlayerScripts/Controllers/InventoryController/Main/Icon/Packages/Janitor.luau
+module      30  yes      scripts/StarterPlayer/StarterPlayerScripts/Controllers/InventoryController/Main/Icon/Reference.luau
+module     699  yes      scripts/StarterPlayer/StarterPlayerScripts/Controllers/InventoryController/Main/Icon/Utility.luau
+module       2  yes      scripts/StarterPlayer/StarterPlayerScripts/Controllers/InventoryController/Main/Icon/VERSION.luau
+module     138  yes      scripts/StarterPlayer/StarterPlayerScripts/Controllers/InventoryController/Main/RobloxTranslator.luau
+module    3199  yes      scripts/StarterPlayer/StarterPlayerScripts/Controllers/InventoryController/Main/Utility.luau
+module     291  yes      scripts/StarterPlayer/StarterPlayerScripts/Controllers/InventoryController/Main/VirtualInventoryGrid.luau
+module     553  yes      scripts/StarterPlayer/StarterPlayerScripts/Controllers/InverseKinematicsController.luau
+module     681  yes      scripts/StarterPlayer/StarterPlayerScripts/Controllers/KingController.luau
+module      66  yes      scripts/StarterPlayer/StarterPlayerScripts/Controllers/LadderController.luau
+module      87  yes      scripts/StarterPlayer/StarterPlayerScripts/Controllers/LeaveGuildController.luau
+module      63  yes      scripts/StarterPlayer/StarterPlayerScripts/Controllers/LightingController.luau
+module    2310  yes      scripts/StarterPlayer/StarterPlayerScripts/Controllers/MailboxController.luau
+module     971  yes      scripts/StarterPlayer/StarterPlayerScripts/Controllers/MailboxController/MailboxItemCatalog.luau
+module     197  yes      scripts/StarterPlayer/StarterPlayerScripts/Controllers/MoonBloomController.luau
+module      55  yes      scripts/StarterPlayer/StarterPlayerScripts/Controllers/MushroomController.luau
+module     364  yes      scripts/StarterPlayer/StarterPlayerScripts/Controllers/MushroomHandleController.luau
+module     503  yes      scripts/StarterPlayer/StarterPlayerScripts/Controllers/MusicController.luau
+module      68  yes      scripts/StarterPlayer/StarterPlayerScripts/Controllers/MutationController.luau
+module     298  yes      scripts/StarterPlayer/StarterPlayerScripts/Controllers/MutationController/Bloodlit.luau
+module     270  yes      scripts/StarterPlayer/StarterPlayerScripts/Controllers/MutationController/Chained.luau
+module     242  yes      scripts/StarterPlayer/StarterPlayerScripts/Controllers/MutationController/Electric.luau
+module     290  yes      scripts/StarterPlayer/StarterPlayerScripts/Controllers/MutationController/Frozen.luau
+module     242  yes      scripts/StarterPlayer/StarterPlayerScripts/Controllers/MutationController/Gold.luau
+module      69  yes      scripts/StarterPlayer/StarterPlayerScripts/Controllers/MutationController/Pizza.luau
+module     269  yes      scripts/StarterPlayer/StarterPlayerScripts/Controllers/MutationController/Rainbow.luau
+module     218  yes      scripts/StarterPlayer/StarterPlayerScripts/Controllers/MutationController/Secret.luau
+module     234  yes      scripts/StarterPlayer/StarterPlayerScripts/Controllers/MutationController/Starstruck.luau
+module       8  yes      scripts/StarterPlayer/StarterPlayerScripts/Controllers/NPCController.luau
+module     426  yes      scripts/StarterPlayer/StarterPlayerScripts/Controllers/NPCController/Gilbert.luau
+module    1450  yes      scripts/StarterPlayer/StarterPlayerScripts/Controllers/NPCController/Sell_Steven.luau
+module     389  yes      scripts/StarterPlayer/StarterPlayerScripts/Controllers/NPCDialogueController.luau
+module    1172  yes      scripts/StarterPlayer/StarterPlayerScripts/Controllers/NotificationController.luau
+module     126  yes      scripts/StarterPlayer/StarterPlayerScripts/Controllers/NotificationController/NotificationCondenser.luau
+module    1579  yes      scripts/StarterPlayer/StarterPlayerScripts/Controllers/OfflineGrowthAnimationController.luau
+module      13  yes      scripts/StarterPlayer/StarterPlayerScripts/Controllers/PartColorChangeController.luau
+module      97  yes      scripts/StarterPlayer/StarterPlayerScripts/Controllers/PartColorChangeController/MovingTextureYAxis.luau
+module      33  yes      scripts/StarterPlayer/StarterPlayerScripts/Controllers/PartColorChangeController/RedPulse.luau
+module      63  yes      scripts/StarterPlayer/StarterPlayerScripts/Controllers/PartColorChangeController/yAxisBrightnessPulse.luau
+module    1241  yes      scripts/StarterPlayer/StarterPlayerScripts/Controllers/PetEquipController.luau
+module     553  yes      scripts/StarterPlayer/StarterPlayerScripts/Controllers/PetHandleController.luau
+module     721  yes      scripts/StarterPlayer/StarterPlayerScripts/Controllers/PetHoverTooltipController.luau
+module     837  yes      scripts/StarterPlayer/StarterPlayerScripts/Controllers/PetListController.luau
+module       8  yes      scripts/StarterPlayer/StarterPlayerScripts/Controllers/PetModuleINIT.luau
+module     173  yes      scripts/StarterPlayer/StarterPlayerScripts/Controllers/PetRainbowController.luau
+module    1870  yes      scripts/StarterPlayer/StarterPlayerScripts/Controllers/PetVisualController.luau
+module     123  yes      scripts/StarterPlayer/StarterPlayerScripts/Controllers/PetVisualController/ClientPetControllers/Raccoon.luau
+module     566  yes      scripts/StarterPlayer/StarterPlayerScripts/Controllers/PlantController.luau
+module     865  yes      scripts/StarterPlayer/StarterPlayerScripts/Controllers/PlantHoverTooltipController.luau
+module     346  yes      scripts/StarterPlayer/StarterPlayerScripts/Controllers/PlantLifecycleHandler.luau
+module    1556  yes      scripts/StarterPlayer/StarterPlayerScripts/Controllers/PlantVisualizerController.luau
+module      63  yes      scripts/StarterPlayer/StarterPlayerScripts/Controllers/PlayerDeathTeleportController.luau
+module      13  yes      scripts/StarterPlayer/StarterPlayerScripts/Controllers/PlayerStateController.luau
+module     457  yes      scripts/StarterPlayer/StarterPlayerScripts/Controllers/PlotsController.luau
+module     462  yes      scripts/StarterPlayer/StarterPlayerScripts/Controllers/PoisonIvyController.luau
+module     900  yes      scripts/StarterPlayer/StarterPlayerScripts/Controllers/PotPlacementController.luau
+module     565  yes      scripts/StarterPlayer/StarterPlayerScripts/Controllers/PottedPlantHandleController.luau
+module      66  yes      scripts/StarterPlayer/StarterPlayerScripts/Controllers/PowerHoseController.luau
+module     832  yes      scripts/StarterPlayer/StarterPlayerScripts/Controllers/PropController.luau
+module     198  yes      scripts/StarterPlayer/StarterPlayerScripts/Controllers/PropVisualizerController.luau
+module       2  yes      scripts/StarterPlayer/StarterPlayerScripts/Controllers/PropVisualizerController/Big Sign.luau
+module     274  yes      scripts/StarterPlayer/StarterPlayerScripts/Controllers/PropVisualizerController/Big Teleport Pad.luau
+module      52  yes      scripts/StarterPlayer/StarterPlayerScripts/Controllers/PropVisualizerController/Common Bear Trap.luau
+module     110  yes      scripts/StarterPlayer/StarterPlayerScripts/Controllers/PropVisualizerController/Dark Oak Owner Door.luau
+module     242  yes      scripts/StarterPlayer/StarterPlayerScripts/Controllers/PropVisualizerController/FakeSeat.luau
+module      52  yes      scripts/StarterPlayer/StarterPlayerScripts/Controllers/PropVisualizerController/Gold Bear Trap.luau
+module     110  yes      scripts/StarterPlayer/StarterPlayerScripts/Controllers/PropVisualizerController/Gold Owner Door.luau   (same source as scripts/StarterPlayer/StarterPlayerScripts/Controllers/PropVisualizerController/Dark Oak Owner Door.luau)
+module     762  yes      scripts/StarterPlayer/StarterPlayerScripts/Controllers/PropVisualizerController/Gold Seesaw.luau
+module       2  yes      scripts/StarterPlayer/StarterPlayerScripts/Controllers/PropVisualizerController/Gold Sign.luau
+module     274  yes      scripts/StarterPlayer/StarterPlayerScripts/Controllers/PropVisualizerController/Huge Teleport Pad.luau
+module      70  yes      scripts/StarterPlayer/StarterPlayerScripts/Controllers/PropVisualizerController/Mythic Spring.luau
+module     110  yes      scripts/StarterPlayer/StarterPlayerScripts/Controllers/PropVisualizerController/Oak Owner Door.luau
+module      52  yes      scripts/StarterPlayer/StarterPlayerScripts/Controllers/PropVisualizerController/Rainbow Bear Trap.luau
+module     110  yes      scripts/StarterPlayer/StarterPlayerScripts/Controllers/PropVisualizerController/Rainbow Owner Door.luau
+module     762  yes      scripts/StarterPlayer/StarterPlayerScripts/Controllers/PropVisualizerController/Rainbow Seesaw.luau
+module       2  yes      scripts/StarterPlayer/StarterPlayerScripts/Controllers/PropVisualizerController/Rainbow Sign.luau   (same source as scripts/StarterPlayer/StarterPlayerScripts/Controllers/PropVisualizerController/Big Sign.luau)
+module      70  yes      scripts/StarterPlayer/StarterPlayerScripts/Controllers/PropVisualizerController/Rare Spring.luau
+module     259  yes      scripts/StarterPlayer/StarterPlayerScripts/Controllers/PropVisualizerController/Rope Lights.luau   (same source as scripts/StarterPlayer/StarterPlayerScripts/Controllers/PropVisualizerController/Star Lights.luau)
+module       2  yes      scripts/StarterPlayer/StarterPlayerScripts/Controllers/PropVisualizerController/Sign.luau   (same source as scripts/StarterPlayer/StarterPlayerScripts/Controllers/PropVisualizerController/Big Sign.luau)
+module     259  yes      scripts/StarterPlayer/StarterPlayerScripts/Controllers/PropVisualizerController/Small Hanging Rope Light.luau   (same source as scripts/StarterPlayer/StarterPlayerScripts/Controllers/PropVisualizerController/Star Lights.luau)
+module     259  yes      scripts/StarterPlayer/StarterPlayerScripts/Controllers/PropVisualizerController/Star Lights.luau
+module      70  yes      scripts/StarterPlayer/StarterPlayerScripts/Controllers/PropVisualizerController/Super Spring.luau
+module     274  yes      scripts/StarterPlayer/StarterPlayerScripts/Controllers/PropVisualizerController/Teleport Pad.luau   (same source as scripts/StarterPlayer/StarterPlayerScripts/Controllers/PropVisualizerController/Big Teleport Pad.luau)
+module      70  yes      scripts/StarterPlayer/StarterPlayerScripts/Controllers/PropVisualizerController/Uncommon Spring.luau
+module     354  yes      scripts/StarterPlayer/StarterPlayerScripts/Controllers/PropVisualizerController/Weather Machine.luau
+module     762  yes      scripts/StarterPlayer/StarterPlayerScripts/Controllers/PropVisualizerController/Wood Seesaw.luau
+module     109  yes      scripts/StarterPlayer/StarterPlayerScripts/Controllers/PropVisualizerController/__Sign.luau
+module     572  yes      scripts/StarterPlayer/StarterPlayerScripts/Controllers/ProximityPromptController.luau
+module     340  yes      scripts/StarterPlayer/StarterPlayerScripts/Controllers/RaccoonHandleController.luau
+module      40  yes      scripts/StarterPlayer/StarterPlayerScripts/Controllers/RadialFXController.luau
+module     395  yes      scripts/StarterPlayer/StarterPlayerScripts/Controllers/RainbowMagicCarpetController.luau
+module     825  yes      scripts/StarterPlayer/StarterPlayerScripts/Controllers/RakeController.luau
+module     487  yes      scripts/StarterPlayer/StarterPlayerScripts/Controllers/RakeVisualizerController.luau
+module     163  yes      scripts/StarterPlayer/StarterPlayerScripts/Controllers/RollController.luau
+module     316  yes      scripts/StarterPlayer/StarterPlayerScripts/Controllers/SeedHandleController.luau
+module     408  yes      scripts/StarterPlayer/StarterPlayerScripts/Controllers/SeedInspectController.luau
+module     391  yes      scripts/StarterPlayer/StarterPlayerScripts/Controllers/SeedPackHandleController.luau
+module     656  yes      scripts/StarterPlayer/StarterPlayerScripts/Controllers/SeedPackOpenController.luau
+module     451  yes      scripts/StarterPlayer/StarterPlayerScripts/Controllers/SeedPackOpenController/SeedPackEffect.luau
+module     217  yes      scripts/StarterPlayer/StarterPlayerScripts/Controllers/SeedToolTipController.luau
+module      34  yes      scripts/StarterPlayer/StarterPlayerScripts/Controllers/SettingsController.luau
+module     123  yes      scripts/StarterPlayer/StarterPlayerScripts/Controllers/SfxController.luau
+module      33  yes      scripts/StarterPlayer/StarterPlayerScripts/Controllers/SfxSoundGroupGuardController.luau
+module      50  yes      scripts/StarterPlayer/StarterPlayerScripts/Controllers/ShecklePopController.luau
+module    1053  yes      scripts/StarterPlayer/StarterPlayerScripts/Controllers/ShovelController.luau
+module     480  yes      scripts/StarterPlayer/StarterPlayerScripts/Controllers/ShovelHandleController.luau
+module      97  yes      scripts/StarterPlayer/StarterPlayerScripts/Controllers/SignToolController.luau
+module      30  yes      scripts/StarterPlayer/StarterPlayerScripts/Controllers/SkillPointEffectController.luau
+module    1478  yes      scripts/StarterPlayer/StarterPlayerScripts/Controllers/SpawnPetController.luau
+module     277  yes      scripts/StarterPlayer/StarterPlayerScripts/Controllers/SpawnSeedPackController.luau
+module     541  yes      scripts/StarterPlayer/StarterPlayerScripts/Controllers/SprinklerController.luau
+module     315  yes      scripts/StarterPlayer/StarterPlayerScripts/Controllers/SprinklerHandleController.luau
+module     397  yes      scripts/StarterPlayer/StarterPlayerScripts/Controllers/SprinklerVisualizerController.luau
+module    1678  yes      scripts/StarterPlayer/StarterPlayerScripts/Controllers/StealController.luau
+module      55  yes      scripts/StarterPlayer/StarterPlayerScripts/Controllers/StealReturnArrowController.luau
+module     606  yes      scripts/StarterPlayer/StarterPlayerScripts/Controllers/TeleporterController.luau
+module     301  yes      scripts/StarterPlayer/StarterPlayerScripts/Controllers/TeleporterHandleController.luau
+module     161  yes      scripts/StarterPlayer/StarterPlayerScripts/Controllers/TextToolTipController.luau
+module     147  yes      scripts/StarterPlayer/StarterPlayerScripts/Controllers/TimeCycleBarController.luau
+module     164  yes      scripts/StarterPlayer/StarterPlayerScripts/Controllers/TimeCycleController.luau
+module     664  yes      scripts/StarterPlayer/StarterPlayerScripts/Controllers/TimeCycleController/Phases/Bloodmoon.luau
+module     850  yes      scripts/StarterPlayer/StarterPlayerScripts/Controllers/TimeCycleController/Phases/Chained Moon.luau
+module      94  yes      scripts/StarterPlayer/StarterPlayerScripts/Controllers/TimeCycleController/Phases/Day.luau
+module     231  yes      scripts/StarterPlayer/StarterPlayerScripts/Controllers/TimeCycleController/Phases/Goldmoon.luau
+module     274  yes      scripts/StarterPlayer/StarterPlayerScripts/Controllers/TimeCycleController/Phases/Moon.luau
+module     287  yes      scripts/StarterPlayer/StarterPlayerScripts/Controllers/TimeCycleController/Phases/Pizza Moon.luau
+module      46  yes      scripts/StarterPlayer/StarterPlayerScripts/Controllers/TimeCycleController/Phases/Pizza Moon/PizzaGuy.luau
+module     402  yes      scripts/StarterPlayer/StarterPlayerScripts/Controllers/TimeCycleController/Phases/Rainbow Moon.luau
+module      23  yes      scripts/StarterPlayer/StarterPlayerScripts/Controllers/TimeCycleController/Phases/Sunset.luau
+module      87  yes      scripts/StarterPlayer/StarterPlayerScripts/Controllers/ToolPreloadController.luau
+module     859  yes      scripts/StarterPlayer/StarterPlayerScripts/Controllers/TrowelController.luau
+module     325  yes      scripts/StarterPlayer/StarterPlayerScripts/Controllers/TrowelHandleController.luau
+module      34  yes      scripts/StarterPlayer/StarterPlayerScripts/Controllers/TutorialController.luau
+module    1560  yes      scripts/StarterPlayer/StarterPlayerScripts/Controllers/TutorialController/TutorialRunner.luau
+module     824  yes      scripts/StarterPlayer/StarterPlayerScripts/Controllers/TutorialController/TutorialUtils.luau
+module     135  yes      scripts/StarterPlayer/StarterPlayerScripts/Controllers/UnicornVisualController.luau
+module     664  yes      scripts/StarterPlayer/StarterPlayerScripts/Controllers/VenusFlyTrapController.luau
+module     615  yes      scripts/StarterPlayer/StarterPlayerScripts/Controllers/VenusFlyTrapController/CCDIKController.luau
+module     113  yes      scripts/StarterPlayer/StarterPlayerScripts/Controllers/VenusFlyTrapController/CCDIKController/Maid.luau
+module      20  yes      scripts/StarterPlayer/StarterPlayerScripts/Controllers/VenusFlyTrapController/CCDIKController/VectorUtil.luau
+module    2977  yes      scripts/StarterPlayer/StarterPlayerScripts/Controllers/ViewGuildController.luau
+module    1242  yes      scripts/StarterPlayer/StarterPlayerScripts/Controllers/ViewGuildLeaderboardController.luau
+module     681  yes      scripts/StarterPlayer/StarterPlayerScripts/Controllers/ViewGuildProgressController.luau
+module    1034  yes      scripts/StarterPlayer/StarterPlayerScripts/Controllers/VineWrapperController.luau
+module     404  yes      scripts/StarterPlayer/StarterPlayerScripts/Controllers/WaterRevivePromptController.luau
+module     776  yes      scripts/StarterPlayer/StarterPlayerScripts/Controllers/WateringcanController.luau
+module     333  yes      scripts/StarterPlayer/StarterPlayerScripts/Controllers/WateringcanHandleController.luau
+module     179  yes      scripts/StarterPlayer/StarterPlayerScripts/Controllers/WeatherController.luau
+module     728  yes      scripts/StarterPlayer/StarterPlayerScripts/Controllers/WeatherController/Lightning.luau
+module     454  yes      scripts/StarterPlayer/StarterPlayerScripts/Controllers/WeatherController/Rain.luau
+module     329  yes      scripts/StarterPlayer/StarterPlayerScripts/Controllers/WeatherController/Rainbow.luau
+module     766  yes      scripts/StarterPlayer/StarterPlayerScripts/Controllers/WeatherController/Snowfall.luau
+module     273  yes      scripts/StarterPlayer/StarterPlayerScripts/Controllers/WeatherController/Starfall.luau
+module     166  yes      scripts/StarterPlayer/StarterPlayerScripts/Controllers/WheelbarrowController.luau
+client      24  yes      scripts/StarterPlayer/StarterPlayerScripts/DisableGamepadPlayerList.client.luau
+client       8  yes      scripts/StarterPlayer/StarterPlayerScripts/DisableResetButton.client.luau
+client     131  yes      scripts/StarterPlayer/StarterPlayerScripts/FlyController.client.luau
+client      80  yes      scripts/StarterPlayer/StarterPlayerScripts/HideCollectProximityPrompts.client.luau
+client      76  yes      scripts/StarterPlayer/StarterPlayerScripts/InfiniteGradient.client.luau
+client      45  yes      scripts/StarterPlayer/StarterPlayerScripts/LimitedShop.client.luau
+client     127  yes      scripts/StarterPlayer/StarterPlayerScripts/Msuhroom.client.luau
+client     257  yes      scripts/StarterPlayer/StarterPlayerScripts/SocialPopupClient.client.luau
+module      14  yes      scripts/StarterPlayer/StarterPlayerScripts/TEMPLATE_CONTROLLER.luau
+client      52  yes      scripts/StarterPlayer/StarterPlayerScripts/Weld.client.luau
+client      30  yes      scripts/StarterPlayer/StarterPlayerScripts/_DiagClient.client.luau
+module     336  yes      scripts/Workspace/GearScenes/Freeze Ray/Scene.luau
+server       3  yes      scripts/Workspace/GearScenes/Power Hose/HoseInspect/Player1/Power Hose/PowerWasher.server.luau
+module     319  yes      scripts/Workspace/GearScenes/Power Hose/Scene.luau
+module     151  yes      scripts/Workspace/GearScenes/Rainbow Carpet/Scene.luau
+module     590  yes      scripts/Workspace/GearScenes/Vine Wrapper/Scene.luau
+client     256  yes      scripts/Workspace/NPCS/Charlotte/HumanoidRootPart/ProximityPrompt/Script.server.luau
+client       4  yes      scripts/Workspace/NPCS/Gilbert/HumanoidRootPart/ProximityPrompt/GuildNPCTalk.server.luau
+client     175  yes      scripts/Workspace/NPCS/Model/George/HumanoidRootPart/ProximityPrompt/Script.server.luau
+client     175  yes      scripts/Workspace/NPCS/Sam/HumanoidRootPart/ProximityPrompt/Script.server.luau
+client      89  NO       scripts/Workspace/NPCS/Steven/HumanoidRootPart/ProximityPrompt/Script.server.luau

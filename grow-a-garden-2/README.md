@@ -94,3 +94,15 @@ nature (118), decoration (67), vfx (59), character (56), tool (53), building (48
 | `ui/StarterGui/HUD.rbxm` | 18 | 4 |
 | `ui/StarterGui/Banhammer/BanGui.rbxm` | 18 | 3 |
 | `ui/ReplicatedStorage/ProximityPromptTemplates/Default.rbxm` | 17 | 1 |
+
+## Second copy checked (2026-11-01)
+
+`Grow A Garden 2 -.rbxl` (from `Downloads\need_unpack`) is the same place as the source above: same 136,592
+packed instances, same 1,168 asset ids, and the same scripts except the `README` script. It only differs by
+5 empty services and a newer Studio save format (`InputSink` is now `Sink`, Decal/Texture gained `Emissive*`
+defaults). The packs here were kept; nothing was missing.
+
+## Full source
+
+`source/` holds every script (`source/scripts/`), the instance tree, UI dump, remotes, asset ids, the security
+scan (`source/flags.txt`) and the original file (`source/original/Grow A Garden 2 -.rbxl`).

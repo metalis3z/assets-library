@@ -1,0 +1,274 @@
+Automatic scan. HIGH = review before publishing; MED = check what it does; INFO = context.
+
+[HIGH] scripts/ReplicatedStorage/Directory/Products/_Index/Currency/Money_200000.luau lines 4
+       require() with a computed / hidden argument
+[HIGH] scripts/ReplicatedStorage/Directory/Products/_Index/Currency/Money_24000.luau lines 4
+       require() with a computed / hidden argument
+[HIGH] scripts/ReplicatedStorage/Directory/Products/_Index/Currency/Money_4000000.luau lines 4
+       require() with a computed / hidden argument
+[HIGH] scripts/ReplicatedStorage/Directory/Products/_Index/Currency/Money_800000.luau lines 4
+       require() with a computed / hidden argument
+[HIGH] scripts/ReplicatedStorage/Directory/Products/_Index/Currency/Money_8000000.luau lines 4
+       require() with a computed / hidden argument
+[HIGH] scripts/ReplicatedStorage/Directory/Products/_Index/LimitedEggs/Limited Egg x10.luau lines 4
+       require() with a computed / hidden argument
+[HIGH] scripts/ReplicatedStorage/Directory/Products/_Index/LimitedEggs/Limited Egg x3.luau lines 4
+       require() with a computed / hidden argument
+[HIGH] scripts/ReplicatedStorage/Directory/Products/_Index/LimitedEggs/Limited Egg x50.luau lines 4
+       require() with a computed / hidden argument
+[HIGH] scripts/ReplicatedStorage/Directory/Products/_Index/LimitedEggs/Limited Egg.luau lines 4
+       require() with a computed / hidden argument
+[HIGH] scripts/ReplicatedStorage/Directory/Products/_Index/ServerLuck/ServerLuck_Extend15.luau lines 4
+       require() with a computed / hidden argument
+[HIGH] scripts/ReplicatedStorage/Directory/Products/_Index/ServerLuck/ServerLuck_Extend30.luau lines 4
+       require() with a computed / hidden argument
+[HIGH] scripts/ReplicatedStorage/Directory/Products/_Index/ServerLuck/ServerLuck_X2.luau lines 4
+       require() with a computed / hidden argument
+[HIGH] scripts/ReplicatedStorage/Directory/Products/_Index/ServerLuck/ServerLuck_X4.luau lines 4
+       require() with a computed / hidden argument
+[HIGH] scripts/ReplicatedStorage/Directory/Products/_Index/ServerLuck/ServerLuck_X8.luau lines 4
+       require() with a computed / hidden argument
+[HIGH] scripts/ReplicatedStorage/Directory/Products/_Index/SkipEggGrowth/Instant Hatch (1).luau lines 4
+       require() with a computed / hidden argument
+[HIGH] scripts/ReplicatedStorage/Directory/Products/_Index/SkipEggGrowth/Instant Hatch (10).luau lines 4
+       require() with a computed / hidden argument
+[HIGH] scripts/ReplicatedStorage/Directory/Products/_Index/SkipEggGrowth/Instant Hatch (2).luau lines 4
+       require() with a computed / hidden argument
+[HIGH] scripts/ReplicatedStorage/Directory/Products/_Index/SkipEggGrowth/Instant Hatch (3).luau lines 4
+       require() with a computed / hidden argument
+[HIGH] scripts/ReplicatedStorage/Directory/Products/_Index/SkipEggGrowth/Instant Hatch (4).luau lines 4
+       require() with a computed / hidden argument
+[HIGH] scripts/ReplicatedStorage/Directory/Products/_Index/SkipEggGrowth/Instant Hatch (5).luau lines 4
+       require() with a computed / hidden argument
+[HIGH] scripts/ReplicatedStorage/Directory/Products/_Index/SkipEggGrowth/Instant Hatch (6).luau lines 4
+       require() with a computed / hidden argument
+[HIGH] scripts/ReplicatedStorage/Directory/Products/_Index/SkipEggGrowth/Instant Hatch (7).luau lines 4
+       require() with a computed / hidden argument
+[HIGH] scripts/ReplicatedStorage/Directory/Products/_Index/SkipEggGrowth/Instant Hatch (8).luau lines 4
+       require() with a computed / hidden argument
+[HIGH] scripts/ReplicatedStorage/Directory/Products/_Index/SkipEggGrowth/Instant Hatch (9).luau lines 4
+       require() with a computed / hidden argument
+[HIGH] scripts/ReplicatedStorage/Directory/Products/_Index/SpeedBoost/SpeedBoostTier1.luau lines 4
+       require() with a computed / hidden argument
+[HIGH] scripts/ReplicatedStorage/Directory/Products/_Index/SpeedBoost/SpeedBoostTier10.luau lines 4
+       require() with a computed / hidden argument
+[HIGH] scripts/ReplicatedStorage/Directory/Products/_Index/SpeedBoost/SpeedBoostTier11.luau lines 4
+       require() with a computed / hidden argument
+[HIGH] scripts/ReplicatedStorage/Directory/Products/_Index/SpeedBoost/SpeedBoostTier12.luau lines 4
+       require() with a computed / hidden argument
+[HIGH] scripts/ReplicatedStorage/Directory/Products/_Index/SpeedBoost/SpeedBoostTier2.luau lines 4
+       require() with a computed / hidden argument
+[HIGH] scripts/ReplicatedStorage/Directory/Products/_Index/SpeedBoost/SpeedBoostTier3.luau lines 4
+       require() with a computed / hidden argument
+[HIGH] scripts/ReplicatedStorage/Directory/Products/_Index/SpeedBoost/SpeedBoostTier4.luau lines 4
+       require() with a computed / hidden argument
+[HIGH] scripts/ReplicatedStorage/Directory/Products/_Index/SpeedBoost/SpeedBoostTier5.luau lines 4
+       require() with a computed / hidden argument
+[HIGH] scripts/ReplicatedStorage/Directory/Products/_Index/SpeedBoost/SpeedBoostTier6.luau lines 4
+       require() with a computed / hidden argument
+[HIGH] scripts/ReplicatedStorage/Directory/Products/_Index/SpeedBoost/SpeedBoostTier7.luau lines 4
+       require() with a computed / hidden argument
+[HIGH] scripts/ReplicatedStorage/Directory/Products/_Index/SpeedBoost/SpeedBoostTier8.luau lines 4
+       require() with a computed / hidden argument
+[HIGH] scripts/ReplicatedStorage/Directory/Products/_Index/SpeedBoost/SpeedBoostTier9.luau lines 4
+       require() with a computed / hidden argument
+[HIGH] scripts/ReplicatedStorage/Directory/Products/_Index/SpeedPower/SpeedPower_1000000.luau lines 4
+       require() with a computed / hidden argument
+[HIGH] scripts/ReplicatedStorage/Directory/Products/_Index/SpeedPower/SpeedPower_10000000.luau lines 4
+       require() with a computed / hidden argument
+[HIGH] scripts/ReplicatedStorage/Directory/Products/_Index/SpeedPower/SpeedPower_1000000000.luau lines 4
+       require() with a computed / hidden argument
+[HIGH] scripts/ReplicatedStorage/Directory/Products/_Index/SpeedPower/SpeedPower_150000.luau lines 4
+       require() with a computed / hidden argument
+[HIGH] scripts/ReplicatedStorage/Directory/Products/_Index/SpeedPower/SpeedPower_50000000.luau lines 4
+       require() with a computed / hidden argument
+[HIGH] scripts/ReplicatedStorage/Directory/Products/_Index/SpeedPower/SpeedPower_500000000.luau lines 4
+       require() with a computed / hidden argument
+[HIGH] scripts/ReplicatedStorage/Directory/Products/_Index/Steal/StealCommon.luau lines 4
+       require() with a computed / hidden argument
+[HIGH] scripts/ReplicatedStorage/Directory/Products/_Index/Steal/StealCosmic.luau lines 4
+       require() with a computed / hidden argument
+[HIGH] scripts/ReplicatedStorage/Directory/Products/_Index/Steal/StealDivine.luau lines 4
+       require() with a computed / hidden argument
+[HIGH] scripts/ReplicatedStorage/Directory/Products/_Index/Steal/StealEpic.luau lines 4
+       require() with a computed / hidden argument
+[HIGH] scripts/ReplicatedStorage/Directory/Products/_Index/Steal/StealEternal.luau lines 4
+       require() with a computed / hidden argument
+[HIGH] scripts/ReplicatedStorage/Directory/Products/_Index/Steal/StealLegendary.luau lines 4
+       require() with a computed / hidden argument
+[HIGH] scripts/ReplicatedStorage/Directory/Products/_Index/Steal/StealMythic.luau lines 4
+       require() with a computed / hidden argument
+[HIGH] scripts/ReplicatedStorage/Directory/Products/_Index/Steal/StealRare.luau lines 4
+       require() with a computed / hidden argument
+[HIGH] scripts/ReplicatedStorage/Directory/Products/_Index/Steal/StealSecret.luau lines 4
+       require() with a computed / hidden argument
+[HIGH] scripts/ReplicatedStorage/Directory/Products/_Index/Steal/StealUncommon.luau lines 4
+       require() with a computed / hidden argument
+[HIGH] scripts/ReplicatedStorage/Directory/Products/_Index/TemporarySpeedBoosts/TemporarySpeedBoost_10Minutes.luau lines 4
+       require() with a computed / hidden argument
+[HIGH] scripts/ReplicatedStorage/Directory/Products/_Index/TemporarySpeedBoosts/TemporarySpeedBoost_1Hour.luau lines 4
+       require() with a computed / hidden argument
+[HIGH] scripts/ReplicatedStorage/Directory/Products/_Index/TemporarySpeedBoosts/TemporarySpeedBoost_30Minutes.luau lines 4
+       require() with a computed / hidden argument
+[HIGH] scripts/ServerScriptService/HD Admin/Core/MainModule/Value/Modules/Internal/Commands/ModPack/Tool/Building Tools/Libraries/Cryo/List.luau lines 19
+       require() with a computed / hidden argument
+[HIGH] scripts/ServerScriptService/HD Admin/Core/MainModule/Value/Modules/Internal/Commands/ModPack/Tool/Building Tools/Libraries/Cryo/List/reverse.spec.luau lines 2
+       require() with a computed / hidden argument
+[HIGH] scripts/ServerScriptService/HD Admin/Core/MainModule/Value/Packages/.pesde/csqrl_sift@0.0.9/sift/Array.luau lines 56
+       require() with a computed / hidden argument
+[MED] scripts/ReplicatedStorage/Library/Functions/HTTP.luau lines 8
+       HttpService request (calls an outside server)
+[MED] scripts/ReplicatedStorage/Library/Modules/AnimationController/Utility/LoadPackage.luau lines 24,45
+       InsertService:LoadAsset (pulls models at runtime)
+[MED] scripts/ReplicatedStorage/Library/Modules/BodyMover.luau lines 9
+       getfenv / setfenv (environment tampering, common in backdoors)
+[MED] scripts/ReplicatedStorage/Library/Modules/Packages/_Index/roblox_testez@0.4.1/testez/TestPlan.luau lines 162,172
+       getfenv / setfenv (environment tampering, common in backdoors)
+[MED] scripts/ReplicatedStorage/Library/Modules/Packages/_Index/roblox_testez@0.4.1/testez/TestRunner.luau lines 40
+       getfenv / setfenv (environment tampering, common in backdoors)
+[MED] scripts/ServerScriptService/Adonis_Loader/Loader/Loader.server.luau lines 49,52,54,56,61,271,282
+       InsertService:LoadAsset (pulls models at runtime)
+[MED] scripts/ServerScriptService/Core_Compatibility.luau lines 21,31
+       HttpService request (calls an outside server)
+[MED] scripts/ServerScriptService/HD Admin/Core/Loader.server.luau lines 60
+       InsertService:LoadAsset (pulls models at runtime)
+[MED] scripts/ServerScriptService/HD Admin/Core/MainModule/Value/Modules/CommandUtil/loadAssetCommand.luau lines 36
+       InsertService:LoadAsset (pulls models at runtime)
+[MED] scripts/ServerScriptService/HD Admin/Core/MainModule/Value/Modules/Internal/Commands/ModPack/Tool/Building Tools/Core.luau lines 1,177,362,402,1091
+       getfenv / setfenv (environment tampering, common in backdoors)
+[MED] scripts/ServerScriptService/HD Admin/Core/MainModule/Value/Modules/Internal/Commands/ModPack/Tool/Building Tools/Libraries/Debug.luau lines 67
+       getfenv / setfenv (environment tampering, common in backdoors)
+[MED] scripts/ServerScriptService/HD Admin/Core/MainModule/Value/Modules/Internal/Commands/ModPack/Tool/Building Tools/Libraries/SupportLibrary.luau lines 441
+       getfenv / setfenv (environment tampering, common in backdoors)
+[MED] scripts/ServerScriptService/HD Admin/Core/MainModule/Value/Modules/Internal/Commands/ModPack/Tool/Building Tools/SyncAPI/SyncModule.luau lines 1640,1672,1698,1712
+       HttpService request (calls an outside server)
+[MED] scripts/ServerScriptService/HD Admin/Core/MainModule/Value/Packages/.pesde/red-blox_fetch@2.0.0/fetch.luau lines 33
+       HttpService request (calls an outside server)
+[MED] scripts/ServerScriptService/HD Admin/Core/MainModule/Value/Services/Charts.luau lines 115,123
+       HttpService request (calls an outside server)
+
+Instances with suspicious names:
+  ParticleEmitter ReplicatedStorage.Assets.VFX.ExclusiveEggs.Particles.Explode.Bomb.bsespread
+
+Monetization ids found in code (gamepass / product). Replace with your own:
+  117501901079852  in scripts/ReplicatedStorage/Library/Modules/Packages/_Index/1foreverhd_topbarplus@3.2.5/topbarplus/VERSION.luau, scripts/ServerScriptService/HD Admin/Core/MainModule/Value/Packages/.pesde/1foreverhd_topbarplus@3.4.0/topbarplus/VERSION.luau
+  123456  in scripts/ServerScriptService/Adonis_Loader/Config/Settings (role people in ranks)/General.luau, scripts/ServerScriptService/Adonis_Loader/Config/Settings (role people in ranks)/Ranks.luau
+  123456789  in scripts/ServerScriptService/HD Admin/Config/Bans.luau
+  142785488  in scripts/ServerScriptService/HD Admin/Core/MainModule/Value/Modules/Internal/Commands/ModPack/Tool/Building Tools/Core.luau
+  14917727535  in scripts/ServerScriptService/HD Admin/Core/MainModule/Value/Modules/Internal/Commands/FunPack/Character.luau
+  1854056525  in scripts/ReplicatedStorage/Directory/Gamepasses/_Index/AdminPanel.luau, scripts/ReplicatedStorage/Directory/Gamepasses/_Index/Lucky.luau
+  1931468161  in scripts/ReplicatedStorage/Directory/Gamepasses/_Index/X2Growth.luau
+  1935039424  in scripts/ReplicatedStorage/Directory/Gamepasses/_Index/X2Money.luau
+  3597897050  in scripts/ReplicatedStorage/Directory/Products/_Index/Misc/RebirthSkip.luau
+  3611606667  in scripts/ReplicatedStorage/Directory/Treadmills/_Index/Sci-FiTreadmill.luau
+  3611606677  in scripts/ReplicatedStorage/Directory/Treadmills/_Index/FlameTreadmill.luau
+  3611606688  in scripts/ReplicatedStorage/Directory/Treadmills/_Index/CelebrityTreadmill.luau
+  3611606694  in scripts/ReplicatedStorage/Directory/Treadmills/_Index/GoldenTreadmill.luau
+  3611606701  in scripts/ReplicatedStorage/Directory/Treadmills/_Index/The FreezeTreadmill.luau
+  3611606706  in scripts/ReplicatedStorage/Directory/Treadmills/_Index/Lucky BlockTreadmill.luau
+  3611606718  in scripts/ReplicatedStorage/Directory/Treadmills/_Index/HackerTreadmill.luau
+  3611606728  in scripts/ReplicatedStorage/Directory/Treadmills/_Index/DemonicTreadmill.luau
+  3611606732  in scripts/ReplicatedStorage/Directory/Treadmills/_Index/AngelicTreadmill.luau
+  3611606739  in scripts/ReplicatedStorage/Directory/Trails/_Index/GreenTrail.luau
+  3611606747  in scripts/ReplicatedStorage/Directory/Trails/_Index/BlueTrail.luau
+  3611606754  in scripts/ReplicatedStorage/Directory/Trails/_Index/PurpleTrail.luau
+  3611606764  in scripts/ReplicatedStorage/Directory/Trails/_Index/GoldenTrail.luau
+  3611606768  in scripts/ReplicatedStorage/Directory/Trails/_Index/RedTrail.luau
+  3611606773  in scripts/ReplicatedStorage/Directory/Trails/_Index/GalaxyTrail.luau
+  3611606784  in scripts/ReplicatedStorage/Directory/Trails/_Index/SecretTrail.luau
+  3611606787  in scripts/ReplicatedStorage/Directory/Trails/_Index/EternalTrail.luau
+  3611606791  in scripts/ReplicatedStorage/Directory/Trails/_Index/DivineTrail.luau
+  3611613592  in scripts/ReplicatedStorage/Directory/Products/_Index/Misc/EggGrowAll.luau
+  3612508008  in scripts/ReplicatedStorage/Directory/Products/TreadmillSpeedEquivalentOffers.luau
+  3612508088  in scripts/ReplicatedStorage/Directory/Products/TreadmillSpeedEquivalentOffers.luau
+  3612508192  in scripts/ReplicatedStorage/Directory/Products/TreadmillSpeedEquivalentOffers.luau
+  3612508244  in scripts/ReplicatedStorage/Directory/Products/TreadmillSpeedEquivalentOffers.luau
+  3710700106  in scripts/ReplicatedStorage/Directory/Products/_Index/CashGrab/CashGrab_Phoenix.luau, scripts/ReplicatedStorage/Directory/Products/_Index/CashGrab/CashGrab_StrawberryElephant.luau, scripts/ReplicatedStorage/Directory/Products/_Index/CashGrab/CashGrab_Unicorn.luau, scripts/ReplicatedStorage/Directory/Products/_Index/CashGrab/Kitsune.luau
+  3710829104  in scripts/ReplicatedStorage/Directory/Products/_Index/Misc/TakeAnyway.luau
+  3710829171  in scripts/ReplicatedStorage/Elements/Toggles/InfiniteMoney/ImageButton/LocalScript.client.luau, scripts/StarterGui/monetizationGUI/Toggles/InfiniteMoney/ImageButton/LocalScript.client.luau
+  3710872795  in scripts/StarterGui/Troll/TrollButtonsClient.client.luau
+  3710872835  in scripts/StarterGui/Troll/TrollButtonsClient.client.luau
+  3710872862  in scripts/StarterGui/Troll/TrollButtonsClient.client.luau
+  3710872895  in scripts/StarterGui/Troll/TrollButtonsClient.client.luau
+  3710872934  in scripts/StarterGui/Troll/TrollButtonsClient.client.luau
+  3710872968  in scripts/StarterGui/Troll/TrollButtonsClient.client.luau
+  3710872994  in scripts/StarterGui/Troll/TrollButtonsClient.client.luau
+  3710873021  in scripts/StarterGui/Troll/TrollButtonsClient.client.luau
+  3710873048  in scripts/StarterGui/Troll/TrollButtonsClient.client.luau
+  3710873079  in scripts/StarterGui/Troll/TrollButtonsClient.client.luau
+  3710873105  in scripts/StarterGui/Troll/TrollButtonsClient.client.luau
+  4676369  in scripts/ServerScriptService/HD Admin/Core/MainModule/Value/Services/Commands.luau, scripts/ServerScriptService/HD Admin/Core/MainModule/Value/Services/Emotes.luau
+  79941590401581  in scripts/ServerScriptService/HD Admin/Core/MainModule/Value/Controllers/UI/Config/VERSION.luau
+
+Outside URLs in code:
+  http://elttob.uk/Fusion/0.3/api-reference/state/types/observer/  in scripts/ServerScriptService/HD Admin/Core/MainModule/Value/Packages/.pesde/elttob_fusion@0.3.0/fusion/Graph/Observer.luau
+  http://f3xteam.com/bt/export  in scripts/ServerScriptService/HD Admin/Core/MainModule/Value/Modules/Internal/Commands/ModPack/Tool/Building Tools/SyncAPI/SyncModule.luau
+  http://f3xteam.com/bt/getDecalImageID/  in scripts/ServerScriptService/HD Admin/Core/MainModule/Value/Modules/Internal/Commands/ModPack/Tool/Building Tools/SyncAPI/SyncModule.luau
+  http://f3xteam.com/bt/getFirstMeshData/  in scripts/ServerScriptService/HD Admin/Core/MainModule/Value/Modules/Internal/Commands/ModPack/Tool/Building Tools/SyncAPI/SyncModule.luau
+  http://www%.roblox%.com/asset/%?id=(%d+  in scripts/ReplicatedStorage/Library/Functions/ParseAssetId.luau
+  http://www.roblox.com/item.aspx?id=227509468  in scripts/ServerScriptService/HD Admin/Core/MainModule/Value/Modules/Internal/Commands/ModPack/Tool/Building Tools/Libraries/Region.luau
+  https://bottosson.github.io/posts/colorwrong/#what-can-we-do%3F  in scripts/ServerScriptService/HD Admin/Core/MainModule/Value/Packages/.pesde/elttob_fusion@0.3.0/fusion/Colour/sRGB.luau
+  https://bottosson.github.io/posts/oklab/  in scripts/ServerScriptService/HD Admin/Core/MainModule/Value/Packages/.pesde/elttob_fusion@0.3.0/fusion/Colour/Oklab.luau
+  https://charts.nanoblox.com/advertise  in scripts/ServerScriptService/HD Admin/Core/MainModule/Value/Services/Charts.luau
+  https://chromium.googlesource.com/devtools/devtools-frontend/+/c88c76b465f2dc8a853fe2a0997ccbfbff0e5bac/front_end/common/ColorUtils.js#88  in scripts/ServerScriptService/HD Admin/Core/MainModule/Value/Packages/.pesde/csqrl_colour-utils@1.4.1/colour-utils/APCA/GetContrastRatio.luau
+  https://create.roblox.com/store/asset/119264982349837/OnyxUI  in scripts/ServerScriptService/HD Admin/Core/MainModule/Value/Controllers/UI/Config/Credits.luau
+  https://create.roblox.com/store/asset/16279661108/PID-Debug  in scripts/ReplicatedStorage/Library/Modules/Packages/_Index/sleitnick_pid@2.1.0/pid.luau
+  https://create.roblox.com/store/asset/17438792001/  in scripts/ServerScriptService/Adonis_Loader/Loader/Loader.server.luau
+  https://create.roblox.com/store/asset/7510622625/  in scripts/ServerScriptService/Adonis_Loader/README.luau
+  https://create.roblox.com/store/asset/857927023/HD-Admin  in scripts/ServerScriptService/HD Admin/Core/MainModule/Value/Services/Commands/Booster.luau
+  https://create.roblox.com/store/asset/92368439343389/TopbarPlus  in scripts/ServerScriptService/HD Admin/Core/MainModule/Value/Controllers/UI/Config/Credits.luau, scripts/ServerScriptService/HD Admin/Core/MainModule/Value/Packages/.pesde/1foreverhd_topbarplus@3.4.0/topbarplus/Attribute.luau
+  https://developer.roblox.com/en-us/api-reference/enum/KeyCode  in scripts/ServerScriptService/Adonis_Loader/Config/Settings (role people in ranks)/General.luau
+  https://developer.roblox.com/en-us/api-reference/function/HttpService/JSONDecode  in scripts/ServerScriptService/HD Admin/Core/MainModule/Value/Packages/.pesde/sleitnick_table-util@1.2.1/table-util.luau
+  https://developer.roblox.com/en-us/api-reference/function/HttpService/JSONEncode  in scripts/ServerScriptService/HD Admin/Core/MainModule/Value/Packages/.pesde/sleitnick_table-util@1.2.1/table-util.luau
+  https://devforum.roblox.com/  in scripts/ServerScriptService/HD Admin/Core/MainModule/Value/Controllers/UI/Components/UpdatesLink.luau
+  https://devforum.roblox.com/t/-/2842369/5  in scripts/ServerScriptService/HD Admin/Core/MainModule/Value/Modules/PlayerUtil/loadCharacter.luau, scripts/ServerScriptService/HD Admin/Core/MainModule/Value/Modules/PlayerUtil/loadCharacterStarted.luau
+  https://devforum.roblox.com/t/-/3739522/2  in scripts/ServerScriptService/HD Admin/Core/MainModule/Value/Modules/CommandUtil/playTextToSpeech.luau
+  https://devforum.roblox.com/t/bug/1017485/1732  in scripts/ServerScriptService/HD Admin/Core/MainModule/Value/Packages/.pesde/1foreverhd_topbarplus@3.4.0/topbarplus/Utility.luau
+  https://devforum.roblox.com/t/bug/2973508/7  in scripts/ServerScriptService/HD Admin/Core/MainModule/Value/Packages/.pesde/1foreverhd_topbarplus@3.4.0/topbarplus/Elements/Container.luau
+  https://devforum.roblox.com/t/hd-admin-updates/3446058  in scripts/ServerScriptService/HD Admin/Core/MainModule/Value/Services/Commands/Booster.luau
+  https://devforum.roblox.com/t/here/2794915  in scripts/ServerScriptService/HD Admin/Core/MainModule/Value/Packages/.pesde/1foreverhd_topbarplus@3.4.0/topbarplus.luau
+  https://devforum.roblox.com/t/lua-signal-class-comparison-optimal-goodsignal-class/1387063  in scripts/ServerScriptService/HD Admin/Core/MainModule/Value/Packages/.pesde/sleitnick_signal@2.0.3/signal.luau
+  https://devforum.roblox.com/t/text-compression/163637/5  in scripts/ServerScriptService/HD Admin/Core/MainModule/Value/Modules/Serializer/Compressor.luau
+  https://devforum.roblox.com/t/topbarplus/1017485  in scripts/ReplicatedStorage/Library/Modules/Packages/_Index/1foreverhd_topbarplus@3.2.5/topbarplus/Attribute.luau, scripts/ServerScriptService/HD Admin/Core/MainModule/Value/Services/Commands/Booster.luau
+  https://devforum.roblox.com/t/topbarplus/1017485/1104  in scripts/ServerScriptService/HD Admin/Core/MainModule/Value/Packages/.pesde/1foreverhd_topbarplus@3.4.0/topbarplus.luau
+  https://devforum.roblox.com/t/topbarplus/1017485`  in scripts/ServerScriptService/HD Admin/Core/MainModule/Value/Packages/.pesde/1foreverhd_topbarplus@3.4.0/topbarplus/Attribute.luau
+  https://devforum.roblox.com/t/worldmodels-too-costly-due-to-running-in-serial/3952084  in scripts/ServerScriptService/HD Admin/Core/MainModule/Value/Modules/Framework.luau
+  https://discord.gg/wx4ThpAsmw  in scripts/ReplicatedFirst/UserGenerated.luau, scripts/ReplicatedFirst/UserGenerated/Analytics.server.luau, scripts/ReplicatedStorage/AssetDnaProductResolver.luau
+  https://discord.gg/y63m4zUYa4  in scripts/ReplicatedStorage/Library/Modules/BigNum.luau, scripts/ReplicatedStorage/Library/Modules/MinkowskiSumInstance.luau, scripts/ReplicatedStorage/Library/SpinnyWheelLayout.luau
+  https://elttob.uk/Fusion/0.3/api-reference/animation/types/spring/  in scripts/ServerScriptService/HD Admin/Core/MainModule/Value/Packages/.pesde/elttob_fusion@0.3.0/fusion/Animation/Spring.luau
+  https://elttob.uk/Fusion/0.3/api-reference/animation/types/tween/  in scripts/ServerScriptService/HD Admin/Core/MainModule/Value/Packages/.pesde/elttob_fusion@0.3.0/fusion/Animation/Tween.luau
+  https://elttob.uk/Fusion/0.3/api-reference/general/errors/#  in scripts/ServerScriptService/HD Admin/Core/MainModule/Value/Packages/.pesde/elttob_fusion@0.3.0/fusion/External.luau, scripts/ServerScriptService/HD Admin/Core/MainModule/Value/Packages/.pesde/elttob_fusion@0.3.0/fusion/Logging/formatError.luau
+  https://elttob.uk/Fusion/0.3/api-reference/state/members/forkeys/  in scripts/ServerScriptService/HD Admin/Core/MainModule/Value/Packages/.pesde/elttob_fusion@0.3.0/fusion/State/ForKeys.luau
+  https://elttob.uk/Fusion/0.3/api-reference/state/members/forpairs/  in scripts/ServerScriptService/HD Admin/Core/MainModule/Value/Packages/.pesde/elttob_fusion@0.3.0/fusion/State/ForPairs.luau
+  https://elttob.uk/Fusion/0.3/api-reference/state/members/forvalues/  in scripts/ServerScriptService/HD Admin/Core/MainModule/Value/Packages/.pesde/elttob_fusion@0.3.0/fusion/State/ForValues.luau
+  https://elttob.uk/Fusion/0.3/api-reference/state/members/peek/  in scripts/ServerScriptService/HD Admin/Core/MainModule/Value/Packages/.pesde/elttob_fusion@0.3.0/fusion/State/peek.luau
+  https://elttob.uk/Fusion/0.3/api-reference/state/types/computed/  in scripts/ServerScriptService/HD Admin/Core/MainModule/Value/Packages/.pesde/elttob_fusion@0.3.0/fusion/State/Computed.luau
+  https://elttob.uk/Fusion/0.3/api-reference/state/types/value/  in scripts/ServerScriptService/HD Admin/Core/MainModule/Value/Packages/.pesde/elttob_fusion@0.3.0/fusion/State/Value.luau
+  https://elttob.uk/Fusion/0.3/tutorials/best-practices/optimisation/#similarity  in scripts/ServerScriptService/HD Admin/Core/MainModule/Value/Packages/.pesde/elttob_fusion@0.3.0/fusion/Utility/isSimilar.luau
+  https://elttob.uk/Fusion/0.3/tutorials/best-practices/sharing-values/?h=contextuals#contextuals  in scripts/ServerScriptService/HD Admin/Core/MainModule/Value/Packages/.pesde/imavafe_onyx-ui@1.0.2/onyx-ui/Themer.luau
+  https://fluff.blog/2024/04/16/monotonic-painting.html  in scripts/ServerScriptService/HD Admin/Core/MainModule/Value/Packages/.pesde/elttob_fusion@0.3.0/fusion/Graph/change.luau, scripts/ServerScriptService/HD Admin/Core/MainModule/Value/Packages/.pesde/elttob_fusion@0.3.0/fusion/Graph/evaluate.luau
+  https://fluff.blog/2024/07/14/glitches-in-dynamic-reactive-graphs.html  in scripts/ServerScriptService/HD Admin/Core/MainModule/Value/Packages/.pesde/elttob_fusion@0.3.0/fusion/Graph/change.luau
+  https://github.com/1ForeverHD/TopbarPlus  in scripts/ServerScriptService/HD Admin/Core/MainModule/Value/Packages/.pesde/1foreverhd_topbarplus@3.4.0/topbarplus/Attribute.luau
+  https://github.com/Epix-Incorporated/Adonis/wiki  in scripts/ServerScriptService/Adonis_Loader/Config/API.luau
+  https://github.com/Epix-Incorporated/Adonis/wiki/Guide:-Creating-a-theme  in scripts/ServerScriptService/Adonis_Loader/Config/Themes/README.luau
+  https://github.com/F3XTeam/RBX-Try-Library/blob/master/README.md  in scripts/ServerScriptService/HD Admin/Core/MainModule/Value/Modules/Internal/Commands/ModPack/Tool/Building Tools/Libraries/Try.luau
+  https://github.com/ImAvafe/OnyxUI/blob/main/src/Themer/ThemeSpec.luau  in scripts/ServerScriptService/HD Admin/Core/MainModule/Value/Packages/.pesde/imavafe_onyx-ui@1.0.2/onyx-ui/Themer.luau
+  https://github.com/RoStrap/Helper#make  in scripts/ServerScriptService/HD Admin/Core/MainModule/Value/Modules/Internal/Commands/ModPack/Tool/Building Tools/Libraries/Make.luau
+  https://github.com/Roblox/roact/issues/259  in scripts/ServerScriptService/HD Admin/Core/MainModule/Value/Modules/Internal/Commands/ModPack/Tool/Building Tools/Vendor/Roact/createContext.spec.luau
+  https://github.com/UpliftGames/wally-index  in scripts/ReplicatedStorage/Library/Modules/Packages/_Index/mattschrubb_zoneplus@3.2.0/zoneplus/wally.luau, scripts/ReplicatedStorage/Library/Modules/Packages/_Index/sleitnick_buffer-util@0.3.1/buffer-util/wally.luau, scripts/ReplicatedStorage/Library/Modules/Packages/_Index/sleitnick_component@2.4.8/component/wally.luau
+  https://github.com/buildthomas/Demojify/blob/master/LICENSE  in scripts/ServerScriptService/HD Admin/Core/MainModule/Value/Modules/Serializer/Demojify.luau
+  https://github.com/cliambrown/contrast/blob/master/src/apca.js  in scripts/ServerScriptService/HD Admin/Core/MainModule/Value/Packages/.pesde/csqrl_colour-utils@1.4.1/colour-utils/APCA/GetContrastRatio.luau
+  https://github.com/cxmeel/colour-utils  in scripts/ServerScriptService/HD Admin/Core/MainModule/Value/Packages/.pesde/imavafe_onyx-ui@1.0.2/onyx-ui/Util/Emphasize.luau
+  https://github.com/nanoblox/hd-admin/blob/main/LICENSE.md  in scripts/ServerScriptService/HD Admin/Core/MainModule/LICENSE.luau, scripts/ServerScriptService/HD Admin/Core/MainModule/Value/Services/Commands/Booster.luau
+  https://github.com/skratchdot/color-blind/blob/master/lib/blind.js  in scripts/ServerScriptService/HD Admin/Core/MainModule/Value/Packages/.pesde/csqrl_colour-utils@1.4.1/colour-utils/Blind/Simulate.luau
+  https://google.com  in scripts/ServerScriptService/HD Admin/Core/MainModule/Value/Modules/Internal/Commands/ModPack/Tool/Building Tools/SyncAPI/SyncModule.luau
+  https://i.imgur.com/VitHdC1.gif  in scripts/ServerScriptService/HD Admin/Core/MainModule/Value/Packages/.pesde/1foreverhd_topbarplus@3.4.0/topbarplus/Utility.luau
+  https://lua.expert/  in scripts/ReplicatedFirst/UserGenerated.luau, scripts/ReplicatedFirst/UserGenerated/Analytics.server.luau, scripts/ReplicatedStorage/AssetDnaProductResolver.luau
+  https://reactjs.org/docs/composition-vs-inheritance.html  in scripts/ServerScriptService/HD Admin/Core/MainModule/Value/Modules/Internal/Commands/ModPack/Tool/Building Tools/Vendor/Roact/Component.luau
+  https://rostrap.github.io/Libraries/Debug/  in scripts/ServerScriptService/HD Admin/Core/MainModule/Value/Modules/Internal/Commands/ModPack/Tool/Building Tools/Libraries/Debug.luau
+  https://stackoverflow.com/a/69411415  in scripts/ServerScriptService/HD Admin/Core/MainModule/Value/Packages/.pesde/csqrl_colour-utils@1.4.1/colour-utils/APCA/GetContrastRatio.luau
+  https://tailwindcss.com/docs/customizing-colors#default-color-palette  in scripts/ServerScriptService/HD Admin/Core/MainModule/Value/Packages/.pesde/imavafe_onyx-ui@1.0.2/onyx-ui/Util/Colors.luau
+  https://w3c.github.io/silver/guidelines/methods/Method-font-characteristic-contrast.html#section3  in scripts/ServerScriptService/HD Admin/Core/MainModule/Value/Packages/.pesde/csqrl_colour-utils@1.4.1/colour-utils/APCA/GetContrastRatio.luau
+  https://www.roblox.com/communities/4676369/HD-Admin  in scripts/ServerScriptService/HD Admin/Core/MainModule/Value/Services/Commands/Booster.luau
+  https://www.roblox.com/headshot-thumbnail/image?userId=  in scripts/ServerScriptService/HD Admin/Core/MainModule/Value/Controllers/UI/Components/ItemSelector.luau, scripts/ServerScriptService/HD Admin/Core/MainModule/Value/Controllers/UI/Config/SettingsRole.luau
+  https://www.roblox.com/headshot-thumbnail/image?userId={userId}&width=420&height=420&format=png`  in scripts/ServerScriptService/HD Admin/Core/MainModule/Value/Modules/PlayerUtil/getUserInfoAsync.luau

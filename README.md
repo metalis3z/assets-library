@@ -1,7 +1,7 @@
 # Roblox asset library (from D:\Rodev\template and D:\Rodev\raw-game)
 
-Assets cut out of 30 Roblox places and kits (17 from `D:\Rodev\template`, 13 added 2026-10-30 from
-`D:\Rodev\raw-game`): every UI screen, the whole map, every model, VFX set, material variant,
+Assets cut out of 38 Roblox places and kits (17 from `D:\Rodev\template`, 13 added 2026-10-30 from
+`D:\Rodev\raw-game`, 8 from `Downloads\need_unpack` on 2026-10-31 and 2026-11-01): every UI screen, the whole map, every model, VFX set, material variant,
 animation (KeyframeSequence) and sound list, plus measured quality numbers for each game.
 Built by `D:\Rodev\tools\rbxdump\extract_library.py`; the skill `roblox-template-library` explains how to
 use it while building a game.
@@ -122,8 +122,7 @@ python -I D:\Rodev\tools\rbxdump\rbxdump.py <files in D:\Rodev\raw-game> --out D
 python -I D:\Rodev\tools\rbxdump\extract_library.py <files in D:\Rodev\raw-game> --out D:\Rodev\asset-library
 ```
 
-## Batch 2026-10-31 (from `Downloads
-eed_unpack`)
+## Batch 2026-10-31 (from `Downloads\need_unpack`)
 
 Seven files: Tower Of Hell, RIVALS (modded), The Rake (kill test), Work at a Pizza Place, a gore game leak,
 and two model packs (100 Weapons Models by mtsowiks: 477 models; Forest Pack by slbr: 56 models).
@@ -146,3 +145,23 @@ inside Parts and welds that `require()` Creator Store modules ("antiexploit"/"an
 Adonis admin loader with `loadstring`. Work at a Pizza Place has 3 HIGH flags (HD Admin loader `require` by
 id, hidden `require` in `Main` and `GoogleAnalytics`). RIVALS, the gore game, Tower Of Hell and the packs
 have none. The `.rbxm` packs carry none of that code; `source/scripts` and `source/original` do.
+
+## Batch 2026-11-01 (from `Downloads\need_unpack`)
+
+Three places. One is a new game, two are other versions of games already here and were merged:
+
+- **Catalogue Avatar Creator** (`catalogue-avatar-creator/`, new): avatar editor / catalog browser, 146 UI
+  packs, 41 models, full `source/`.
+- **SAE LATEST** = a later build of **Steal an Egg**, merged into `steal-an-egg/`: 681 new packs (49 new
+  StarterGui screens), 230 packs that differ from the Beta build kept side by side as `<name>__latest.rbxm`
+  (including the SAE map `map/workspace__latest.rbxm`), +108 animation ids, +105 sound ids, and the SAE
+  source in `source__latest/`. The Beta build was re-extracted with the current tool, which added 8 packs it
+  had missed. Details and the file list: `steal-an-egg/README.md`, `steal-an-egg/merge-report.json`.
+- **Grow A Garden 2 -** = the same place as `grow-a-garden-2/` (same assets and scripts, newer save format,
+  5 empty services). The packs were kept; its full source was added as `grow-a-garden-2/source/`.
+
+Checks: every non-code instance of all three places is in a pack (`coverage.json`), and every mesh,
+texture, image, sound and animation id of each source place (both versions for the merged games) was found
+in the packs. The top-level `catalog.jsonl` was rebuilt from the per-game catalogs, which also fixed 47
+entries that still pointed at the old paths of the broken Steal an Egg eggs (now in `models/_broken/`).
+SAE's 59 HIGH flags are product configs that `require()` a computed path, not backdoors.

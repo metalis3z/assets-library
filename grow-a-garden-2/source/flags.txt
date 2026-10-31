@@ -1,0 +1,57 @@
+Automatic scan. HIGH = review before publishing; MED = check what it does; INFO = context.
+
+[MED] scripts/ServerScriptService/GameServer.server.luau lines 123
+       HttpService request (calls an outside server)
+[MED] scripts/ServerScriptService/MailboxService.server.luau lines 85
+       HttpService request (calls an outside server)
+[MED] scripts/ServerScriptService/ServerPackages/_Index/evaera_cmdr@1.12.0/cmdr/BuiltInCommands/Debug/fetchServer.luau lines 5
+       HttpService request (calls an outside server)
+[MED] scripts/ServerScriptService/ServerPackages/_Index/lm-loleris_profilestore@1.0.3/profilestore.luau lines 618,1283,1732,2018
+       HttpService request (calls an outside server)
+
+Monetization ids found in code (gamepass / product). Replace with your own:
+  1875843847  in scripts/ServerScriptService/PlantService.server.luau, scripts/StarterGui/Rainbow Shovel/RainbowShovel/RainbowShovel.client.luau, scripts/StarterPack/Shovel Rainbow/RainbowShovelClient.client.luau
+  3604750901  in scripts/ReplicatedStorage/SharedModules/ProductIds.luau
+  3604750912  in scripts/ReplicatedStorage/SharedModules/ProductIds.luau
+  3604750934  in scripts/ReplicatedStorage/SharedModules/ProductIds.luau
+  3604751042  in scripts/ReplicatedStorage/SharedModules/ProductIds.luau
+  3604751103  in scripts/ReplicatedStorage/SharedModules/ProductIds.luau
+  3604751107  in scripts/ReplicatedStorage/SharedModules/ProductIds.luau
+  3604751171  in scripts/ReplicatedStorage/SharedModules/ProductIds.luau
+  3604751196  in scripts/ReplicatedStorage/SharedModules/ProductIds.luau
+  3604751215  in scripts/ReplicatedStorage/SharedModules/ProductIds.luau
+  3604751294  in scripts/ReplicatedStorage/SharedModules/ProductIds.luau
+  3604751307  in scripts/ReplicatedStorage/SharedModules/ProductIds.luau
+  3604751334  in scripts/ReplicatedStorage/SharedModules/ProductIds.luau
+  3604751353  in scripts/ReplicatedStorage/SharedModules/ProductIds.luau
+  3604758433  in scripts/ReplicatedStorage/SharedModules/ProductIds.luau
+  3604758508  in scripts/ReplicatedStorage/SharedModules/MultiplierProductIds.luau
+  3604758545  in scripts/ReplicatedStorage/SharedModules/MultiplierProductIds.luau
+  3604758558  in scripts/ReplicatedStorage/SharedModules/MultiplierProductIds.luau
+  3604758580  in scripts/ReplicatedStorage/SharedModules/MultiplierProductIds.luau
+  3604758631  in scripts/ReplicatedStorage/SharedModules/MultiplierProductIds.luau
+  3604758708  in scripts/ReplicatedStorage/SharedModules/MultiplierProductIds.luau
+  3604763438  in scripts/ReplicatedStorage/SharedModules/MultiplierProductIds.luau
+  3604763473  in scripts/ReplicatedStorage/SharedModules/MultiplierProductIds.luau
+  3604763509  in scripts/ReplicatedStorage/SharedModules/MultiplierProductIds.luau
+  3604763543  in scripts/ReplicatedStorage/SharedModules/MultiplierProductIds.luau
+  3604763606  in scripts/ReplicatedStorage/SharedModules/MultiplierProductIds.luau
+  3604763636  in scripts/ReplicatedStorage/SharedModules/MultiplierProductIds.luau
+  3604763684  in scripts/ReplicatedStorage/SharedModules/MultiplierProductIds.luau
+  3604763724  in scripts/ReplicatedStorage/SharedModules/MultiplierProductIds.luau
+  3604763757  in scripts/ReplicatedStorage/SharedModules/MultiplierProductIds.luau
+  3604763791  in scripts/ReplicatedStorage/SharedModules/MultiplierProductIds.luau
+  3604770080  in scripts/ReplicatedStorage/SharedModules/ProductIds.luau
+  3604869556  in scripts/ReplicatedStorage/SharedModules/ProductIds.luau
+  3604872275  in scripts/ReplicatedStorage/SharedModules/ProductIds.luau
+  50000000  in scripts/ServerScriptService/PlantService.server.luau
+
+Outside URLs in code:
+  https://devforum.roblox.com/t/lua-signal-class-comparison-optimal-goodsignal-class/1387063  in scripts/ServerScriptService/ServerPackages/_Index/lm-loleris_profilestore@1.0.3/profilestore.luau
+  https://discord.gg/wx4ThpAsmw  in scripts/ReplicatedStorage/SharedData/PetTypes.luau, scripts/ReplicatedStorage/SharedModules/PetModules.luau, scripts/ReplicatedStorage/SharedModules/PetModules/Bee.luau
+  https://discord.gg/wx4ThpAsmw.  in scripts/README.server.luau
+  https://eryn.io/Cmdr/guide/Hooks.html  in scripts/ReplicatedStorage/CmdrClient/Shared/Dispatcher.luau, scripts/ServerScriptService/ServerPackages/_Index/evaera_cmdr@1.12.0/cmdr/Shared/Dispatcher.luau
+  https://gist.github.com/stravant/b75a322e0919d60dde8a0316d1f09d2f  in scripts/ServerScriptService/ServerPackages/_Index/lm-loleris_profilestore@1.0.3/profilestore.luau
+  https://github.com/UpliftGames/wally-index  in scripts/ReplicatedStorage/ClientModules/Trove/wally.luau
+  https://lua.expert/  in scripts/MaterialService/ToolMaterials/README.luau, scripts/ReplicatedStorage/SharedData/PetTypes.luau, scripts/ReplicatedStorage/SharedModules/PetModules.luau
+  https://www.roblox.com/thumbs/asset.ashx?assetid=  in scripts/StarterPlayer/StarterPlayerScripts/Controllers/DevProductController.luau

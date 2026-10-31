@@ -1,6 +1,6 @@
 # Quality benchmarks
 
-Measured from the 17 places. "Benchmark" rows use the games with at least 500 GUI objects (+1 Drill & Mine, +1 Shrink Keyboard Escape, BIG Paintball! Classic, Bee Swarm Simulator (remake), Bite By Night, Driving Empire, Jujutsu Shenanigans, Pick a Side, Keyboard Trading V2, Steal an Egg, Doors (fully scripted), Drive For Brainrots, Grow a Garden 2 (GAG2), Mine A Brainrot, Murder Mystery 2, Punching Simulator, Scooter Obby, Steal a Brainrot, "Evade" (brainrot game), 100 Weapons Models (mtsowiks), RIVALS (modded), Work at a Pizza Place). Per-game detail: `<game>/reference.md` and `<game>/metrics.json`.
+Measured from the 17 places. "Benchmark" rows use the games with at least 500 GUI objects (+1 Drill & Mine, +1 Shrink Keyboard Escape, BIG Paintball! Classic, Bee Swarm Simulator (remake), Bite By Night, Driving Empire, Jujutsu Shenanigans, Pick a Side, Keyboard Trading V2, Steal an Egg, Doors (fully scripted), Drive For Brainrots, Grow a Garden 2 (GAG2), Mine A Brainrot, Murder Mystery 2, Punching Simulator, Scooter Obby, Steal a Brainrot, "Evade" (brainrot game), 100 Weapons Models (mtsowiks), RIVALS (modded), Work at a Pizza Place, Catalogue Avatar Creator). Per-game detail: `<game>/reference.md` and `<game>/metrics.json`.
 
 ## 1. UI construction
 
@@ -37,28 +37,29 @@ Measured from the 17 places. "Benchmark" rows use the games with at least 500 GU
 | RIVALS (modded) | 11 | 1269 | 92% | 95% | 6.0 | 12.7 | 3.2 | 1.5 | 36.1 | Rubik Bold (53), Rubik Heavy (41), Rubik Medium (35) |
 | The Rake (kill test) | 19 | 70 | 91% | 95% | 0.0 | 0.0 | 0.0 | 50.0 | 10.0 | - |
 | Work at a Pizza Place | 2 | 1242 | 41% | 22% | 0.0 | 0.0 | 0.0 | 5.6 | 16.7 | LegacyArial Regular (248), SourceSansPro Regular (217), SourceSansPro Bold (63) |
+| Catalogue Avatar Creator | 35 | 2489 | 92% | 60% | 12.1 | 1.7 | 25.2 | 12.5 | 14.1 | SourceSansPro Regular (336), Builder Sans SemiBold (212), Builder Sans Regular (158) |
 
 **Benchmark (commercial UIs):**
 
-- Scale-only sizes: 4.55 - 99.16 (median 94.56) %
-- TextScaled share: 0.0 - 1.0 (median 0.86)
-- UIStroke per 100 GUI objects: 0.0 - 66.2 (median 31.55)
-- UIGradient per 100: 0.0 - 37.6 (median 11.9)
-- UICorner per 100: 0.0 - 43.9 (median 3.25)
-- UIAspectRatioConstraint per 100: 0.0 - 35.7 (median 8.35)
-- ImageLabel per 100: 9.8 - 53.7 (median 24.6) (art-heavy UIs are image-built, not flat frames)
-- Unique UI images per game: 32 - 393 (median 113.5)
+- Scale-only sizes: 4.55 - 99.16 (median 92.49) %
+- TextScaled share: 0.0 - 1.0 (median 0.85)
+- UIStroke per 100 GUI objects: 0.0 - 66.2 (median 30.6)
+- UIGradient per 100: 0.0 - 37.6 (median 11.1)
+- UICorner per 100: 0.0 - 43.9 (median 3.3)
+- UIAspectRatioConstraint per 100: 0.0 - 35.7 (median 9.6)
+- ImageLabel per 100: 9.8 - 53.7 (median 23.6) (art-heavy UIs are image-built, not flat frames)
+- Unique UI images per game: 32 - 393 (median 107)
 
 ## 2. Fonts
 
 | Font (family + weight) | Uses | Games |
 |---|---:|---:|
-| SourceSansPro Bold | 5834 | 12 |
-| SourceSansPro Regular | 2959 | 22 |
+| SourceSansPro Bold | 5836 | 13 |
+| SourceSansPro Regular | 3295 | 23 |
 | GothamSSm ExtraBold | 2186 | 8 |
 | GothamSSm Heavy | 1708 | 13 |
 | FredokaOne Regular | 1316 | 16 |
-| LegacyArial Regular | 1097 | 13 |
+| LegacyArial Regular | 1135 | 14 |
 | GothamSSm Bold | 1094 | 16 |
 | ComicNeueAngular Bold | 955 | 3 |
 | Zekton Regular | 329 | 4 |
@@ -67,27 +68,27 @@ Measured from the 17 places. "Benchmark" rows use the games with at least 500 GU
 | Oswald Regular | 242 | 1 |
 | Arial Bold | 218 | 4 |
 | Finger Paint Regular | 212 | 1 |
+| Builder Sans SemiBold | 212 | 1 |
 | Rubik Bold | 209 | 2 |
 | font asset 12187370000 Bold | 201 | 1 |
 | DenkOne Regular | 173 | 1 |
+| Builder Sans Regular | 158 | 1 |
+| Builder Sans Medium | 132 | 1 |
 | ComicNeueAngular Regular | 122 | 4 |
 | Inconsolata Light | 122 | 1 |
 | Roboto Light | 118 | 1 |
+| Builder Sans Bold | 101 | 1 |
 | GothamSSm Regular | 91 | 6 |
-| GothamSSm Medium | 84 | 6 |
-| Nunito Regular | 76 | 1 |
-| BuilderSans Regular | 70 | 2 |
-| SourceSansPro Heavy | 67 | 2 |
 
 ## 3. Strokes and corners
 
 Stroke thickness (`px` = FixedSize, `scaled` = StrokeSizingMode ScaledSize, a fraction of the element):
 
-`3.0 px` ×3184, `2.0 px` ×1812, `0.05 scaled` ×1088, `4.0 px` ×911, `0.06 scaled` ×423, `5.0 px` ×374, `0.07 scaled` ×309, `0.04 scaled` ×269, `1.5 px` ×253, `1.0 px` ×239, `0.02 scaled` ×227, `0.1 scaled` ×211, `1.87 px` ×166, `3.74 px` ×159
+`3.0 px` ×3205, `2.0 px` ×1818, `0.05 scaled` ×1119, `4.0 px` ×911, `0.06 scaled` ×423, `5.0 px` ×374, `1.5 px` ×335, `0.07 scaled` ×309, `0.04 scaled` ×285, `1.0 px` ×261, `0.02 scaled` ×227, `0.1 scaled` ×211, `0.03 scaled` ×172, `0.01 scaled` ×170
 
 Corner radius (`{scale,offset}`; `{1,0}` = pill/circle):
 
-`{1.0,0}` ×878, `{0.0,8}` ×797, `{0.2,0}` ×305, `{0.1,0}` ×300, `{0.0,4}` ×293, `{0.05,0}` ×154, `{0.5,0}` ×123, `{0.0,2}` ×107, `{0.15,0}` ×104, `{0.0,6}` ×102, `{0.0,3}` ×87, `{0.02,0}` ×65, `{0.3,0}` ×61, `{0.25,0}` ×57
+`{1.0,0}` ×1021, `{0.0,8}` ×877, `{0.2,0}` ×340, `{0.1,0}` ×322, `{0.0,4}` ×293, `{0.05,0}` ×154, `{0.3,0}` ×143, `{0.15,0}` ×132, `{0.5,0}` ×123, `{0.0,2}` ×107, `{0.25,0}` ×105, `{0.0,6}` ×102, `{0.0,3}` ×87, `{0.02,0}` ×65
 
 ## 4. Palettes
 
@@ -124,6 +125,7 @@ Corner radius (`{scale,offset}`; `{1,0}` = pill/circle):
 | RIVALS (modded) | `#00ff00` `#ff00ff` `#0000ff` `#ababab` `#000000` `#ab8a48` `#ffffff` | `#ffffff` `#000000` `#1bd09d` `#728cff` | `#000000` `#062d21` `#ffffff` `#1f1f1f` |
 | The Rake (kill test) | `#000000` `#323232` `#959595` `#313135` `#444444` `#242427` | `#ffffff` `#00ff00` `#ff0000` `#000000` | - |
 | Work at a Pizza Place | `#1b2a35` `#ffffff` `#1f1f1f` `#a3a2a5` `#000000` `#0d69ac` `#111111` | `#ffffff` `#1b2a35` `#000000` `#f7e559` | - |
+| Catalogue Avatar Creator | `#212227` `#2b2d33` `#ffffff` `#121215` `#fdfdff` `#6f7075` `#000000` | `#000000` `#ffffff` `#f7f7f8` `#edeeee` | `#46444d` `#f7f5ff` `#ffffff` `#212227` |
 
 ## 5. Maps and builds
 
@@ -163,6 +165,7 @@ Corner radius (`{scale,offset}`; `{1,0}` = pill/circle):
 | The Rake (kill test) | 2809 | 7% | 238 | 20 | 20 | 0 | 1 | 5 | 418x66x371 | CorrodedMetal (1071), SmoothPlastic (562), Plastic (315) |
 | Work at a Pizza Place | 4903 | 0% | 25 | 36 | 2 | 0 | 106 | 0 | 1707x72x1014 | Brick (1593), Wood (1019), CorrodedMetal (542) |
 | Gore game (leak) | 941 | 16% | 2 | 0 | 0 | 126 | 1 | 0 | 360x99x167 | SmoothPlastic (570), Plastic (241), Concrete (77) |
+| Catalogue Avatar Creator | 5 | 20% | 0 | 0 | 0 | 0 | 0 | 0 | - | Plastic (5) |
 
 ## 6. Lighting and post-processing
 
@@ -201,24 +204,25 @@ Corner radius (`{scale,offset}`; `{1,0}` = pill/circle):
 | The Rake (kill test) | ShadowMap | 2.0 | 14:00:00 | `#4b4b4b` | `#4b4b4b` | 0.0 | 0.0 | 0.23 | 0.1 | ColorCorrection Brig=0.0 Cont=0.0 Satu=0.0 Tint=#ffffff; ColorCorrection Brig=0.0 Cont=0.0 Satu=0.0 Tint=#ffffff; ColorCorrection Brig=0.0 Cont=0.0 Satu=0.0 Tint=#ffffff; ColorCorrection Brig=0.0 Cont=0.0 Satu=0.0 Tint=#ffffff; ColorCorrection Brig=0.0 Cont=0.0 Satu=0.0 Tint=#ffffff; ColorCorrection Brig=0.0 Cont=0.0 Satu=0.0 Tint=#ffffff; ColorCorrection Brig=0.0 Cont=0.0 Satu=0.0 Tint=#ffffff; ColorCorrection Brig=0.0 Cont=0.0 Satu=0.0 Tint=#ffffff; SunRays Inte=4.0 Spre=1.0; ColorCorrection Brig=0.0 Cont=0.0 Satu=0.0 Tint=#ffffff; ColorCorrection Brig=0.0 Cont=0.0 Satu=0.0 Tint=#ffffff; ColorCorrection Brig=0.0 Cont=0.0 Satu=-0.8 Tint=#ffffff; ColorCorrection Brig=0.0 Cont=0.0 Satu=0.0 Tint=#ffffff; ColorCorrection Brig=0.0 Cont=0.0 Satu=0.0 Tint=#ffffff |
 | Work at a Pizza Place | Voxel | 1.9812 | 07:50:00 | `#594b33` | `#ffcdb0` | 0.0 | 0.0 | 0.0 | 0.5 | ColorCorrection Brig=0.0 Cont=0.1 Satu=0.1 Tint=#ffecd5; SunRays Inte=0.2 Spre=1.0; Bloom Inte=0.0 Size=24.0 Thre=0.95 |
 | Gore game (leak) | Future | 3.5 | 15:00:00 | `#64846c` | `#7f805d` | 0.5 | 1.0 | 0.0 | 0.02 | Atmosphere Dens=0.348 Haze=0.0 Glar=0.63; ColorCorrection Brig=0.0 Cont=0.0 Satu=0.0 Tint=#e7fff3; DepthOfField FarI=1.0; SunRays Inte=0.126 Spre=0.147 |
+| Catalogue Avatar Creator | ShadowMap | 3.0 | 14:30:00 | `#464646` | `#464646` | 1.0 | 1.0 | 0.0 | 0.2 | ColorCorrection Brig=0.0 Cont=0.0 Satu=0.0 Tint=#ffffff; Bloom Inte=1.0 Size=24.0 Thre=2.0; SunRays Inte=0.01 Spre=0.1; Atmosphere Dens=0.3 Haze=0.0 Glar=0.0 |
 
 **Observed ranges for enabled post effects:**
 
-- Atmosphere.Density: 0.0 - 0.43 (median 0.26) across 15
-- Atmosphere.Glare: 0.0 - 10.0 (median 0.0) across 15
-- Atmosphere.Haze: 0.0 - 10.0 (median 0.0) across 15
-- BloomEffect.Intensity: 0.0 - 3.0 (median 0.5) across 15
-- BloomEffect.Size: 0.0 - 44444.0 (median 24.0) across 15
-- BloomEffect.Threshold: 0.0 - 5.0 (median 2.0) across 15
+- Atmosphere.Density: 0.0 - 0.43 (median 0.28) across 16
+- Atmosphere.Glare: 0.0 - 10.0 (median 0.0) across 16
+- Atmosphere.Haze: 0.0 - 10.0 (median 0.0) across 16
+- BloomEffect.Intensity: 0.0 - 3.0 (median 0.75) across 16
+- BloomEffect.Size: 0.0 - 44444.0 (median 24.0) across 16
+- BloomEffect.Threshold: 0.0 - 5.0 (median 2.0) across 16
 - BlurEffect.Size: 0.0 - 8.0 (median 0.0) across 14
-- ColorCorrectionEffect.Brightness: 0.0 - 0.3 (median 0.0) across 43
-- ColorCorrectionEffect.Contrast: 0.0 - 0.3 (median 0.0) across 43
-- ColorCorrectionEffect.Saturation: -0.8 - 1.0 (median 0.0) across 43
+- ColorCorrectionEffect.Brightness: 0.0 - 0.3 (median 0.0) across 44
+- ColorCorrectionEffect.Contrast: 0.0 - 0.3 (median 0.0) across 44
+- ColorCorrectionEffect.Saturation: -0.8 - 1.0 (median 0.0) across 44
 - DepthOfFieldEffect.FarIntensity: 0.0 - 1.0 (median 0.27) across 5
-- SunRaysEffect.Intensity: 0.0 - 4.0 (median 0.05) across 17
-- SunRaysEffect.Spread: 0.1 - 1.0 (median 0.5) across 17
+- SunRaysEffect.Intensity: 0.0 - 4.0 (median 0.03) across 18
+- SunRaysEffect.Spread: 0.1 - 1.0 (median 0.43) across 18
 
-Technology used: {'ShadowMap': 16, 'Voxel': 8, 'Future': 5, None: 2, 'Compatibility': 2}
+Technology used: {'ShadowMap': 17, 'Voxel': 8, 'Future': 5, None: 2, 'Compatibility': 2}
 
 ## 7. Model library
 
@@ -237,7 +241,7 @@ Technology used: {'ShadowMap': 16, 'Voxel': 8, 'Future': 5, None: 2, 'Compatibil
 | The Dusty Trip (framework) | 4 | 0 | 3.5 | 1.0 | 0 | 0 | 0 | 1 |
 | +1 NeeDoh Escape | 40 | 9 | 8.5 | 2.0 | 3 | 0 | 0 | 0 |
 | Keyboard Trading V2 | 354 | 13 | 9.0 | 1.0 | 139 | 91 | 61 | 18 |
-| Steal an Egg | 1649 | 59 | 7 | 5 | 804 | 283 | 172 | 54 |
+| Steal an Egg | 2104 | 66 | 8.0 | 5.0 | 943 | 359 | 272 | 121 |
 | Animal Hospital | 315 | 15 | 11 | 4 | 112 | 70 | 4 | 29 |
 | Pass The Bomb (Tower) | 15 | 4 | 5 | 1 | 3 | 1 | 0 | 0 |
 | Doors (fully scripted) | 332 | 8 | 229.5 | 41.0 | 125 | 121 | 29 | 42 |
@@ -260,6 +264,7 @@ Technology used: {'ShadowMap': 16, 'Voxel': 8, 'Future': 5, None: 2, 'Compatibil
 | The Rake (kill test) | 149 | 3 | 70 | 7 | 27 | 39 | 10 | 97 |
 | Work at a Pizza Place | 538 | 30 | 6.0 | 2.0 | 1 | 23 | 2 | 23 |
 | Gore game (leak) | 85 | 4 | 11 | 3 | 54 | 21 | 6 | 5 |
+| Catalogue Avatar Creator | 26 | 9 | 3.5 | 2.0 | 5 | 2 | 2 | 0 |
 
 ## 8. Lobbies, spawns and hubs
 

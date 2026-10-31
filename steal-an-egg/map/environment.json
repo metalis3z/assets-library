@@ -112,6 +112,218 @@
   "DopplerScale": 1.0,
   "RolloffScale": 1.0
  },
+ "materialservice": {
+  "AsphaltName": "Asphalt",
+  "BasaltName": "Basalt",
+  "BrickName": "Brick",
+  "CardboardName": "Cardboard",
+  "CarpetName": "Carpet",
+  "CeramicTilesName": "CeramicTiles",
+  "ClayRoofTilesName": "ClayRoofTiles",
+  "CobblestoneName": "Cobblestone",
+  "ConcreteName": "Concrete",
+  "CorrodedMetalName": "CorrodedMetal",
+  "CrackedLavaName": "CrackedLava",
+  "DefinesCapabilities": false,
+  "DiamondPlateName": "DiamondPlate",
+  "FabricName": "Fabric",
+  "FoilName": "Foil",
+  "GlacierName": "Glacier",
+  "GraniteName": "Granite",
+  "GrassName": "Grass",
+  "GroundName": "Ground",
+  "IceName": "Ice",
+  "LeafyGrassName": "LeafyGrass",
+  "LeatherName": "Leather",
+  "LimestoneName": "Limestone",
+  "MarbleName": "Marble",
+  "MetalName": "Metal",
+  "MudName": "Mud",
+  "Name": "MaterialService",
+  "PavementName": "Pavement",
+  "PebbleName": "Pebble",
+  "PlasterName": "Plaster",
+  "PlasticName": "Plastic",
+  "RockName": "Rock",
+  "RoofShinglesName": "RoofShingles",
+  "RubberName": "Rubber",
+  "SaltName": "Salt",
+  "SandName": "Sand",
+  "SandstoneName": "Sandstone",
+  "SlateName": "Slate",
+  "SmoothPlasticName": "SmoothPlastic",
+  "SnowName": "Snow",
+  "Use2022MaterialsXml": true,
+  "WoodName": "Wood",
+  "WoodPlanksName": "WoodPlanks"
+ },
+ "material_variants": [
+  {
+   "name": "Studs 2x2 Plastic",
+   "path": "MaterialService.Studs 2x2 Plastic",
+   "base": "Plastic"
+  },
+  {
+   "name": "Studs",
+   "path": "MaterialService.Studs",
+   "base": "Plastic"
+  },
+  {
+   "name": "StudsMetallic",
+   "path": "MaterialService.StudsMetallic",
+   "base": "Plastic"
+  },
+  {
+   "name": "PinkSpaceVoid",
+   "path": "MaterialService.PinkSpaceVoid",
+   "base": "Brick"
+  },
+  {
+   "name": "Lava 1",
+   "path": "MaterialService.Lava 1",
+   "base": "CrackedLava"
+  },
+  {
+   "name": "Inlet",
+   "path": "MaterialService.Inlet",
+   "base": "Plastic"
+  },
+  {
+   "name": "Custom Stud Small",
+   "path": "MaterialService.Custom Stud Small",
+   "base": "SmoothPlastic"
+  },
+  {
+   "name": "Custom Stud",
+   "path": "MaterialService.Custom Stud",
+   "base": "SmoothPlastic"
+  },
+  {
+   "name": "2022 Weld",
+   "path": "MaterialService.2022 Weld",
+   "base": "Glacier"
+  },
+  {
+   "name": "2022 Universal",
+   "path": "MaterialService.2022 Universal",
+   "base": "Glacier"
+  },
+  {
+   "name": "2022 Stud S",
+   "path": "MaterialService.2022 Stud S",
+   "base": "Glacier"
+  },
+  {
+   "name": "2022 Stud",
+   "path": "MaterialService.2022 Stud",
+   "base": "SmoothPlastic"
+  },
+  {
+   "name": "2008 Weld",
+   "path": "MaterialService.2008 Weld",
+   "base": "Plastic"
+  },
+  {
+   "name": "2",
+   "path": "MaterialService.2",
+   "base": "Plastic"
+  },
+  {
+   "name": "stud4",
+   "path": "MaterialService.stud4",
+   "base": "Glacier"
+  },
+  {
+   "name": "stud3",
+   "path": "MaterialService.stud3",
+   "base": "Glacier"
+  },
+  {
+   "name": "stud2",
+   "path": "MaterialService.stud2",
+   "base": "Glacier"
+  },
+  {
+   "name": "small stud",
+   "path": "MaterialService.small stud",
+   "base": "Glacier"
+  },
+  {
+   "name": "egg Stud",
+   "path": "MaterialService.egg Stud",
+   "base": "SmoothPlastic"
+  },
+  {
+   "name": "Weld 2x2 Smooth",
+   "path": "MaterialService.Weld 2x2 Smooth",
+   "base": "Plastic"
+  },
+  {
+   "name": "StudsNeon",
+   "path": "MaterialService.StudsNeon",
+   "base": "Plastic"
+  },
+  {
+   "name": "Weld 2x2 Plastic",
+   "path": "MaterialService.Weld 2x2 Plastic",
+   "base": "Plastic"
+  },
+  {
+   "name": "Water",
+   "path": "MaterialService.Water",
+   "base": "Plastic"
+  },
+  {
+   "name": "Universal bIG Smooth",
+   "path": "MaterialService.Universal bIG Smooth",
+   "base": "Plastic"
+  },
+  {
+   "name": "Universal 2x2 Smooth",
+   "path": "MaterialService.Universal 2x2 Smooth",
+   "base": "Plastic"
+  },
+  {
+   "name": "StudsWithTile",
+   "path": "MaterialService.StudsWithTile",
+   "base": "Plastic"
+  },
+  {
+   "name": "StudsWeak",
+   "path": "MaterialService.StudsWeak",
+   "base": "Plastic"
+  },
+  {
+   "name": "Studs1",
+   "path": "MaterialService.Studs1",
+   "base": "Plastic"
+  },
+  {
+   "name": "Studs 4x4 Plastic",
+   "path": "MaterialService.Studs 4x4 Plastic",
+   "base": "Plastic"
+  },
+  {
+   "name": "Studs 2x2 Smooth",
+   "path": "MaterialService.Studs 2x2 Smooth",
+   "base": "Plastic"
+  },
+  {
+   "name": "StudsFractured",
+   "path": "MaterialService.StudsFractured",
+   "base": "CrackedLava"
+  },
+  {
+   "name": "StudsMetallic1",
+   "path": "MaterialService.StudsMetallic1",
+   "base": "Plastic"
+  },
+  {
+   "name": "StudsNeon1",
+   "path": "MaterialService.StudsNeon1",
+   "base": "Plastic"
+  }
+ ],
  "lighting": {
   "Ambient": "#dac79c",
   "Brightness": 2.5,

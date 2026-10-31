@@ -94,3 +94,37 @@ decoration (498), character (307), egg (219), vfx (205), map (190), cutscene (14
 | `ui/StarterPlayer/StarterPlayerScripts/Game/ProximityPromptScript/Steal.rbxm` | 16 | 0 |
 | `ui/StarterPlayer/StarterPlayerScripts/Game/ProximityPromptScript/RoundCarrySteal.rbxm` | 16 | 0 |
 | `ui/StarterPlayer/StarterPlayerScripts/Game/ProximityPromptScript/Sell.rbxm` | 16 | 0 |
+
+## Merged version: SAE LATEST (added 2026-11-01)
+
+`SLBR- VIP - SAE LATEST.rbxl` is a later build of Steal an Egg (new `Core_*` server, treadmills, gear shop,
+fuse machine, trading, rebirth; the Sakura / Monster / Dragon events of the Beta build are gone). It was
+extracted with the current tool and merged into this folder:
+
+- **681 new packs** (paths the Beta build does not have): 308 UI, 366 models, 7 animations. New StarterGui
+  screens: AdminPanel, BaseUpgradeTransitionGui, Click Effect, Codes, Damage, DistanceProgression, Elements,
+  Elements2, FollowRewardsUI, Fps, FreeGifts, FriendBoost, Friend_Notification, FuseMachine, GUIFX Holder,
+  GameResetTimer, GearShop, GiftNotification, GroupReward, GrowingEggList, LikeBoardGui, LikeTheGame,
+  LimitedStarterPackOffer, Money, Odds_UI, OfflineCashAndAssetLevelGrew, OfflineCashOnly, PetList, Rebirth,
+  Rewards, RewardsUI, RunButton, RunCharge, Shop, SpeedValue, StaticEffect, StealDnaMessage, TradeMessage,
+  TradePlayerList, TradeWindow, TreadmillClickX2, TreadmillShop, TreadmillSpeedShop, Troll, TutorialTapScreen,
+  Vignette, _MACHINES, _MISC, monetizationGUI.
+- **230 `__latest` packs**: same path as a Beta pack but a different model (other parts or asset ids), kept
+  side by side, e.g. `map/workspace__latest.rbxm` (the SAE map), `map/lighting__latest.rbxm`,
+  `map/environment__latest.json`, `ui/_StarterGui-all__latest.rbxm` (every SAE screen in one insert),
+  `audio/soundservice__latest.rbxm`.
+- **127 packs skipped**: same structure and asset ids as the Beta pack.
+- `animations/animation-ids.json` (+108) and `audio/sounds.json` (+105) gained the SAE ids, marked `"version": "latest"`.
+- Catalog entries from SAE carry `"version": "latest"`. `merge-report.json` lists every file by outcome.
+- `coverage__latest.json`: every non-code SAE instance is in a pack (only Camera, empty Terrain and the
+  InsertService hash are not). All 3,917 SAE asset ids (mesh, texture, image, sound, animation) were found in the packs.
+- `source__latest/`: every SAE script, tree, UI dump, remotes, asset ids, security scan and the original file.
+  The 59 HIGH flags in `source__latest/flags.txt` are product configs that `require()` a computed path, not backdoors.
+
+The Beta build was also re-extracted with the current tool: 8 packs it missed before were added
+(`map/materials.rbxm` and `_other.rbxm` leftovers) and `coverage.json` now covers it (164,879 of 165,115 instances
+packed; the rest are code, empty folders and services).
+
+Egg note: SAE eggs with the same names as the 21 broken ones in `models/_broken/` use different union asset
+ids, so they are kept as `models/ReplicatedStorage/Assets/Models/Eggs/<name>__latest.rbxm`. They were not
+opened in Studio; check that the egg body renders before using one.
